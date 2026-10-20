@@ -1,6 +1,7 @@
 # Agent Instructions for `colab-notebooks-for-teaching`
 
 This repository contains a curated collection of educational Jupyter/Colab notebooks used for teaching Machine Learning and Natural Language Processing at the University of Zurich (Institute of Computational Linguistics / Prof. Simon Clematide), notably supporting:
+
 - **ML4NLP 1** (Machine Learning for Natural Language Processing 1)
 - **Text Mining / Computational Linguistics**
 - Specialized research and seminar topics (Historical NLP / Impresso Project, Agentic RAG, Frontier LLM APIs)
@@ -26,33 +27,42 @@ Use this guide as the technical standard and map when adding, modifying, refacto
 
 ## 2. Notebook Catalog & Curricular Areas
 
-| Notebook | Primary Frameworks | Curricular Topic / Role | Notes / Status |
-| :--- | :--- | :--- | :--- |
-| **`BabyGradient.ipynb`** | SymPy, NumPy | Mathematical optimization; symbolic vs numerical gradients | Introductory optimization |
-| **`Reverse_Autodiff_Example_in_Tensorflow_and_Pytorch.ipynb`** | PyTorch, TensorFlow | Computational graphs; reverse-mode automatic differentiation | Direct comparative study |
-| **`pytorch_basics.ipynb`** | PyTorch | PyTorch tensors, slicing, broadcasting, device management | First-contact PyTorch tutorial |
-| **`pytorch_autograd_matrix.ipynb`** | PyTorch | Matrix-level autograd, vector-Jacobian products (VJP) | Mathematical foundations of autodiff |
-| **`Pragmatic_Gradients.ipynb`** | PyTorch | Optimization loops, gradient steps, manual vs optimizer updates | Practical autodiff mechanics |
-| **`xor_Logistic_Regression_With_PyTorch.ipynb`** | PyTorch, Matplotlib | The XOR problem: failure of linearity, feature engineering ($x_1 \cdot x_2$), MLP representation learning | **Current primary XOR notebook** (includes hidden layer space visualization) |
-| **`xor-handcrafted-ffnn.ipynb`** | NumPy | Handcrafted weights in a 2-layer network solving XOR | Conceptual precursor to backprop |
-| **`xor_Logistic_Regression_With_Autograd.ipynb`** | HIPS `autograd` | Legacy XOR logistic regression | **Deprecated** (superseded by PyTorch version) |
-| **`sklearn_text_classification.ipynb`** / **`text_classification.ipynb`** | scikit-learn | TF-IDF vectorization, Logistic Regression, Naive Bayes | Core classical NLP classification pipeline |
-| **`plot_document_clustering.ipynb`** | scikit-learn | Unsupervised document clustering (K-Means, evaluation) | Clustering and text representation |
-| **`notebooks/topic_modeling_sklearn.ipynb`** | scikit-learn, pyLDAvis | Topic modeling (LDA, NMF) on 20 Newsgroups with interactive visualization | Topic models |
-| **`word2vec_tensorflow.ipynb`** | TensorFlow | Continuous Skip-Gram model trained from scratch | Word representations from first principles |
-| **`openai_word_embeddings.ipynb`** / **`OpenAI_Embeddings_Visualization_Notebook.ipynb`** | OpenAI API, scikit-learn | Subword embeddings, multilingual geometry, dimensionality reduction | Modern dense representations |
-| **`BERT_for_Sentiment_Analysis_SC_FS26.ipynb`** | Hugging Face Transformers, PyTorch | Fine-tuning pretrained BERT for binary sentiment analysis | Core deep learning NLP paradigm |
-| **`sentiment-analysis-overview.ipynb`** / **`sentiment_analysis_overview.ipynb`** | NLTK, TextBlob, VADER, Flair, Transformers | Broad comparative benchmark of rule-based vs neural sentiment analyzers | Comprehensive overview |
-| **`sentiment_emotion_analysis.ipynb`** | NRCLex, Flair | Fine-grained emotion and sentiment classification | Lexicon vs neural comparison |
-| **`flair_verb_frame_tagging.ipynb`** | Flair | FrameNet semantic role labeling and verb frame extraction | Semantic parsing |
-| **`impresso_ner_displacy_visualization.ipynb`** | spaCy, displaCy | Named Entity Recognition (NER) visual analysis on historical newspapers | Impresso Project pipeline |
-| **`impresso_nel_minimal.ipynb`** / **`MGENRE_impresso_linking.ipynb`** | Hugging Face, mGENRE | Multilingual Named Entity Linking (NEL) using sequence-to-sequence models | Entity disambiguation |
-| **`floret-language-identification.ipynb`** | floret, Hugging Face | Compact subword-based language identification | FastText/floret compact embeddings |
-| **`g2p.ipynb`** | PyTorch / Seq2Seq | Neural grapheme-to-phoneme transduction | Sequence transduction |
-| **`openai-keyphrase-starter.ipynb`** / **`openai_image_description.ipynb`** | OpenAI API | Prompt engineering, structured extraction, multimodal prompting | LLM / VLM API interaction |
-| **`reasoning-model-conversation.ipynb`** | Transformers, PyTorch | Structured dialog extraction and serialization for reasoning models | Conversation formatting |
-| **`multi-document-agentic-rag_main.ipynb`** | LlamaIndex | Multi-document Agentic Retrieval-Augmented Generation (RAG) | Advanced agentic architectures |
-| **`colab-ai-text-mining.ipynb`** | Google GenAI SDK | AI-assisted text mining workflows | Applied GenAI |
+Repository structure rule: active teaching notebooks live at the repository root. Legacy or superseded copies belong in the `legacy/` folder; do not keep duplicate notebooks in nested directories unless there is a deliberate archival reason.
+
+| Notebook                                                                                  | Primary Frameworks                         | Curricular Topic / Role                                                                                   | Notes / Status                                                               |
+| :---------------------------------------------------------------------------------------- | :----------------------------------------- | :-------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
+| **`BabyGradient.ipynb`**                                                                  | SymPy, NumPy                               | Mathematical optimization; symbolic vs numerical gradients                                                | Introductory optimization                                                    |
+| **`Reverse_Autodiff_Example_in_Tensorflow_and_Pytorch.ipynb`**                            | PyTorch, TensorFlow                        | Computational graphs; reverse-mode automatic differentiation                                              | Direct comparative study                                                     |
+| **`pytorch_basics.ipynb`**                                                                | PyTorch                                    | PyTorch tensors, slicing, broadcasting, device management                                                 | First-contact PyTorch tutorial                                               |
+| **`pytorch_autograd_matrix.ipynb`**                                                       | PyTorch                                    | Matrix-level autograd, vector-Jacobian products (VJP)                                                     | Mathematical foundations of autodiff                                         |
+| **`Pragmatic_Gradients.ipynb`**                                                           | PyTorch                                    | Optimization loops, gradient steps, manual vs optimizer updates                                           | Practical autodiff mechanics                                                 |
+| **`xor_Logistic_Regression_With_PyTorch.ipynb`**                                          | PyTorch, Matplotlib                        | The XOR problem: failure of linearity, feature engineering ($x_1 \cdot x_2$), MLP representation learning | **Current primary XOR notebook** (includes hidden layer space visualization) |
+| **`xor-handcrafted-ffnn.ipynb`**                                                          | NumPy                                      | Handcrafted weights in a 2-layer network solving XOR                                                      | Conceptual precursor to backprop                                             |
+| **`legacy/xor_Logistic_Regression_With_Autograd.ipynb`**                                  | HIPS `autograd`                            | Legacy XOR logistic regression                                                                            | **Archived**; superseded by the PyTorch version                              |
+| **`text_classification.ipynb`**                                                           | scikit-learn                               | TF-IDF vectorization, Logistic Regression, Naive Bayes                                                    | Core classical NLP classification pipeline                                   |
+| **`plot_document_clustering.ipynb`**                                                      | scikit-learn                               | Unsupervised document clustering (K-Means, evaluation)                                                    | Clustering and text representation                                           |
+| **`topic_modeling_sklearn.ipynb`**                                                        | scikit-learn, pyLDAvis                     | Topic modeling (LDA, NMF) on 20 Newsgroups with interactive visualization                                 | Topic models                                                                 |
+| **`word2vec_tensorflow.ipynb`**                                                           | TensorFlow                                 | Continuous Skip-Gram model trained from scratch                                                           | Word representations from first principles                                   |
+| **`openai_word_embeddings.ipynb`** / **`OpenAI_Embeddings_Visualization_Notebook.ipynb`** | OpenAI API, scikit-learn                   | Subword embeddings, multilingual geometry, dimensionality reduction                                       | Modern dense representations                                                 |
+| **`BERT_for_Sentiment_Analysis_SC_FS26.ipynb`**                                           | Hugging Face Transformers, PyTorch         | Fine-tuning pretrained BERT for binary sentiment analysis                                                 | Core deep learning NLP paradigm                                              |
+| **`sentiment_analysis_overview.ipynb`**                                                   | NLTK, TextBlob, VADER, Flair, Transformers | Broad comparative benchmark of rule-based vs neural sentiment analyzers                                   | Comprehensive overview                                                       |
+| **`sentiment_emotion_analysis.ipynb`**                                                    | NRCLex, Flair                              | Fine-grained emotion and sentiment classification                                                         | Lexicon vs neural comparison                                                 |
+| **`flair_verb_frame_tagging.ipynb`**                                                      | Flair                                      | FrameNet semantic role labeling and verb frame extraction                                                 | Semantic parsing                                                             |
+| **`impresso_ner_displacy_visualization.ipynb`**                                           | spaCy, displaCy                            | Named Entity Recognition (NER) visual analysis on historical newspapers                                   | Impresso Project pipeline                                                    |
+| **`impresso_nel_minimal.ipynb`** / **`MGENRE_impresso_linking.ipynb`**                    | Hugging Face, mGENRE                       | Multilingual Named Entity Linking (NEL) using sequence-to-sequence models                                 | Entity disambiguation                                                        |
+| **`floret-language-identification.ipynb`**                                                | floret, Hugging Face                       | Compact subword-based language identification                                                             | FastText/floret compact embeddings                                           |
+| **`g2p.ipynb`**                                                                           | PyTorch / Seq2Seq                          | Neural grapheme-to-phoneme transduction                                                                   | Sequence transduction                                                        |
+| **`openai-keyphrase-starter.ipynb`** / **`openai_image_description.ipynb`**               | OpenAI API                                 | Prompt engineering, structured extraction, multimodal prompting                                           | LLM / VLM API interaction                                                    |
+| **`reasoning-model-conversation.ipynb`**                                                  | Transformers, PyTorch                      | Structured dialog extraction and serialization for reasoning models                                       | Conversation formatting                                                      |
+| **`multi-document-agentic-rag_main.ipynb`**                                               | LlamaIndex                                 | Multi-document Agentic Retrieval-Augmented Generation (RAG)                                               | Advanced agentic architectures                                               |
+| **`colab-ai-text-mining.ipynb`**                                                          | Google GenAI SDK                           | AI-assisted text mining workflows                                                                         | Applied GenAI                                                                |
+
+### Legacy and duplicate handling
+
+- Prefer one canonical notebook per topic at the repository root.
+- If a notebook is clearly superseded, obsolete, or a naming variant of an existing one, move it into `legacy/` instead of leaving a second active copy in the root.
+- Do not add new nested folders like `notebooks/` for active teaching material unless there is a strong pedagogical reason.
+- When renaming or moving a notebook, update its embedded Colab badge URL and any course links that point to it.
 
 ---
 
@@ -61,11 +71,19 @@ Use this guide as the technical standard and map when adding, modifying, refacto
 ### 3.1 Colab Badge & Header Metadata
 
 Every student-facing notebook must have:
+
 1. The standard **Open in Colab** badge as the first markdown cell:
    ```html
-   <a href="https://colab.research.google.com/github/simon-clematide/colab-notebooks-for-teaching/blob/main/<Notebook_Name>.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+   <a
+     href="https://colab.research.google.com/github/simon-clematide/colab-notebooks-for-teaching/blob/main/<Notebook_Name>.ipynb"
+     target="_parent"
+     ><img
+       src="https://colab.research.google.com/assets/colab-badge.svg"
+       alt="Open In Colab"
+   /></a>
    ```
-2. Correct notebook metadata in the root JSON:
+2. A badge URL that matches the file’s final repository path exactly. If the file is moved to `legacy/`, the URL must include that path, e.g. `.../blob/main/legacy/<Notebook_Name>.ipynb`.
+3. Correct notebook metadata in the root JSON:
    ```json
    "metadata": {
      "colab": {
@@ -81,7 +99,7 @@ Every student-facing notebook must have:
      }
    }
    ```
-3. A clear H1 title (`# Title`) and a summary section outlining the learning goals and syllabus context.
+4. A clear H1 title (`# Title`) and a summary section outlining the learning goals and syllabus context.
 
 ### 3.2 Package Installation & Setup Cells
 
@@ -98,18 +116,21 @@ Every student-facing notebook must have:
 ### 3.3 Hardware Acceleration & Device Neutrality
 
 Always support both CPU and GPU seamlessly:
+
 ```python
 import torch
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Using device: {device}")
 ```
+
 Ensure that models and tensors are explicitly routed to `device`, but small educational examples (like XOR, 2-layer MLPs, or small NumPy demonstrations) should run comfortably on CPU without requiring a GPU quota.
 
 ### 3.4 Data Access & Self-Containment
 
 - Small benchmark datasets should reside in the repository's `data/` folder (e.g., `data/complaint1700.csv`, `data/impresso-lid.tsv`).
 - When a notebook depends on a file in `data/`, provide a resilient loading helper that works both locally and in Google Colab:
+
   ```python
   import os
 
@@ -118,6 +139,7 @@ Ensure that models and tensors are explicitly routed to `device`, but small educ
       !git clone --depth 1 https://github.com/simon-clematide/colab-notebooks-for-teaching.git repo
       DATA_PATH = "repo/data/complaint1700.csv"
   ```
+
 - Do not rely on Colab's default temporary `sample_data/` folder for course exercises.
 
 ---
@@ -129,6 +151,7 @@ Ensure that models and tensors are explicitly routed to `device`, but small educ
 We use `uv` for isolated, fast local execution without requiring a global Python virtualenv.
 
 To execute a notebook end-to-end and pre-render all plots, tables, and execution outputs:
+
 ```bash
 uv run --with nbconvert --with torch --with matplotlib --with scikit-learn \
   jupyter nbconvert --to notebook --execute --inplace <Notebook_Name>.ipynb
@@ -137,6 +160,7 @@ uv run --with nbconvert --with torch --with matplotlib --with scikit-learn \
 ### 4.2 Validating JSON Integrity
 
 Before committing any notebook:
+
 1. Verify the JSON structure parses without syntax errors:
    ```bash
    python3 -m json.tool <Notebook_Name>.ipynb > /dev/null
