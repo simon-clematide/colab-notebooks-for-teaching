@@ -1,0 +1,3021 @@
+<?xml version='1.0' encoding='utf-8'?>
+<book id="1940_mul">
+  <article n="43">
+    <tocEntry author="Ernst Jenny" authorID="1556" lang="de" title="Der Eroberer des Mont Blanc" />
+    <div>
+      <s lang="de" n="43-1">
+        <w lemma="d" n="43-1-1" pos="ART">Der</w>
+        <w lemma="Eroberer" n="43-1-2" pos="NN">Eroberer</w>
+        <w lemma="d" n="43-1-3" pos="ART">des</w>
+        <w lemma="Mont" n="43-1-4" pos="NE">Mont</w>
+        <w lemma="Blanc" n="43-1-5" pos="NE">Blanc</w>
+        <w lemma="." n="43-1-6" pos="$.">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="de" n="43-2">
+        <w lemma="zur" n="43-2-1" pos="APPRART">Zur</w>
+        <w lemma="@ord@" n="43-2-2" pos="ADJA">200.</w>
+        <w lemma="Wiederkehr" n="43-2-3" pos="NN">Wiederkehr</w>
+        <w lemma="d" n="43-2-4" pos="ART">des</w>
+        <w lemma="Geburtstag" n="43-2-5" pos="NN">Geburtstags</w>
+        <w lemma="von" n="43-2-6" pos="APPR">von</w>
+        <w lemma="Horace" n="43-2-7" pos="NE">Horace</w>
+        <w lemma="de" n="43-2-8" pos="NE">de</w>
+        <w lemma="Saussure" n="43-2-9" pos="NE">Saussure</w>
+        <w lemma="(" n="43-2-10" pos="$(">(</w>
+        <w lemma="@ord@" n="43-2-11" pos="ADJA">17.</w>
+        <w lemma="Februar" n="43-2-12" pos="NN">Februar</w>
+        <w lemma="@card@" n="43-2-13" pos="CARD">1740-22</w>
+        <w lemma="." n="43-2-14" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-3">
+        <w lemma="Januar" n="43-3-1" pos="NN">Januar</w>
+        <w lemma="@card@" n="43-3-2" pos="CARD">1799</w>
+        <w lemma=")" n="43-3-3" pos="$(">)</w>
+        <w lemma="." n="43-3-4" pos="$.">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="de" n="43-4">
+        <w lemma="von" n="43-4-1" pos="APPR">Von</w>
+        <w lemma="Ernst" n="43-4-2" pos="NE">Ernst</w>
+        <w lemma="Jenny" n="43-4-3" pos="NE">Jenny</w>
+        <w lemma="&quot;" n="43-4-4" pos="$(">"</w>
+        <w lemma="unk" n="43-4-5" pos="ADJA">f</w>
+        <w lemma="l" n="43-4-6" pos="NN">l</w>
+        <w lemma=")" n="43-4-7" pos="$(">)</w>
+        <w lemma="." n="43-4-8" pos="$.">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="de" n="43-5">
+        <w lemma="d" n="43-5-1" pos="ART">Der</w>
+        <w lemma="Name" n="43-5-2" pos="NN">Name</w>
+        <w lemma="Horace" n="43-5-3" pos="NE">Horace</w>
+        <w lemma="de" n="43-5-4" pos="NE">de</w>
+        <w lemma="Saussure" n="43-5-5" pos="NE">Saussure</w>
+        <w lemma="bedeuten" n="43-5-6" pos="VVFIN">bedeutet</w>
+        <w lemma="für" n="43-5-7" pos="ADV">für</w>
+        <w lemma="jed" n="43-5-8" pos="PIAT">jeden</w>
+        <w lemma="Freund" n="43-5-9" pos="NN">Freund</w>
+        <w lemma="d" n="43-5-10" pos="ART">der</w>
+        <w lemma="Alpenwelt" n="43-5-11" pos="NN">Alpenwelt</w>
+        <w lemma=":" n="43-5-12" pos="$.">:</w>
+        <w lemma="Aufschwung" n="43-5-13" pos="NN">Aufschwung</w>
+        <w lemma="," n="43-5-14" pos="$,">,</w>
+        <w lemma="Eroberung" n="43-5-15" pos="NN">Eroberung</w>
+        <w lemma="und" n="43-5-16" pos="KON">und</w>
+        <w lemma="Befreiung" n="43-5-17" pos="NN">Befreiung</w>
+        <w lemma="." n="43-5-18" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-6">
+        <w lemma="d" n="43-6-1" pos="ART">Der</w>
+        <w lemma="Genfer" n="43-6-2" pos="ADJA">Genfer</w>
+        <w lemma="Saussure" n="43-6-3" pos="NE">Saussure</w>
+        <w lemma="sein" n="43-6-4" pos="VAFIN">ist</w>
+        <w lemma="," n="43-6-5" pos="$,">,</w>
+        <w lemma="mehr" n="43-6-6" pos="ADV">mehr</w>
+        <w lemma="als" n="43-6-7" pos="KOUS">als</w>
+        <w lemma="jed" n="43-6-8" pos="PIS">jeder</w>
+        <w lemma="ander" n="43-6-9" pos="PIS">andere</w>
+        <w lemma="vor" n="43-6-10" pos="APPR">vor</w>
+        <w lemma="er" n="43-6-11" pos="PPER">ihm</w>
+        <w lemma="," n="43-6-12" pos="$,">,</w>
+        <w lemma="d" n="43-6-13" pos="PRELS">der</w>
+        <w lemma="Entdecker" n="43-6-14" pos="NN">Entdecker</w>
+        <w lemma="und" n="43-6-15" pos="KON">und</w>
+        <w lemma="Deuter" n="43-6-16" pos="NN">Deuter</w>
+        <w lemma="d" n="43-6-17" pos="ART">der</w>
+        <w lemma="Landschaft" n="43-6-18" pos="NN">Landschaft</w>
+        <w lemma="d" n="43-6-19" pos="ART">des</w>
+        <footnote>
+          <s lang="de" n="43-80">
+            <w lemma=")" n="43-80-1" pos="$(">)</w>
+            <w lemma="es" n="43-80-2" pos="PPER">Es</w>
+            <w lemma="scheinen" n="43-80-3" pos="VVFIN">scheint</w>
+            <w lemma="wir" n="43-80-4" pos="PRF">uns</w>
+            <w lemma="wert" n="43-80-5" pos="ADJD">wert</w>
+            <w lemma="," n="43-80-6" pos="$,">,</w>
+            <w lemma="d" n="43-80-7" pos="ART">die</w>
+            <w lemma="letzt" n="43-80-8" pos="ADJA">letzte</w>
+            <w lemma="Arbeit" n="43-80-9" pos="NN">Arbeit</w>
+            <w lemma="aus" n="43-80-10" pos="APPR">aus</w>
+            <w lemma="d" n="43-80-11" pos="ART">der</w>
+            <w lemma="Feder" n="43-80-12" pos="NN">Feder</w>
+            <w lemma="d" n="43-80-13" pos="ART">des</w>
+            <w lemma="Verstorbene" n="43-80-14" pos="NN">Verstorbenen</w>
+            <w lemma="hier" n="43-80-15" pos="ADV">hier</w>
+            <w lemma="wiedergeben" n="43-80-16" pos="VVIZU">wiederzugeben</w>
+            <w lemma="," n="43-80-17" pos="$,">,</w>
+            <w lemma="denn" n="43-80-18" pos="KON">denn</w>
+            <w lemma="sie" n="43-80-19" pos="PPER">sie</w>
+            <w lemma="sein" n="43-80-20" pos="VAFIN">ist</w>
+            <w lemma="ausserordentlich" n="43-80-21" pos="ADJD">ausserordentlich</w>
+            <w lemma="frisch" n="43-80-22" pos="ADJA">frisch</w>
+            <w lemma="und" n="43-80-23" pos="KON">und</w>
+            <w lemma="lebendig" n="43-80-24" pos="ADJD">lebendig</w>
+            <w lemma="schreiben" n="43-80-25" pos="VVPP">geschrieben</w>
+            <w lemma="," n="43-80-26" pos="$,">,</w>
+            <w lemma="mit" n="43-80-27" pos="APPR">mit</w>
+            <w lemma="ein" n="43-80-28" pos="ART">einem</w>
+            <w lemma="fein" n="43-80-29" pos="ADJA">feinen</w>
+            <w lemma="psychologisch" n="43-80-30" pos="ADJA">psychologischen</w>
+            <w lemma="Verständnis" n="43-80-31" pos="NN">Verständnis</w>
+            <w lemma="für" n="43-80-32" pos="ADV">für</w>
+            <w lemma="d" n="43-80-33" pos="ART">die</w>
+            <w lemma="Anpassung" n="43-80-34" pos="NN">Anpassung</w>
+            <w lemma="an" n="43-80-35" pos="APPR">an</w>
+            <w lemma="d" n="43-80-36" pos="ART">das</w>
+            <w lemma="Leserpublikum" n="43-80-37" pos="NN">Leserpublikum</w>
+            <w lemma="ein" n="43-80-38" pos="ART">einer</w>
+            <w lemma="Tageszeitung" n="43-80-39" pos="NN">Tageszeitung</w>
+            <w lemma="." n="43-80-40" pos="$.">.</w>
+          </s>
+        </footnote>
+        <pb facs="270" />
+        <graphic url="SAC-Jahrbuch_1940_mul-81.jpg" />
+        <caption img-pos="fullPage">
+          <s lang="de" n="43-71">
+            <w lemma="@card@" n="43-71-1" pos="CARD">71</w>
+            <w lemma="-" n="43-71-2" pos="$(">-</w>
+            <w lemma="Photo" n="43-71-3" pos="NN">Photo</w>
+            <w lemma="J." n="43-71-4" pos="NE">J.</w>
+            <w lemma="Menth" n="43-71-5" pos="NE">Menth</w>
+          </s>
+        </caption>
+        <caption img-pos="fullPage">
+          <s lang="de" n="43-72">
+            <w lemma="Monte" n="43-72-1" pos="NE">Monte</w>
+            <w lemma="Rosa" n="43-72-2" pos="NE">Rosa</w>
+            <w lemma="Ostwand" n="43-72-3" pos="NN">Ostwand</w>
+          </s>
+        </caption>
+        <caption img-pos="fullPage">
+          <s lang="de" n="43-73">
+            <w lemma="vom" n="43-73-1" pos="APPRART">vom</w>
+            <w lemma="Pizzo" n="43-73-2" pos="NE">Pizzo</w>
+            <w lemma="Bianco" n="43-73-3" pos="NE">Bianco</w>
+            <w lemma="aus" n="43-73-4" pos="PTKVZ">aus</w>
+            <w lemma="(" n="43-73-5" pos="$(">(</w>
+            <w lemma="@ord@" n="43-73-6" pos="ADJA">1.</w>
+            <w lemma="Signalkuppe" n="43-73-7" pos="NE">Signalkuppe</w>
+            <w lemma="mit" n="43-73-8" pos="APPR">m.</w>
+            <w lemma="Grenzgipfel" n="43-73-9" pos="NN">Grenzgipfel</w>
+            <w lemma="unk" n="43-73-10" pos="VVFIN">r.</w>
+            <w lemma="Nordend" n="43-73-11" pos="NE">Nordend</w>
+            <w lemma=")" n="43-73-12" pos="$(">)</w>
+          </s>
+        </caption>
+        <caption img-pos="fullPage">
+          <s lang="de" n="43-74">
+            <w lemma="@card@" n="43-74-1" pos="CARD">72</w>
+            <w lemma="-" n="43-74-2" pos="$(">-</w>
+            <w lemma="Photo" n="43-74-3" pos="NN">Photo</w>
+            <w lemma="J." n="43-74-4" pos="NE">J.</w>
+            <w lemma="Menth" n="43-74-5" pos="NE">Menth</w>
+          </s>
+        </caption>
+        <caption img-pos="fullPage">
+          <s lang="de" n="43-75">
+            <w lemma="Marinellihütte" n="43-75-1" pos="NE">Marinellihütte</w>
+          </s>
+        </caption>
+        <caption img-pos="fullPage">
+          <s lang="de" n="43-76">
+            <w lemma="Brunner" n="43-76-1" pos="NE">Brunner</w>
+            <w lemma="&amp;" n="43-76-2" pos="KON">&amp;</w>
+            <w lemma="Compagnie" n="43-76-3" pos="NN">Cie.</w>
+            <w lemma="am" n="43-76-4" pos="APPRART">A.</w>
+            <w lemma="G" n="43-76-5" pos="NN">G</w>
+            <w lemma="," n="43-76-6" pos="$,">,</w>
+            <w lemma="Zürich" n="43-76-7" pos="NE">Zürich</w>
+          </s>
+        </caption>
+        <caption img-pos="fullPage">
+          <s lang="de" n="43-77">
+            <w lemma="d" n="43-77-1" pos="ART">Die</w>
+            <w lemma="Alp" n="43-77-2" pos="NN">Alpen</w>
+            <w lemma="@card@" n="43-77-3" pos="CARD">1940</w>
+            <w lemma="-" n="43-77-4" pos="$(">-</w>
+            <w lemma="Les" n="43-77-5" pos="NE">Les</w>
+            <w lemma="Alpes" n="43-77-6" pos="NE">Alpes</w>
+          </s>
+        </caption>
+        <pb facs="271" />
+        <graphic url="SAC-Jahrbuch_1940_mul-82.jpg" />
+        <caption img-pos="fullPage">
+          <s lang="fr" n="43-78">
+            <w lemma="@card@" n="43-78-1" pos="N_card">73</w>
+            <w lemma="-" n="43-78-2" pos="PCT_W">-</w>
+            <w lemma="unk" n="43-78-3" pos="V">Reproduction</w>
+            <w lemma="de" n="43-78-4" pos="P">d'</w>
+            <w lemma="un" n="43-78-5" pos="D_ind">une</w>
+            <w lemma="aquarelle" n="43-78-6" pos="N_C">aquarelle</w>
+            <w lemma="de" n="43-78-7" pos="P">de</w>
+            <w lemma="unk" n="43-78-8" pos="N_P">Hogard</w>
+            <w lemma="," n="43-78-9" pos="PCT_W">,</w>
+            <w lemma="par" n="43-78-10" pos="P">par</w>
+            <w lemma="le" n="43-78-11" pos="D_def">la</w>
+            <w lemma="courtoisie" n="43-78-12" pos="N_C">courtoisie</w>
+            <w lemma="de" n="43-78-13" pos="P">de</w>
+            <w lemma="Mme" n="43-78-14" pos="N_C">Mme</w>
+            <w lemma="Raguet" n="43-78-15" pos="N_P">Raguet</w>
+            <w lemma="et" n="43-78-16" pos="N_P">et</w>
+            <w lemma="de" n="43-78-17" pos="P">de</w>
+            <w lemma="M." n="43-78-18" pos="N_P">M.</w>
+            <w lemma="Ingold" n="43-78-19" pos="N_P">Ingold</w>
+          </s>
+        </caption>
+        <caption img-pos="fullPage">
+          <s lang="fr" n="43-79">
+            <w lemma="le" n="43-79-1" pos="D_def">Le</w>
+            <w lemma="front" n="43-79-2" pos="N_C">front</w>
+            <w lemma="de" n="43-79-3" pos="P">du</w>
+            <w lemma="glacier" n="43-79-4" pos="N_C">glacier</w>
+            <w lemma="supérieur" n="43-79-5" pos="A_qual">Supérieur</w>
+            <w lemma="de" n="43-79-6" pos="P">du</w>
+            <w lemma="Grindelwald" n="43-79-7" pos="N_P">Grindelwald</w>
+            <w lemma="en" n="43-79-8" pos="P">en</w>
+            <w lemma="@card@" n="43-79-9" pos="N_card">1847</w>
+          </s>
+        </caption>
+        <pb facs="272" n="213" />
+        <w lemma="Hochgebirge" n="43-6-20" pos="NN">Hochgebirges</w>
+        <w lemma="werden" n="43-6-21" pos="VAPP">geworden</w>
+        <w lemma="." n="43-6-22" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-7">
+        <w lemma="gewiss" n="43-7-1" pos="ADJD">Gewiss</w>
+        <w lemma="haben" n="43-7-2" pos="VAFIN">hatten</w>
+        <w lemma="schon" n="43-7-3" pos="ADV">schon</w>
+        <w lemma="Konrad" n="43-7-4" pos="NE">Konrad</w>
+        <w lemma="Gessner" n="43-7-5" pos="NE">Gessner</w>
+        <w lemma="von" n="43-7-6" pos="NE">von</w>
+        <w lemma="Zürich" n="43-7-7" pos="NE">Zürich</w>
+        <w lemma="," n="43-7-8" pos="$,">,</w>
+        <w lemma="Albrecht" n="43-7-9" pos="NE">Albrecht</w>
+        <w lemma="Haller" n="43-7-10" pos="NE">Haller</w>
+        <w lemma="von" n="43-7-11" pos="NE">von</w>
+        <w lemma="Bern" n="43-7-12" pos="NE">Bern</w>
+        <w lemma="und" n="43-7-13" pos="KON">und</w>
+        <w lemma="Jean" n="43-7-14" pos="NE">Jean</w>
+        <w lemma="Jacques" n="43-7-15" pos="NE">Jacques</w>
+        <w lemma="Rousseau" n="43-7-16" pos="NE">Rousseau</w>
+        <w lemma="von" n="43-7-17" pos="NE">von</w>
+        <w lemma="Genf" n="43-7-18" pos="NE">Genf</w>
+        <w lemma="ihr" n="43-7-19" pos="PPOSAT">ihre</w>
+        <w lemma="«" n="43-7-20" pos="$(">«</w>
+        <w lemma="hoch" n="43-7-21" pos="ADJA">hohen</w>
+        <w lemma="Lied" n="43-7-22" pos="NN">Lieder</w>
+        <w lemma="»" n="43-7-23" pos="$(">»</w>
+        <w lemma="auf" n="43-7-24" pos="APPR">auf</w>
+        <w lemma="d" n="43-7-25" pos="ART">die</w>
+        <w lemma="Alpenwelt" n="43-7-26" pos="NN">Alpenwelt</w>
+        <w lemma="singen" n="43-7-27" pos="VVPP">gesungen</w>
+        <w lemma="," n="43-7-28" pos="$,">,</w>
+        <w lemma="doch" n="43-7-29" pos="KON">doch</w>
+        <w lemma="ins" n="43-7-30" pos="APPRART">ins</w>
+        <w lemma="Innerste" n="43-7-31" pos="NN">Innerste</w>
+        <w lemma="und" n="43-7-32" pos="KON">und</w>
+        <w lemma="auf" n="43-7-33" pos="APPR">auf</w>
+        <w lemma="d" n="43-7-34" pos="ART">das</w>
+        <w lemma="Höchste" n="43-7-35" pos="NN">Höchste</w>
+        <w lemma="sein" n="43-7-36" pos="VAFIN">waren</w>
+        <w lemma="sie" n="43-7-37" pos="PPER">sie</w>
+        <w lemma="noch" n="43-7-38" pos="ADV">noch</w>
+        <w lemma="nicht" n="43-7-39" pos="PTKNEG">nicht</w>
+        <w lemma="vordringen" n="43-7-40" pos="VVPP">vorgedrungen</w>
+        <w lemma="." n="43-7-41" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-8">
+        <w lemma="d" n="43-8-1" pos="PDS">Das</w>
+        <w lemma="bleiben" n="43-8-2" pos="VVFIN">blieb</w>
+        <w lemma="Saussure" n="43-8-3" pos="NE">Saussure</w>
+        <w lemma="vorbehalten" n="43-8-4" pos="VVPP">vorbehalten</w>
+        <w lemma="." n="43-8-5" pos="$.">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="de" n="43-9">
+        <w lemma="wohl" n="43-9-1" pos="ADV">Wohl</w>
+        <w lemma="wissen" n="43-9-2" pos="VVFIN">wussten</w>
+        <w lemma="viel" n="43-9-3" pos="PIS">viele</w>
+        <w lemma="d" n="43-9-4" pos="ART">der</w>
+        <w lemma="sogenannt" n="43-9-5" pos="ADJA">sogenannten</w>
+        <w lemma="«" n="43-9-6" pos="$(">«</w>
+        <w lemma="naturforschend" n="43-9-7" pos="ADJA">naturforschenden</w>
+        <w lemma="Reisende" n="43-9-8" pos="NN">Reisenden</w>
+        <w lemma="»" n="43-9-9" pos="$(">»</w>
+        <w lemma="jen" n="43-9-10" pos="PDAT">jener</w>
+        <w lemma="Zeit" n="43-9-11" pos="NN">Zeiten</w>
+        <w lemma="schon" n="43-9-12" pos="ADV">schon</w>
+        <w lemma="allerlei" n="43-9-13" pos="PIS">allerlei</w>
+        <w lemma="und" n="43-9-14" pos="KON">und</w>
+        <w lemma="sammeln" n="43-9-15" pos="VVFIN">sammelten</w>
+        <w lemma="hie" n="43-9-16" pos="ADV">hie</w>
+        <w lemma="und" n="43-9-17" pos="KON">und</w>
+        <w lemma="da" n="43-9-18" pos="ADV">da</w>
+        <w lemma="klein" n="43-9-19" pos="ADJA">kleine</w>
+        <w lemma="Kabinettstück" n="43-9-20" pos="NN">Kabinettstücke</w>
+        <w lemma="," n="43-9-21" pos="$,">,</w>
+        <w lemma="aber" n="43-9-22" pos="KON">aber</w>
+        <w lemma="es" n="43-9-23" pos="PPER">es</w>
+        <w lemma="bedurfte" n="43-9-24" pos="VVFIN">bedurfte</w>
+        <w lemma="«" n="43-9-25" pos="$(">«</w>
+        <w lemma="d" n="43-9-26" pos="ART">der</w>
+        <w lemma="Anschauung" n="43-9-27" pos="NN">Anschauung</w>
+        <w lemma="d" n="43-9-28" pos="ART">des</w>
+        <w lemma="gross" n="43-9-29" pos="ADJA">grossen</w>
+        <w lemma="Gegenstand" n="43-9-30" pos="NN">Gegenstandes</w>
+        <w lemma="(" n="43-9-31" pos="$(">(</w>
+        <w lemma="d" n="43-9-32" pos="ART">des</w>
+        <w lemma="Gebirge" n="43-9-33" pos="NN">Gebirges</w>
+        <w lemma=")" n="43-9-34" pos="$(">)</w>
+        <w lemma="als" n="43-9-35" pos="KOKOM">als</w>
+        <w lemma="Ganze" n="43-9-36" pos="NN">Ganzes</w>
+        <w lemma="und" n="43-9-37" pos="KON">und</w>
+        <w lemma="in" n="43-9-38" pos="APPR">in</w>
+        <w lemma="sein" n="43-9-39" pos="PPOSAT">seinen</w>
+        <w lemma="ausgedehnt" n="43-9-40" pos="ADJA">ausgedehntesten</w>
+        <w lemma="Beziehung" n="43-9-41" pos="NN">Beziehungen</w>
+        <w lemma="»" n="43-9-42" pos="$(">»</w>
+        <w lemma="." n="43-9-43" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-10">
+        <w lemma="dies" n="43-10-1" pos="PDAT">Dieses</w>
+        <w lemma="gross" n="43-10-2" pos="ADJA">grosse</w>
+        <w lemma="und" n="43-10-3" pos="KON">und</w>
+        <w lemma="schön" n="43-10-4" pos="ADJA">schöne</w>
+        <w lemma="Ziel" n="43-10-5" pos="NN">Ziel</w>
+        <w lemma="vor+schweben" n="43-10-6" pos="VVFIN">schwebte</w>
+        <w lemma="d" n="43-10-7" pos="PDS">dem</w>
+        <w lemma="geistig" n="43-10-8" pos="ADJD">geistig</w>
+        <w lemma="überaus" n="43-10-9" pos="ADV">überaus</w>
+        <w lemma="regsam" n="43-10-10" pos="ADJA">regsamen</w>
+        <w lemma="und" n="43-10-11" pos="KON">und</w>
+        <w lemma="beweglich" n="43-10-12" pos="ADJA">beweglichen</w>
+        <w lemma="Saussure" n="43-10-13" pos="NE">Saussure</w>
+        <w lemma="schon" n="43-10-14" pos="ADV">schon</w>
+        <w lemma="vor" n="43-10-15" pos="PTKVZ">vor</w>
+        <w lemma="," n="43-10-16" pos="$,">,</w>
+        <w lemma="als" n="43-10-17" pos="KOUS">als</w>
+        <w lemma="er" n="43-10-18" pos="PPER">er</w>
+        <w lemma="im" n="43-10-19" pos="APPRART">im</w>
+        <w lemma="Sommer" n="43-10-20" pos="NN">Sommer</w>
+        <w lemma="@card@" n="43-10-21" pos="CARD">1760</w>
+        <w lemma="," n="43-10-22" pos="$,">,</w>
+        <w lemma="erst" n="43-10-23" pos="ADV">erst</w>
+        <w lemma="zwanzigjährig" n="43-10-24" pos="ADJD">zwanzigjährig</w>
+        <w lemma="," n="43-10-25" pos="$,">,</w>
+        <w lemma="d" n="43-10-26" pos="ART">den</w>
+        <w lemma="Alp" n="43-10-27" pos="NN">Alpen</w>
+        <w lemma="von" n="43-10-28" pos="APPR">von</w>
+        <w lemma="Chamonix" n="43-10-29" pos="NE">Chamonix</w>
+        <w lemma="entgegenwandern" n="43-10-30" pos="VVFIN">entgegenwanderte</w>
+        <w lemma="." n="43-10-31" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-11">
+        <w lemma="d" n="43-11-1" pos="ART">Der</w>
+        <w lemma="vornehm" n="43-11-2" pos="ADJA">vornehme</w>
+        <w lemma="Jüngling" n="43-11-3" pos="NN">Jüngling</w>
+        <w lemma="tragen" n="43-11-4" pos="VVFIN">trug</w>
+        <w lemma="kein" n="43-11-5" pos="PIAT">keine</w>
+        <w lemma="Perücke" n="43-11-6" pos="NN">Perücke</w>
+        <w lemma="und" n="43-11-7" pos="KON">und</w>
+        <w lemma="gehen" n="43-11-8" pos="VVFIN">ging</w>
+        <w lemma="allein" n="43-11-9" pos="PTKVZ">allein</w>
+        <w lemma="," n="43-11-10" pos="$,">,</w>
+        <w lemma="ohne" n="43-11-11" pos="KOUI">ohne</w>
+        <w lemma="Diener" n="43-11-12" pos="NN">Diener</w>
+        <w lemma="." n="43-11-13" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-12">
+        <w lemma="wohl" n="43-12-1" pos="ADV">Wohl</w>
+        <w lemma="botanisieren" n="43-12-2" pos="VVFIN">botanisierte</w>
+        <w lemma="er" n="43-12-3" pos="PPER">er</w>
+        <w lemma="unterwegs" n="43-12-4" pos="ADV">unterwegs</w>
+        <w lemma="," n="43-12-5" pos="$,">,</w>
+        <w lemma="wie" n="43-12-6" pos="KOUS">wie</w>
+        <w lemma="es" n="43-12-7" pos="PPER">es</w>
+        <w lemma="d" n="43-12-8" pos="PDS">der</w>
+        <w lemma="verehren" n="43-12-9" pos="VVFIN">verehrte</w>
+        <w lemma="Haller" n="43-12-10" pos="NE">Haller</w>
+        <w lemma="von" n="43-12-11" pos="APPR">von</w>
+        <w lemma="er" n="43-12-12" pos="PPER">ihm</w>
+        <w lemma="wünschen" n="43-12-13" pos="VVPP">gewünscht</w>
+        <w lemma="haben" n="43-12-14" pos="VAFIN">hatte</w>
+        <w lemma="," n="43-12-15" pos="$,">,</w>
+        <w lemma="aber" n="43-12-16" pos="KON">aber</w>
+        <w lemma="sein" n="43-12-17" pos="PPOSAT">seine</w>
+        <w lemma="blau" n="43-12-18" pos="ADJA">blauen</w>
+        <w lemma="Auge" n="43-12-19" pos="NN">Augen</w>
+        <w lemma="blicken" n="43-12-20" pos="VVFIN">blickten</w>
+        <w lemma="lieb" n="43-12-21" pos="ADJD">lieber</w>
+        <w lemma="in" n="43-12-22" pos="APPR">in</w>
+        <w lemma="d" n="43-12-23" pos="ART">die</w>
+        <w lemma="Höhe" n="43-12-24" pos="NN">Höhe</w>
+        <w lemma="nach" n="43-12-25" pos="APPR">nach</w>
+        <w lemma="d" n="43-12-26" pos="ART">den</w>
+        <w lemma="schimmernd" n="43-12-27" pos="ADJA">schimmernden</w>
+        <w lemma="Eiswiese" n="43-12-28" pos="NN">Eiswiesen</w>
+        <w lemma="als" n="43-12-29" pos="KOKOM">als</w>
+        <w lemma="nach" n="43-12-30" pos="APPR">nach</w>
+        <w lemma="d" n="43-12-31" pos="ART">den</w>
+        <w lemma="Blume" n="43-12-32" pos="NN">Blumen</w>
+        <w lemma="am" n="43-12-33" pos="APPRART">am</w>
+        <w lemma="Wegrande" n="43-12-34" pos="NN">Wegrande</w>
+        <w lemma="," n="43-12-35" pos="$,">,</w>
+        <w lemma="denn" n="43-12-36" pos="ADV">denn</w>
+        <w lemma="er" n="43-12-37" pos="PPER">er</w>
+        <w lemma="«" n="43-12-38" pos="$(">«</w>
+        <w lemma="brennen" n="43-12-39" pos="VVFIN">brannte</w>
+        <w lemma="vor" n="43-12-40" pos="APPR">vor</w>
+        <w lemma="Verlangen" n="43-12-41" pos="NN">Verlangen</w>
+        <w lemma="," n="43-12-42" pos="$,">,</w>
+        <w lemma="d" n="43-12-43" pos="PRELS">die</w>
+        <w lemma="Hochwelt" n="43-12-44" pos="NN">Hochwelt</w>
+        <w lemma="von" n="43-12-45" pos="APPR">von</w>
+        <w lemma="nah" n="43-12-46" pos="ADJA">nahem</w>
+        <w lemma="zu" n="43-12-47" pos="PTKZU">zu</w>
+        <w lemma="sehen" n="43-12-48" pos="VVINF">sehen</w>
+        <w lemma="»" n="43-12-49" pos="$(">»</w>
+        <w lemma="," n="43-12-50" pos="$,">,</w>
+        <w lemma="wie" n="43-12-51" pos="KOUS">wie</w>
+        <w lemma="er" n="43-12-52" pos="PPER">er</w>
+        <w lemma="selber" n="43-12-53" pos="ADV">selber</w>
+        <w lemma="bekennen" n="43-12-54" pos="VVFIN">bekennt</w>
+        <w lemma="." n="43-12-55" pos="$.">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="de" n="43-13">
+        <w lemma="er" n="43-13-1" pos="PPER">Er</w>
+        <w lemma="nächtigen" n="43-13-2" pos="VVFIN">nächtigte</w>
+        <w lemma="im" n="43-13-3" pos="APPRART">im</w>
+        <w lemma="Pfarrhaus" n="43-13-4" pos="NN">Pfarrhaus</w>
+        <w lemma="zu" n="43-13-5" pos="APPR">zu</w>
+        <w lemma="Chamonix" n="43-13-6" pos="NE">Chamonix</w>
+        <w lemma="-" n="43-13-7" pos="$(">-</w>
+        <w lemma="ein" n="43-13-8" pos="ART">eine</w>
+        <w lemma="Herberge" n="43-13-9" pos="NN">Herberge</w>
+        <w lemma="oder" n="43-13-10" pos="KON">oder</w>
+        <w lemma="gar" n="43-13-11" pos="ADV">gar</w>
+        <w lemma="Hotel" n="43-13-12" pos="NN">Hotels</w>
+        <w lemma="geben" n="43-13-13" pos="VVFIN">gab</w>
+        <w lemma="es" n="43-13-14" pos="PPER">es</w>
+        <w lemma="damals" n="43-13-15" pos="ADV">damals</w>
+        <w lemma="nicht" n="43-13-16" pos="PTKNEG">nicht</w>
+        <w lemma="-" n="43-13-17" pos="$(">-</w>
+        <w lemma="," n="43-13-18" pos="$,">,</w>
+        <w lemma="und" n="43-13-19" pos="KON">und</w>
+        <w lemma="schon" n="43-13-20" pos="ADV">schon</w>
+        <w lemma="am" n="43-13-21" pos="APPRART">am</w>
+        <w lemma="folgend" n="43-13-22" pos="ADJA">folgenden</w>
+        <w lemma="Tag" n="43-13-23" pos="NN">Tage</w>
+        <w lemma="wandern" n="43-13-24" pos="VVFIN">wanderte</w>
+        <w lemma="er" n="43-13-25" pos="PPER">er</w>
+        <w lemma="in" n="43-13-26" pos="APPR">in</w>
+        <w lemma="Begleitung" n="43-13-27" pos="NN">Begleitung</w>
+        <w lemma="d" n="43-13-28" pos="ART">des</w>
+        <w lemma="fröhlich" n="43-13-29" pos="ADJA">fröhlichen</w>
+        <w lemma="." n="43-13-30" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-14">
+        <w lemma="Pierre" n="43-14-1" pos="NE">Pierre</w>
+        <w lemma="Simon" n="43-14-2" pos="NE">Simon</w>
+        <w lemma="," n="43-14-3" pos="$,">,</w>
+        <w lemma="d" n="43-14-4" pos="PRELS">der</w>
+        <w lemma="spät" n="43-14-5" pos="ADJD">später</w>
+        <w lemma="unter" n="43-14-6" pos="APPR">unter</w>
+        <w lemma="d" n="43-14-7" pos="ART">dem</w>
+        <w lemma="Einfluss" n="43-14-8" pos="NN">Einfluss</w>
+        <w lemma="Saussures" n="43-14-9" pos="NE">Saussures</w>
+        <w lemma="ein" n="43-14-10" pos="PIS">einer</w>
+        <w lemma="d" n="43-14-11" pos="ART">der</w>
+        <w lemma="erst" n="43-14-12" pos="ADJA">ersten</w>
+        <w lemma="Führer" n="43-14-13" pos="NN">Führer</w>
+        <w lemma="d" n="43-14-14" pos="ART">des</w>
+        <w lemma="Hochtal" n="43-14-15" pos="NN">Hochtales</w>
+        <w lemma="werden" n="43-14-16" pos="VAFIN">wurde</w>
+        <w lemma="," n="43-14-17" pos="$,">,</w>
+        <w lemma="d" n="43-14-18" pos="ART">den</w>
+        <w lemma="unk" n="43-14-19" pos="NN">Geissweg</w>
+        <w lemma="zum" n="43-14-20" pos="APPRART">zum</w>
+        <w lemma="unk" n="43-14-21" pos="NN">Montenvers</w>
+        <w lemma="hinauf" n="43-14-22" pos="PTKVZ">hinauf</w>
+        <w lemma="," n="43-14-23" pos="$,">,</w>
+        <w lemma="um" n="43-14-24" pos="KOUI">um</w>
+        <w lemma="ein" n="43-14-25" pos="ART">einen</w>
+        <w lemma="orientierend" n="43-14-26" pos="ADJA">orientierenden</w>
+        <w lemma="Blick" n="43-14-27" pos="NN">Blick</w>
+        <w lemma="in" n="43-14-28" pos="APPR">in</w>
+        <w lemma="d" n="43-14-29" pos="ART">die</w>
+        <w lemma="Gletscherwelt" n="43-14-30" pos="NN">Gletscherwelt</w>
+        <w lemma="zu" n="43-14-31" pos="PTKZU">zu</w>
+        <w lemma="tun" n="43-14-32" pos="VVINF">tun</w>
+        <w lemma="." n="43-14-33" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-15">
+        <w lemma="er" n="43-15-1" pos="PPER">Er</w>
+        <w lemma="wollen" n="43-15-2" pos="VMFIN">wollte</w>
+        <w lemma="d" n="43-15-3" pos="ART">das</w>
+        <w lemma="wogend" n="43-15-4" pos="ADJA">wogende</w>
+        <w lemma="«" n="43-15-5" pos="$(">«</w>
+        <w lemma="unk" n="43-15-6" pos="ADJA">Mer</w>
+        <w lemma="de" n="43-15-7" pos="NE">de</w>
+        <w lemma="unk" n="43-15-8" pos="NE">glace</w>
+        <w lemma="»" n="43-15-9" pos="$(">»</w>
+        <w lemma="überschreiten" n="43-15-10" pos="VVINF">überschreiten</w>
+        <w lemma="und" n="43-15-11" pos="KON">und</w>
+        <w lemma="auf" n="43-15-12" pos="APPR">auf</w>
+        <w lemma="d" n="43-15-13" pos="ART">dem</w>
+        <w lemma="jenseitig" n="43-15-14" pos="ADJA">jenseitigen</w>
+        <w lemma="Ufer" n="43-15-15" pos="NN">Ufer</w>
+        <w lemma="absteigen" n="43-15-16" pos="VVINF">absteigen</w>
+        <w lemma="." n="43-15-17" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-16">
+        <w lemma="d" n="43-16-1" pos="PDS">Das</w>
+        <w lemma="geschehen" n="43-16-2" pos="VVFIN">geschah</w>
+        <w lemma="auch" n="43-16-3" pos="ADV">auch</w>
+        <w lemma="." n="43-16-4" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-17">
+        <w lemma="und" n="43-17-1" pos="KON">Und</w>
+        <w lemma="damit" n="43-17-2" pos="PAV">damit</w>
+        <w lemma="erschliessen" n="43-17-3" pos="VVFIN">erschloss</w>
+        <w lemma="er" n="43-17-4" pos="PPER">er</w>
+        <w lemma="ein" n="43-17-5" pos="ART">einen</w>
+        <w lemma="Weg" n="43-17-6" pos="NN">Weg</w>
+        <w lemma="," n="43-17-7" pos="$,">,</w>
+        <w lemma="d" n="43-17-8" pos="PRELS">den</w>
+        <w lemma="heute" n="43-17-9" pos="ADV">heute</w>
+        <w lemma="Tausend" n="43-17-10" pos="NN">Tausende</w>
+        <w lemma="gehen" n="43-17-11" pos="VVINF">gehen</w>
+        <w lemma="." n="43-17-12" pos="$.">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="de" n="43-18">
+        <w lemma="er" n="43-18-1" pos="PPER">Ihm</w>
+        <w lemma="vor+kommen" n="43-18-2" pos="VVFIN">kam</w>
+        <w lemma="dies" n="43-18-3" pos="PDAT">diese</w>
+        <w lemma="Landschaft" n="43-18-4" pos="NN">Landschaft</w>
+        <w lemma="nicht" n="43-18-5" pos="PTKNEG">nicht</w>
+        <w lemma="wie" n="43-18-6" pos="KOKOM">wie</w>
+        <w lemma="ein" n="43-18-7" pos="ART">ein</w>
+        <w lemma="«" n="43-18-8" pos="$(">«</w>
+        <w lemma="unk" n="43-18-9" pos="NE">pays</w>
+        <w lemma="unk" n="43-18-10" pos="NE">affreux</w>
+        <w lemma="»" n="43-18-11" pos="$(">»</w>
+        <w lemma="vor" n="43-18-12" pos="PTKVZ">vor</w>
+        <w lemma="," n="43-18-13" pos="$,">,</w>
+        <w lemma="denn" n="43-18-14" pos="KON">denn</w>
+        <w lemma="schon" n="43-18-15" pos="ADV">schon</w>
+        <w lemma="am" n="43-18-16" pos="APPRART">am</w>
+        <w lemma="übernah" n="43-18-17" pos="ADJA">übernächsten</w>
+        <w lemma="klar" n="43-18-18" pos="ADJA">klaren</w>
+        <w lemma="Morgen" n="43-18-19" pos="NN">Morgen</w>
+        <w lemma="stehen" n="43-18-20" pos="VVFIN">stand</w>
+        <w lemma="er" n="43-18-21" pos="PPER">er</w>
+        <w lemma="mit" n="43-18-22" pos="APPR">mit</w>
+        <w lemma="Pierre" n="43-18-23" pos="NE">Pierre</w>
+        <w lemma="auf" n="43-18-24" pos="APPR">auf</w>
+        <w lemma="d" n="43-18-25" pos="ART">dem</w>
+        <w lemma="graniten" n="43-18-26" pos="ADJA">granitenen</w>
+        <w lemma="Gipfel" n="43-18-27" pos="NN">Gipfel</w>
+        <w lemma="d" n="43-18-28" pos="ART">des</w>
+        <w lemma="unk" n="43-18-29" pos="NN">Brevent</w>
+        <w lemma="," n="43-18-30" pos="$,">,</w>
+        <w lemma="d" n="43-18-31" pos="PRELAT">dessen</w>
+        <w lemma="steilgeschichtet" n="43-18-32" pos="ADJA">steilgeschichtete</w>
+        <w lemma="Felsen" n="43-18-33" pos="NN">Felsen</w>
+        <w lemma="er" n="43-18-34" pos="PPER">ihm</w>
+        <w lemma="zu" n="43-18-35" pos="PTKZU">zu</w>
+        <w lemma="denken" n="43-18-36" pos="VVINF">denken</w>
+        <w lemma="geben" n="43-18-37" pos="VVFIN">gaben</w>
+        <w lemma="." n="43-18-38" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-19">
+        <w lemma="«" n="43-19-1" pos="$(">«</w>
+        <w lemma="es" n="43-19-2" pos="PPER">Es</w>
+        <w lemma="sein" n="43-19-3" pos="VAFIN">war</w>
+        <w lemma="mein" n="43-19-4" pos="PPOSAT">meine</w>
+        <w lemma="erst" n="43-19-5" pos="ADJA">erste</w>
+        <w lemma="Hochalpenfahrt" n="43-19-6" pos="NN">Hochalpenfahrt</w>
+        <w lemma="." n="43-19-7" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-20">
+        <w lemma="noch" n="43-20-1" pos="ADV">Noch</w>
+        <w lemma="sein" n="43-20-2" pos="VAFIN">war</w>
+        <w lemma="ich" n="43-20-3" pos="PPER">ich</w>
+        <w lemma="nicht" n="43-20-4" pos="PTKNEG">nicht</w>
+        <w lemma="an" n="43-20-5" pos="APPR">an</w>
+        <w lemma="dies" n="43-20-6" pos="PDAT">dies</w>
+        <w lemma="gross" n="43-20-7" pos="ADJA">grosse</w>
+        <w lemma="Schauspiel" n="43-20-8" pos="NN">Schauspiel</w>
+        <w lemma="gewöhnen" n="43-20-9" pos="VVPP">gewöhnt</w>
+        <w lemma="," n="43-20-10" pos="$,">,</w>
+        <w lemma="so" n="43-20-11" pos="ADV">so</w>
+        <w lemma="aus+machen" n="43-20-12" pos="VVFIN">machte</w>
+        <w lemma="dies" n="43-20-13" pos="PDAT">dieser</w>
+        <w lemma="Ausblick" n="43-20-14" pos="NN">Ausblick</w>
+        <w lemma="auf" n="43-20-15" pos="PTKVZ">auf</w>
+        <w lemma="ich" n="43-20-16" pos="PRF">mich</w>
+        <w lemma="ein" n="43-20-17" pos="ART">einen</w>
+        <w lemma="Eindruck" n="43-20-18" pos="NN">Eindruck</w>
+        <w lemma="," n="43-20-19" pos="$,">,</w>
+        <w lemma="d" n="43-20-20" pos="PRELS">der</w>
+        <w lemma="niemals" n="43-20-21" pos="ADV">niemals</w>
+        <w lemma="in" n="43-20-22" pos="APPR">in</w>
+        <w lemma="mein" n="43-20-23" pos="PPOSAT">meinem</w>
+        <w lemma="Gedächtnis" n="43-20-24" pos="NN">Gedächtnis</w>
+        <w lemma="erlöschen" n="43-20-25" pos="VVFIN">erlöschen</w>
+        <w lemma="werden" n="43-20-26" pos="VAFIN">wird</w>
+        <w lemma="." n="43-20-27" pos="$.">.</w>
+        <w lemma="»" n="43-20-28" pos="$(">»</w>
+      </s>
+      <s lang="de" n="43-21">
+        <w lemma="-" n="43-21-1" pos="$(">-</w>
+        <w lemma="was" n="43-21-2" pos="PWS">Was</w>
+        <w lemma="sehen" n="43-21-3" pos="VVFIN">sah</w>
+        <w lemma="er" n="43-21-4" pos="PPER">er</w>
+        <w lemma="denn" n="43-21-5" pos="ADV">denn</w>
+        <w lemma="?" n="43-21-6" pos="$.">?</w>
+      </s>
+      <s lang="de" n="43-22">
+        <w lemma="hinter" n="43-22-1" pos="APPR">Hinter</w>
+        <w lemma="er" n="43-22-2" pos="PPER">ihm</w>
+        <w lemma="wogen" n="43-22-3" pos="VVFIN">wogten</w>
+        <w lemma="d" n="43-22-4" pos="ART">die</w>
+        <w lemma="savoyisch" n="43-22-5" pos="ADJA">savoyischen</w>
+        <w lemma="Kalkalp" n="43-22-6" pos="NN">Kalkalpen</w>
+        <w lemma="bis" n="43-22-7" pos="KON">bis</w>
+        <w lemma="zum" n="43-22-8" pos="APPRART">zum</w>
+        <w lemma="Genfersee" n="43-22-9" pos="NE">Genfersee</w>
+        <w lemma="," n="43-22-10" pos="$,">,</w>
+        <w lemma="vor" n="43-22-11" pos="APPR">vor</w>
+        <w lemma="er" n="43-22-12" pos="PPER">ihm</w>
+        <w lemma="erheben" n="43-22-13" pos="VVFIN">erhob</w>
+        <w lemma="er|es|sie" n="43-22-14" pos="PRF">sich</w>
+        <w lemma="jenseits" n="43-22-15" pos="APPR">jenseits</w>
+        <w lemma="d" n="43-22-16" pos="ART">des</w>
+        <w lemma="Chamonixtal" n="43-22-17" pos="NE">Chamonixtales</w>
+        <w lemma="d" n="43-22-18" pos="ART">der</w>
+        <w lemma="riesig" n="43-22-19" pos="ADJA">riesige</w>
+        <w lemma="Granitdom" n="43-22-20" pos="NN">Granitdom</w>
+        <w lemma="d" n="43-22-21" pos="ART">des</w>
+        <w lemma="Mont" n="43-22-22" pos="NE">Mont</w>
+        <w lemma="Blanc" n="43-22-23" pos="NE">Blanc</w>
+        <w lemma="im" n="43-22-24" pos="APPRART">im</w>
+        <w lemma="schimmernd" n="43-22-25" pos="ADJA">schimmernden</w>
+        <w lemma="Eis+hermelin" n="43-22-26" pos="TRUNC">Eis-</w>
+        <w lemma="und" n="43-22-27" pos="KON">und</w>
+        <w lemma="Schnee#hermelin" n="43-22-28" pos="NN">Schneehermelin</w>
+        <w lemma="." n="43-22-29" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-23">
+        <w lemma="und" n="43-23-1" pos="KON">Und</w>
+        <w lemma="im" n="43-23-2" pos="APPRART">im</w>
+        <w lemma="Innere" n="43-23-3" pos="NN">Innern</w>
+        <w lemma="ahnen" n="43-23-4" pos="VVFIN">ahnte</w>
+        <w lemma="er" n="43-23-5" pos="PPER">er</w>
+        <w lemma="gross" n="43-23-6" pos="ADJA">grosse</w>
+        <w lemma="geologisch" n="43-23-7" pos="ADJA">geologische</w>
+        <w lemma="Problem" n="43-23-8" pos="NN">Probleme</w>
+        <w lemma="," n="43-23-9" pos="$,">,</w>
+        <w lemma="Zusammenhang" n="43-23-10" pos="NN">Zusammenhänge</w>
+        <w lemma="," n="43-23-11" pos="$,">,</w>
+        <w lemma="d" n="43-23-12" pos="PRELS">die</w>
+        <w lemma="erst" n="43-23-13" pos="ADV">erst</w>
+        <w lemma="ein" n="43-23-14" pos="ART">ein</w>
+        <w lemma="Überblick" n="43-23-15" pos="NN">Überblick</w>
+        <w lemma="aus" n="43-23-16" pos="APZR">aus</w>
+        <w lemma="ganz" n="43-23-17" pos="ADV">ganz</w>
+        <w lemma="gross" n="43-23-18" pos="ADJA">grosser</w>
+        <w lemma="Höhe" n="43-23-19" pos="NN">Höhe</w>
+        <w lemma="enträtseln" n="43-23-20" pos="VVINF">enträtseln</w>
+        <w lemma="können" n="43-23-21" pos="VMFIN">konnte</w>
+        <w lemma="." n="43-23-22" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-24">
+        <w lemma="rasch" n="43-24-1" pos="ADJA">Rasch</w>
+        <w lemma="eilen" n="43-24-2" pos="VVFIN">eilte</w>
+        <w lemma="er" n="43-24-3" pos="PPER">er</w>
+        <w lemma="zu" n="43-24-4" pos="APPR">zu</w>
+        <w lemma="Tal" n="43-24-5" pos="NN">Tal</w>
+        <w lemma="und" n="43-24-6" pos="KON">und</w>
+        <w lemma="aus+machen" n="43-24-7" pos="VVFIN">machte</w>
+        <w lemma="an" n="43-24-8" pos="APPR">an</w>
+        <w lemma="d" n="43-24-9" pos="ART">der</w>
+        <w lemma="Gemeindetafel" n="43-24-10" pos="NN">Gemeindetafel</w>
+        <w lemma="d" n="43-24-11" pos="ART">den</w>
+        <w lemma="seltsam" n="43-24-12" pos="ADJA">seltsamen</w>
+        <w lemma="Anschlag" n="43-24-13" pos="NN">Anschlag</w>
+        <w lemma=":" n="43-24-14" pos="$.">:</w>
+      </s>
+      <s lang="de" n="43-25">
+        <w lemma="«" n="43-25-1" pos="$(">«</w>
+        <w lemma="Monsieur" n="43-25-2" pos="NN">Monsieur</w>
+        <w lemma="Horace-Bénédict" n="43-25-3" pos="NE">Horace-Bénédict</w>
+        <w lemma="de" n="43-25-4" pos="NE">de</w>
+        <w lemma="Saussure" n="43-25-5" pos="NE">Saussure</w>
+        <w lemma="aus" n="43-25-6" pos="APPR">aus</w>
+        <w lemma="Genf" n="43-25-7" pos="NE">Genf</w>
+        <w lemma="versprechen" n="43-25-8" pos="VVFIN">verspricht</w>
+        <w lemma="ein" n="43-25-9" pos="ART">eine</w>
+        <w lemma="hoch" n="43-25-10" pos="ADJA">hohe</w>
+        <w lemma="Belohnung" n="43-25-11" pos="NN">Belohnung</w>
+        <w lemma="d" n="43-25-12" pos="PDS">dem</w>
+        <w lemma="," n="43-25-13" pos="$,">,</w>
+        <w lemma="d" n="43-25-14" pos="PRELS">der</w>
+        <w lemma="ein" n="43-25-15" pos="ART">einen</w>
+        <w lemma="gangbar" n="43-25-16" pos="ADJA">gangbaren</w>
+        <w lemma="Weg" n="43-25-17" pos="NN">Weg</w>
+        <w lemma="auf" n="43-25-18" pos="APPR">auf</w>
+        <w lemma="d" n="43-25-19" pos="ART">den</w>
+        <w lemma="Gipfel" n="43-25-20" pos="NN">Gipfel</w>
+        <w lemma="d" n="43-25-21" pos="ART">des</w>
+        <w lemma="Mont" n="43-25-22" pos="NE">Mont</w>
+        <w lemma="Blanc" n="43-25-23" pos="NE">Blanc</w>
+        <w lemma="entdecken" n="43-25-24" pos="VVPP">entdeckt</w>
+        <w lemma="." n="43-25-25" pos="$.">.</w>
+        <w lemma="»" n="43-25-26" pos="$(">»</w>
+      </s>
+      <s lang="de" n="43-26">
+        <w lemma="-" n="43-26-1" pos="$(">-</w>
+        <w lemma="er" n="43-26-2" pos="PPER">Er</w>
+        <w lemma="wollen" n="43-26-3" pos="VMFIN">wollte</w>
+        <w lemma="also" n="43-26-4" pos="ADV">also</w>
+        <w lemma="ein#mal" n="43-26-5" pos="ADV">einmal</w>
+        <w lemma="auf" n="43-26-6" pos="APPR">auf</w>
+        <w lemma="den" n="43-26-7" pos="NE">den</w>
+        <w lemma="«" n="43-26-8" pos="$(">«</w>
+        <w lemma="Weissen" n="43-26-9" pos="NE">Weissen</w>
+        <w lemma="Berg" n="43-26-10" pos="NE">Berg</w>
+        <w lemma="»" n="43-26-11" pos="$(">»</w>
+        <w lemma="." n="43-26-12" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-27">
+        <w lemma="in" n="43-27-1" pos="APPR">In</w>
+        <w lemma="erst" n="43-27-2" pos="ADJA">erster</w>
+        <w lemma="Linie" n="43-27-3" pos="NN">Linie</w>
+        <w lemma="als" n="43-27-4" pos="KON">als</w>
+        <w lemma="Forscher" n="43-27-5" pos="NN">Forscher</w>
+        <w lemma="," n="43-27-6" pos="$,">,</w>
+        <w lemma="doch" n="43-27-7" pos="KON">doch</w>
+        <w lemma="locken" n="43-27-8" pos="VVFIN">lockte</w>
+        <w lemma="d" n="43-27-9" pos="ART">den</w>
+        <w lemma="Jüngling" n="43-27-10" pos="NN">Jüngling</w>
+        <w lemma="wohl" n="43-27-11" pos="ADV">wohl</w>
+        <w lemma="auch" n="43-27-12" pos="ADV">auch</w>
+        <w lemma="d" n="43-27-13" pos="ART">die</w>
+        <w lemma="Gefahr" n="43-27-14" pos="NN">Gefahr</w>
+        <w lemma="," n="43-27-15" pos="$,">,</w>
+        <w lemma="«" n="43-27-16" pos="$(">«</w>
+        <w lemma="d" n="43-27-17" pos="ART">das</w>
+        <w lemma="Schwanken" n="43-27-18" pos="NN">Schwanken</w>
+        <w lemma="zwischen" n="43-27-19" pos="APPR">zwischen</w>
+        <w lemma="Hoffnung" n="43-27-20" pos="NN">Hoffnung</w>
+        <w lemma="und" n="43-27-21" pos="KON">und</w>
+        <w lemma="Furcht" n="43-27-22" pos="NN">Furcht</w>
+        <w lemma="," n="43-27-23" pos="$,">,</w>
+        <w lemma="d" n="43-27-24" pos="PRELS">die</w>
+        <w lemma="beständig" n="43-27-25" pos="ADJA">beständige</w>
+        <w lemma="Erregung" n="43-27-26" pos="NN">Erregung</w>
+        <w lemma="d" n="43-27-27" pos="ART">der</w>
+        <w lemma="Seele" n="43-27-28" pos="NN">Seele</w>
+        <w lemma="»" n="43-27-29" pos="$(">»</w>
+        <w lemma="." n="43-27-30" pos="$.">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="de" n="43-28">
+        <w lemma="«" n="43-28-1" pos="$(">«</w>
+        <w lemma="eine" n="43-28-2" pos="ART">Ein</w>
+        <w lemma="Jahr" n="43-28-3" pos="NN">Jahr</w>
+        <w lemma="nach#her" n="43-28-4" pos="ADV">nachher</w>
+        <w lemma="gehen" n="43-28-5" pos="VVFIN">ging</w>
+        <w lemma="ich" n="43-28-6" pos="PPER">ich</w>
+        <w lemma="wieder" n="43-28-7" pos="ADV">wieder</w>
+        <w lemma="nach" n="43-28-8" pos="APPR">nach</w>
+        <w lemma="Chamonix" n="43-28-9" pos="NE">Chamonix</w>
+        <w lemma="," n="43-28-10" pos="$,">,</w>
+        <w lemma="und" n="43-28-11" pos="KON">und</w>
+        <w lemma="seither" n="43-28-12" pos="ADV">seither</w>
+        <w lemma="sein" n="43-28-13" pos="VAFIN">ist</w>
+        <w lemma="kein" n="43-28-14" pos="PIAT">kein</w>
+        <w lemma="Jahr" n="43-28-15" pos="NN">Jahr</w>
+        <w lemma="verstreichen" n="43-28-16" pos="VVPP">verstrichen</w>
+        <w lemma="," n="43-28-17" pos="$,">,</w>
+        <w lemma="in" n="43-28-18" pos="APPR">in</w>
+        <w lemma="d" n="43-28-19" pos="PRELS">dem</w>
+        <w lemma="ich" n="43-28-20" pos="PPER">ich</w>
+        <w lemma="nicht" n="43-28-21" pos="PTKNEG">nicht</w>
+        <w lemma="gross" n="43-28-22" pos="ADJA">grosse</w>
+        <w lemma="Exkursion" n="43-28-23" pos="NN">Exkursionen</w>
+        <w lemma="und" n="43-28-24" pos="KON">und</w>
+        <w lemma="auch" n="43-28-25" pos="ADV">auch</w>
+        <w lemma="Reise|Reisen" n="43-28-26" pos="NN">Reisen</w>
+        <w lemma="für" n="43-28-27" pos="ADV">für</w>
+        <w lemma="d" n="43-28-28" pos="ART">das</w>
+        <w lemma="Studium" n="43-28-29" pos="NN">Studium</w>
+        <w lemma="d" n="43-28-30" pos="ART">der</w>
+        <w lemma="Gebirge" n="43-28-31" pos="NN">Gebirge</w>
+        <w lemma="machen" n="43-28-32" pos="VVPP">gemacht</w>
+        <w lemma="haben" n="43-28-33" pos="VAFIN">habe</w>
+        <w lemma="." n="43-28-34" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-29">
+        <w lemma="in" n="43-29-1" pos="APPR">In</w>
+        <w lemma="dies" n="43-29-2" pos="PDAT">diesem</w>
+        <w lemma="Zeitraum" n="43-29-3" pos="NN">Zeiträume</w>
+        <w lemma="haben" n="43-29-4" pos="VAFIN">habe</w>
+        <w lemma="ich" n="43-29-5" pos="PPER">ich</w>
+        <w lemma="vierzehnmal" n="43-29-6" pos="ADV">vierzehnmal</w>
+        <w lemma="auf" n="43-29-7" pos="APPR">auf</w>
+        <w lemma="acht" n="43-29-8" pos="CARD">acht</w>
+        <w lemma="verschieden" n="43-29-9" pos="ADJA">verschiedenen</w>
+        <w lemma="Strasse" n="43-29-10" pos="NN">Strassen</w>
+        <w lemma="d" n="43-29-11" pos="ART">die</w>
+        <w lemma="ganz" n="43-29-12" pos="ADJA">ganze</w>
+        <w lemma="Kette" n="43-29-13" pos="NN">Kette</w>
+        <w lemma="d" n="43-29-14" pos="ART">der</w>
+        <w lemma="Alp" n="43-29-15" pos="NN">Alpen</w>
+        <pb facs="273" n="214" />
+        <w lemma="durchwandern" n="43-29-16" pos="VVPP">durchwandert</w>
+        <w lemma="und" n="43-29-17" pos="KON">und</w>
+        <w lemma="haben" n="43-29-18" pos="VAFIN">habe</w>
+        <w lemma="noch" n="43-29-19" pos="ADV">noch</w>
+        <w lemma="sechzehn" n="43-29-20" pos="CARD">sechzehn</w>
+        <w lemma="ander" n="43-29-21" pos="ADJA">andere</w>
+        <w lemma="naturforschend" n="43-29-22" pos="ADJA">naturforschende</w>
+        <w lemma="Reise|Reisen" n="43-29-23" pos="NN">Reisen</w>
+        <w lemma="bis" n="43-29-24" pos="KON">bis</w>
+        <w lemma="in" n="43-29-25" pos="APPR">in</w>
+        <w lemma="ihr" n="43-29-26" pos="PPOSAT">ihren</w>
+        <w lemma="Mittelpunkt" n="43-29-27" pos="NN">Mittelpunkt</w>
+        <w lemma="unternehmen" n="43-29-28" pos="VVPP">unternommen</w>
+        <w lemma="." n="43-29-29" pos="$.">.</w>
+        <w lemma="»" n="43-29-30" pos="$(">»</w>
+      </s>
+      <s lang="de" n="43-30">
+        <w lemma="so" n="43-30-1" pos="ADV">So</w>
+        <w lemma="können" n="43-30-2" pos="VMFIN">konnte</w>
+        <w lemma="er" n="43-30-3" pos="PPER">er</w>
+        <w lemma="spät" n="43-30-4" pos="ADJD">später</w>
+        <w lemma="in" n="43-30-5" pos="APPR">in</w>
+        <w lemma="d" n="43-30-6" pos="ART">der</w>
+        <w lemma="Vorrede" n="43-30-7" pos="NN">Vorrede</w>
+        <w lemma="sein" n="43-30-8" pos="PPOSAT">seines</w>
+        <w lemma="europäisch" n="43-30-9" pos="ADJD">europäisch</w>
+        <w lemma="worden" n="43-30-10" pos="ADJA">gewordenen</w>
+        <w lemma="vierbändig" n="43-30-11" pos="ADJA">vierbändigen</w>
+        <w lemma="Werk" n="43-30-12" pos="NN">Werkes</w>
+        <w lemma="«" n="43-30-13" pos="$(">«</w>
+        <w lemma="unk" n="43-30-14" pos="NN">Voyages</w>
+        <w lemma="unk" n="43-30-15" pos="NE">dans</w>
+        <w lemma="les" n="43-30-16" pos="NE">les</w>
+        <w lemma="unk" n="43-30-17" pos="ADJA">alpes</w>
+        <w lemma="»" n="43-30-18" pos="$(">»</w>
+        <w lemma="sagen" n="43-30-19" pos="VVINF">sagen</w>
+        <w lemma="." n="43-30-20" pos="$.">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="de" n="43-31">
+        <w lemma="d" n="43-31-1" pos="ART">Der</w>
+        <w lemma="adelig" n="43-31-2" pos="ADJA">adelige</w>
+        <w lemma="Professor" n="43-31-3" pos="NN">Professor</w>
+        <w lemma="d" n="43-31-4" pos="ART">der</w>
+        <w lemma="Weltweisheit" n="43-31-5" pos="NN">Weltweisheit</w>
+        <w lemma="zu" n="43-31-6" pos="APPR">zu</w>
+        <w lemma="Genf" n="43-31-7" pos="NE">Genf</w>
+        <w lemma="finden" n="43-31-8" pos="VVFIN">fand</w>
+        <w lemma="stets" n="43-31-9" pos="ADV">stets</w>
+        <w lemma="gut" n="43-31-10" pos="ADJA">gute</w>
+        <w lemma="Aufnahme" n="43-31-11" pos="NN">Aufnahme</w>
+        <w lemma="in" n="43-31-12" pos="APPR">in</w>
+        <w lemma="d" n="43-31-13" pos="ART">den</w>
+        <w lemma="entlegen" n="43-31-14" pos="ADJA">entlegenen</w>
+        <w lemma="Bergdörfchen" n="43-31-15" pos="NN">Bergdörfchen</w>
+        <w lemma="und" n="43-31-16" pos="KON">und</w>
+        <w lemma="Sennhütte" n="43-31-17" pos="NN">Sennhütten</w>
+        <w lemma="." n="43-31-18" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-32">
+        <w lemma="denn" n="43-32-1" pos="KON">Denn</w>
+        <w lemma="er" n="43-32-2" pos="PPER">er</w>
+        <w lemma="auf+treten" n="43-32-3" pos="VVFIN">trat</w>
+        <w lemma="ohne" n="43-32-4" pos="APPR">ohne</w>
+        <w lemma="jeglich" n="43-32-5" pos="PIAT">jeglichen</w>
+        <w lemma="Standeshochmut" n="43-32-6" pos="NN">Standeshochmut</w>
+        <w lemma="auf" n="43-32-7" pos="PTKVZ">auf</w>
+        <w lemma="und" n="43-32-8" pos="KON">und</w>
+        <w lemma="gewinnen" n="43-32-9" pos="VVFIN">gewann</w>
+        <w lemma="überall" n="43-32-10" pos="ADV">überall</w>
+        <w lemma="rasch" n="43-32-11" pos="ADJD">rasch</w>
+        <w lemma="d" n="43-32-12" pos="ART">die</w>
+        <w lemma="Herz" n="43-32-13" pos="NN">Herzen</w>
+        <w lemma="d" n="43-32-14" pos="ART">der</w>
+        <w lemma="Älpler" n="43-32-15" pos="NN">Älpler</w>
+        <w lemma="." n="43-32-16" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-33">
+        <w lemma="d" n="43-33-1" pos="ART">Dem</w>
+        <w lemma="Höflich" n="43-33-2" pos="NN">Höflichen</w>
+        <w lemma="und" n="43-33-3" pos="KON">und</w>
+        <w lemma="Gütig" n="43-33-4" pos="NN">Gütigen</w>
+        <w lemma="begegnen" n="43-33-5" pos="VVFIN">begegnete</w>
+        <w lemma="man" n="43-33-6" pos="PIS">man</w>
+        <w lemma="gerne" n="43-33-7" pos="ADV">gerne</w>
+        <w lemma="höflich" n="43-33-8" pos="ADJD">höflich</w>
+        <w lemma="und" n="43-33-9" pos="KON">und</w>
+        <w lemma="sondern" n="43-33-10" pos="VVIMP">sonder</w>
+        <w lemma="Eigennutz" n="43-33-11" pos="NN">Eigennutz</w>
+        <w lemma="." n="43-33-12" pos="$.">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="de" n="43-34">
+        <w lemma="auf" n="43-34-1" pos="APPR">Auf</w>
+        <w lemma="sein" n="43-34-2" pos="PPOSAT">seinen</w>
+        <w lemma="viel" n="43-34-3" pos="PIS">vielen</w>
+        <w lemma="systematisch" n="43-34-4" pos="ADJD">systematisch</w>
+        <w lemma="vorbereitet" n="43-34-5" pos="ADJA">vorbereiteten</w>
+        <w lemma="Alpenfahrt" n="43-34-6" pos="NN">Alpenfahrten</w>
+        <w lemma="gehorchen" n="43-34-7" pos="VVFIN">gehorchte</w>
+        <w lemma="er" n="43-34-8" pos="PPER">er</w>
+        <w lemma="stets" n="43-34-9" pos="ADV">stets</w>
+        <w lemma="d" n="43-34-10" pos="ART">dem</w>
+        <w lemma="«" n="43-34-11" pos="$(">«</w>
+        <w lemma="streng" n="43-34-12" pos="ADJA">strengen</w>
+        <w lemma="Gesetz" n="43-34-13" pos="NN">Gesetz</w>
+        <w lemma="»" n="43-34-14" pos="$(">»</w>
+        <w lemma="," n="43-34-15" pos="$,">,</w>
+        <w lemma="sein" n="43-34-16" pos="PPOSAT">seine</w>
+        <w lemma="Beobachtung" n="43-34-17" pos="NN">Beobachtungen</w>
+        <w lemma="an" n="43-34-18" pos="APPR">an</w>
+        <w lemma="Ort" n="43-34-19" pos="NN">Ort</w>
+        <w lemma="und" n="43-34-20" pos="KON">und</w>
+        <w lemma="Stelle" n="43-34-21" pos="NN">Stelle</w>
+        <w lemma="niederschreiben" n="43-34-22" pos="VVIZU">niederzuschreiben</w>
+        <w lemma="und" n="43-34-23" pos="KON">und</w>
+        <w lemma="sein" n="43-34-24" pos="PPOSAT">seine</w>
+        <w lemma="Anmerkung" n="43-34-25" pos="NN">Anmerkungen</w>
+        <w lemma="unk" n="43-34-26" pos="ADJD">innert</w>
+        <w lemma="@card@" n="43-34-27" pos="CARD">24</w>
+        <w lemma="Stunde" n="43-34-28" pos="NN">Stunden</w>
+        <w lemma="ins" n="43-34-29" pos="APPRART">ins</w>
+        <w lemma="rein" n="43-34-30" pos="ADJA">reine</w>
+        <w lemma="zu" n="43-34-31" pos="PTKZU">zu</w>
+        <w lemma="bringen" n="43-34-32" pos="VVINF">bringen</w>
+        <w lemma="." n="43-34-33" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-35">
+        <w lemma="d" n="43-35-1" pos="PDS">Das</w>
+        <w lemma="sein" n="43-35-2" pos="VAFIN">ist</w>
+        <w lemma="keineswegs" n="43-35-3" pos="ADV">keineswegs</w>
+        <w lemma="selbstverständlich" n="43-35-4" pos="ADJD">selbstverständlich</w>
+        <w lemma="," n="43-35-5" pos="$,">,</w>
+        <w lemma="denn" n="43-35-6" pos="KON">denn</w>
+        <w lemma="ein" n="43-35-7" pos="ART">ein</w>
+        <w lemma="Alpenforscher" n="43-35-8" pos="NN">Alpenforscher</w>
+        <w lemma="verspüren" n="43-35-9" pos="VVFIN">verspürt</w>
+        <w lemma="d" n="43-35-10" pos="ART">die</w>
+        <w lemma="Anstrengung" n="43-35-11" pos="NN">Anstrengungen</w>
+        <w lemma="d" n="43-35-12" pos="ART">des</w>
+        <w lemma="Körper" n="43-35-13" pos="NN">Körpers</w>
+        <w lemma="so" n="43-35-14" pos="ADV">so</w>
+        <w lemma="gut" n="43-35-15" pos="ADJA">gut</w>
+        <w lemma="wie" n="43-35-16" pos="KOKOM">wie</w>
+        <w lemma="ein" n="43-35-17" pos="ART">ein</w>
+        <w lemma="Bergsteiger" n="43-35-18" pos="NN">Bergsteiger</w>
+        <w lemma="," n="43-35-19" pos="$,">,</w>
+        <w lemma="d" n="43-35-20" pos="PRELAT">dessen</w>
+        <w lemma="Geist" n="43-35-21" pos="NN">Geist</w>
+        <w lemma="vom" n="43-35-22" pos="APPRART">vom</w>
+        <w lemma="Alltag" n="43-35-23" pos="NN">Alltag</w>
+        <w lemma="ausruhen" n="43-35-24" pos="VVINF">ausruhen</w>
+        <w lemma="wollen" n="43-35-25" pos="VMFIN">will</w>
+        <w lemma="." n="43-35-26" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-36">
+        <w lemma="gerade" n="43-36-1" pos="ADV">Gerade</w>
+        <w lemma="dadurch" n="43-36-2" pos="PAV">dadurch</w>
+        <w lemma="," n="43-36-3" pos="$,">,</w>
+        <w lemma="da" n="43-36-4" pos="ADV">da</w>
+        <w lemma="unk" n="43-36-5" pos="VVFIN">ss</w>
+        <w lemma="er" n="43-36-6" pos="PPER">er</w>
+        <w lemma="gross" n="43-36-7" pos="ADJA">grosse</w>
+        <w lemma="geistig" n="43-36-8" pos="ADJA">geistige</w>
+        <w lemma="und" n="43-36-9" pos="KON">und</w>
+        <w lemma="körperlich" n="43-36-10" pos="ADJA">körperliche</w>
+        <w lemma="Leistung" n="43-36-11" pos="NN">Leistungen</w>
+        <w lemma="auf" n="43-36-12" pos="APPR">auf</w>
+        <w lemma="er|es|sie" n="43-36-13" pos="PRF">sich</w>
+        <w lemma="nehmen" n="43-36-14" pos="VVFIN">nimmt</w>
+        <w lemma="," n="43-36-15" pos="$,">,</w>
+        <w lemma="heben" n="43-36-16" pos="VVFIN">hebt</w>
+        <w lemma="er" n="43-36-17" pos="PPER">er</w>
+        <w lemma="sein" n="43-36-18" pos="PPOSAT">sein</w>
+        <w lemma="Tun" n="43-36-19" pos="NN">Tun</w>
+        <w lemma="und" n="43-36-20" pos="KON">und</w>
+        <w lemma="Tracht|Trachten" n="43-36-21" pos="NN">Trachten</w>
+        <w lemma="in" n="43-36-22" pos="APPR">in</w>
+        <w lemma="ein" n="43-36-23" pos="ART">eine</w>
+        <w lemma="hoch" n="43-36-24" pos="ADJA">höhere</w>
+        <w lemma="Sphäre" n="43-36-25" pos="NN">Sphäre</w>
+        <w lemma="." n="43-36-26" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-37">
+        <w lemma="dabei" n="43-37-1" pos="PAV">Dabei</w>
+        <w lemma="bleiben" n="43-37-2" pos="VVFIN">blieb</w>
+        <w lemma="Saussure" n="43-37-3" pos="NE">Saussure</w>
+        <w lemma="stets" n="43-37-4" pos="ADV">stets</w>
+        <w lemma="bescheiden" n="43-37-5" pos="ADJD">bescheiden</w>
+        <w lemma="trotz" n="43-37-6" pos="APPR">trotz</w>
+        <w lemma="d" n="43-37-7" pos="ART">des</w>
+        <w lemma="wachsend" n="43-37-8" pos="ADJA">wachsenden</w>
+        <w lemma="Ruhm" n="43-37-9" pos="NN">Ruhmes</w>
+        <w lemma="und" n="43-37-10" pos="KON">und</w>
+        <w lemma="zahlreicher" n="43-37-11" pos="ADJA">zahlreicher</w>
+        <w lemma="Ehrung" n="43-37-12" pos="NN">Ehrungen</w>
+        <w lemma="," n="43-37-13" pos="$,">,</w>
+        <w lemma="denn" n="43-37-14" pos="KON">denn</w>
+        <w lemma="d" n="43-37-15" pos="ART">die</w>
+        <w lemma="Erkenntnis" n="43-37-16" pos="NN">Erkenntnis</w>
+        <w lemma="d" n="43-37-17" pos="ART">der</w>
+        <w lemma="Fülle" n="43-37-18" pos="NN">Fülle</w>
+        <w lemma="noch" n="43-37-19" pos="KON">noch</w>
+        <w lemma="ungelöst" n="43-37-20" pos="ADJA">ungelöster</w>
+        <w lemma="Problem" n="43-37-21" pos="NN">Probleme</w>
+        <w lemma="und" n="43-37-22" pos="KON">und</w>
+        <w lemma="d" n="43-37-23" pos="ART">der</w>
+        <w lemma="Lücke" n="43-37-24" pos="NN">Lücken</w>
+        <w lemma="in" n="43-37-25" pos="APPR">in</w>
+        <w lemma="d" n="43-37-26" pos="ART">der</w>
+        <w lemma="damals" n="43-37-27" pos="ADV">damals</w>
+        <w lemma="erst" n="43-37-28" pos="ADV">erst</w>
+        <w lemma="erwachend" n="43-37-29" pos="ADJA">erwachenden</w>
+        <w lemma="und" n="43-37-30" pos="KON">und</w>
+        <w lemma="von" n="43-37-31" pos="APPR">von</w>
+        <w lemma="er" n="43-37-32" pos="PPER">ihm</w>
+        <w lemma="begründet" n="43-37-33" pos="ADJA">begründeten</w>
+        <w lemma="Gebirgsgeologie" n="43-37-34" pos="NN">Gebirgsgeologie</w>
+        <w lemma="bleiben" n="43-37-35" pos="VVFIN">blieb</w>
+        <w lemma="er" n="43-37-36" pos="PPER">ihm</w>
+        <w lemma="nicht" n="43-37-37" pos="PTKNEG">nicht</w>
+        <w lemma="verbergen" n="43-37-38" pos="VVPP">verborgen</w>
+        <w lemma="." n="43-37-39" pos="$.">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="de" n="43-38">
+        <w lemma="d" n="43-38-1" pos="ART">Die</w>
+        <w lemma="Besteigung" n="43-38-2" pos="NN">Besteigung</w>
+        <w lemma="d" n="43-38-3" pos="ART">des</w>
+        <w lemma="Mont" n="43-38-4" pos="NE">Mont</w>
+        <w lemma="Blanc" n="43-38-5" pos="NE">Blanc</w>
+        <w lemma="lassen" n="43-38-6" pos="VVFIN">liess</w>
+        <w lemma="er" n="43-38-7" pos="PPER">er</w>
+        <w lemma="nicht" n="43-38-8" pos="PTKNEG">nicht</w>
+        <w lemma="aus" n="43-38-9" pos="APPR">aus</w>
+        <w lemma="d" n="43-38-10" pos="ART">dem</w>
+        <w lemma="Auge" n="43-38-11" pos="NN">Auge</w>
+        <w lemma="," n="43-38-12" pos="$,">,</w>
+        <w lemma="liegen" n="43-38-13" pos="VVFIN">lag</w>
+        <w lemma="doch" n="43-38-14" pos="ADV">doch</w>
+        <w lemma="d" n="43-38-15" pos="ART">das</w>
+        <w lemma="Studium" n="43-38-16" pos="NN">Studium</w>
+        <w lemma="d" n="43-38-17" pos="ART">des</w>
+        <w lemma="Urgebirge" n="43-38-18" pos="NN">Urgebirges</w>
+        <w lemma="er" n="43-38-19" pos="PPER">ihm</w>
+        <w lemma="besonders" n="43-38-20" pos="ADV">besonders</w>
+        <w lemma="am" n="43-38-21" pos="APPRART">am</w>
+        <w lemma="Herz" n="43-38-22" pos="NN">Herzen</w>
+        <w lemma="," n="43-38-23" pos="$,">,</w>
+        <w lemma="wofür" n="43-38-24" pos="PWAV">wofür</w>
+        <w lemma="zum" n="43-38-25" pos="APPRART">zum</w>
+        <w lemma="Beispiel" n="43-38-26" pos="NN">Beispiel</w>
+        <w lemma="sein" n="43-38-27" pos="PPOSAT">seine</w>
+        <w lemma="«" n="43-38-28" pos="$(">«</w>
+        <w lemma="Reise" n="43-38-29" pos="NN">Reise</w>
+        <w lemma="um" n="43-38-30" pos="APPR">um</w>
+        <w lemma="den" n="43-38-31" pos="NE">den</w>
+        <w lemma="Mont" n="43-38-32" pos="NE">Mont</w>
+        <w lemma="Blanc" n="43-38-33" pos="NE">Blanc</w>
+        <w lemma="»" n="43-38-34" pos="$(">»</w>
+        <w lemma="@card@" n="43-38-35" pos="CARD">1778</w>
+        <w lemma="während" n="43-38-36" pos="APPR">während</w>
+        <w lemma="@card@" n="43-38-37" pos="CARD">22</w>
+        <w lemma="Tag" n="43-38-38" pos="NN">Tagen</w>
+        <w lemma="zur" n="43-38-39" pos="APPRART">zur</w>
+        <w lemma="Genüge" n="43-38-40" pos="NN">Genüge</w>
+        <w lemma="zeugen" n="43-38-41" pos="VVFIN">zeugt</w>
+        <w lemma="." n="43-38-42" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-39">
+        <w lemma="da" n="43-39-1" pos="ADV">Da</w>
+        <w lemma="vernehmen" n="43-39-2" pos="VVFIN">vernahm</w>
+        <w lemma="er" n="43-39-3" pos="PPER">er</w>
+        <w lemma="," n="43-39-4" pos="$,">,</w>
+        <w lemma="dass" n="43-39-5" pos="KOUS">dass</w>
+        <w lemma="@card@" n="43-39-6" pos="CARD">1786</w>
+        <w lemma="zwei" n="43-39-7" pos="CARD">zwei</w>
+        <w lemma="Savoyarde" n="43-39-8" pos="NN">Savoyarden</w>
+        <w lemma="ein" n="43-39-9" pos="ART">einen</w>
+        <w lemma="Weg" n="43-39-10" pos="NN">Weg</w>
+        <w lemma="auf" n="43-39-11" pos="APPR">auf</w>
+        <w lemma="d" n="43-39-12" pos="ART">den</w>
+        <w lemma="Gipfel" n="43-39-13" pos="NN">Gipfel</w>
+        <w lemma="finden" n="43-39-14" pos="VVPP">gefunden</w>
+        <w lemma="haben" n="43-39-15" pos="VAFIN">hatten</w>
+        <w lemma=":" n="43-39-16" pos="$.">:</w>
+      </s>
+      <s lang="de" n="43-40">
+        <w lemma="Paccard" n="43-40-1" pos="NE">Paccard</w>
+        <w lemma="," n="43-40-2" pos="$,">,</w>
+        <w lemma="d" n="43-40-3" pos="PRELS">der</w>
+        <w lemma="kühn" n="43-40-4" pos="ADJA">kühne</w>
+        <w lemma="Dorfarzt" n="43-40-5" pos="NN">Dorfarzt</w>
+        <w lemma="von" n="43-40-6" pos="NE">von</w>
+        <w lemma="Chamonix" n="43-40-7" pos="NE">Chamonix</w>
+        <w lemma="," n="43-40-8" pos="$,">,</w>
+        <w lemma="und" n="43-40-9" pos="KON">und</w>
+        <w lemma="d" n="43-40-10" pos="ART">der</w>
+        <w lemma="Führer" n="43-40-11" pos="NN">Führer</w>
+        <w lemma="Jacques" n="43-40-12" pos="NE">Jacques</w>
+        <w lemma="Balmatx" n="43-40-13" pos="NE">Balmatx</w>
+        <w lemma=")" n="43-40-14" pos="$(">)</w>
+        <w lemma="." n="43-40-15" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-41">
+        <w lemma="und" n="43-41-1" pos="KON">Und</w>
+        <w lemma="schon" n="43-41-2" pos="ADV">schon</w>
+        <w lemma="im" n="43-41-3" pos="APPRART">im</w>
+        <w lemma="nah" n="43-41-4" pos="ADJA">nächsten</w>
+        <w lemma="Jahr" n="43-41-5" pos="NN">Jahr</w>
+        <w lemma="erscheinen" n="43-41-6" pos="VVFIN">erschien</w>
+        <w lemma="Saussure" n="43-41-7" pos="NE">Saussure</w>
+        <w lemma="wieder" n="43-41-8" pos="ADV">wieder</w>
+        <w lemma="in" n="43-41-9" pos="APPR">in</w>
+        <w lemma="Chamonix" n="43-41-10" pos="NE">Chamonix</w>
+        <w lemma=";" n="43-41-11" pos="$.">;</w>
+        <w lemma="denn" n="43-41-12" pos="KON">denn</w>
+        <w lemma="jetzt" n="43-41-13" pos="ADV">jetzt</w>
+        <w lemma="können" n="43-41-14" pos="VMFIN">konnte</w>
+        <w lemma="er|es|sie" n="43-41-15" pos="PRF">sich</w>
+        <w lemma="sein" n="43-41-16" pos="PPOSAT">sein</w>
+        <w lemma="Lebenswunsch" n="43-41-17" pos="NN">Lebenswunsch</w>
+        <w lemma="erfüllen" n="43-41-18" pos="VVINF">erfüllen</w>
+        <w lemma="." n="43-41-19" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-42">
+        <w lemma="er" n="43-42-1" pos="PPER">Er</w>
+        <w lemma="engagieren" n="43-42-2" pos="VVFIN">engagierte</w>
+        <w lemma="ein" n="43-42-3" pos="ART">eine</w>
+        <w lemma="stattlich" n="43-42-4" pos="ADJA">stattliche</w>
+        <w lemma="Gesellschaft" n="43-42-5" pos="NN">Gesellschaft</w>
+        <w lemma="von" n="43-42-6" pos="APPR">von</w>
+        <w lemma="@card@" n="43-42-7" pos="CARD">18</w>
+        <w lemma="Führer" n="43-42-8" pos="NN">Führern</w>
+        <w lemma="und" n="43-42-9" pos="KON">und</w>
+        <w lemma="Träger" n="43-42-10" pos="NN">Trägern</w>
+        <w lemma="und" n="43-42-11" pos="KON">und</w>
+        <w lemma="auf+steigen" n="43-42-12" pos="VVFIN">stieg</w>
+        <w lemma="auf" n="43-42-13" pos="PTKVZ">auf</w>
+        <w lemma="." n="43-42-14" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-43">
+        <w lemma="zwei" n="43-43-1" pos="CARD">Zwei</w>
+        <w lemma="Nacht" n="43-43-2" pos="NN">Nächte</w>
+        <w lemma="werden" n="43-43-3" pos="VAFIN">wurden</w>
+        <w lemma="hoch" n="43-43-4" pos="ADJD">hoch</w>
+        <w lemma="oben" n="43-43-5" pos="ADV">oben</w>
+        <w lemma="zubringen" n="43-43-6" pos="VVPP">zugebracht</w>
+        <w lemma="." n="43-43-7" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-44">
+        <w lemma="im" n="43-44-1" pos="APPRART">Im</w>
+        <w lemma="erst" n="43-44-2" pos="ADJA">ersten</w>
+        <w lemma="Lager" n="43-44-3" pos="NN">Lager</w>
+        <w lemma="bekommen" n="43-44-4" pos="VVFIN">bekam</w>
+        <w lemma="er" n="43-44-5" pos="PPER">er</w>
+        <w lemma="ein" n="43-44-6" pos="ART">einen</w>
+        <w lemma="Brief" n="43-44-7" pos="NN">Brief</w>
+        <w lemma="von" n="43-44-8" pos="APPR">von</w>
+        <w lemma="sein" n="43-44-9" pos="PPOSAT">seiner</w>
+        <w lemma="feingebildet" n="43-44-10" pos="ADJA">feingebildeten</w>
+        <w lemma="Gattin" n="43-44-11" pos="NN">Gattin</w>
+        <w lemma="Albertine" n="43-44-12" pos="NE">Albertine</w>
+        <w lemma="," n="43-44-13" pos="$,">,</w>
+        <w lemma="d" n="43-44-14" pos="PRELS">die</w>
+        <w lemma="mit" n="43-44-15" pos="APPR">mit</w>
+        <w lemma="ihr" n="43-44-16" pos="PPOSAT">ihren</w>
+        <w lemma="zwei" n="43-44-17" pos="CARD">zwei</w>
+        <w lemma="Schwester" n="43-44-18" pos="NN">Schwestern</w>
+        <w lemma="im" n="43-44-19" pos="APPRART">im</w>
+        <w lemma="Dorf" n="43-44-20" pos="NN">Dorf</w>
+        <w lemma="unten" n="43-44-21" pos="ADV">unten</w>
+        <w lemma="weilen" n="43-44-22" pos="VVFIN">weilte</w>
+        <w lemma="." n="43-44-23" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-45">
+        <w lemma="Sie|sie" n="43-45-1" pos="PPER">Sie</w>
+        <w lemma="schreiben" n="43-45-2" pos="VVFIN">schrieb</w>
+        <w lemma="," n="43-45-3" pos="$,">,</w>
+        <w lemma="dass" n="43-45-4" pos="KOUS">dass</w>
+        <w lemma="sie" n="43-45-5" pos="PPER">sie</w>
+        <w lemma="vernünftig" n="43-45-6" pos="ADJD">vernünftig</w>
+        <w lemma="sein" n="43-45-7" pos="VAFIN">sei</w>
+        <w lemma="," n="43-45-8" pos="$,">,</w>
+        <w lemma="«" n="43-45-9" pos="$(">«</w>
+        <w lemma="wie" n="43-45-10" pos="KOUS">wie</w>
+        <w lemma="es" n="43-45-11" pos="PPER">es</w>
+        <w lemma="möglich" n="43-45-12" pos="ADJD">möglich</w>
+        <w lemma="sein" n="43-45-13" pos="VAFIN">ist</w>
+        <w lemma="," n="43-45-14" pos="$,">,</w>
+        <w lemma="wenn" n="43-45-15" pos="KOUS">wenn</w>
+        <w lemma="man" n="43-45-16" pos="PIS">man</w>
+        <w lemma="all" n="43-45-17" pos="PIAT">all</w>
+        <w lemma="sein" n="43-45-18" pos="PPOSAT">sein</w>
+        <w lemma="Glück" n="43-45-19" pos="NN">Glück</w>
+        <w lemma="auf" n="43-45-20" pos="APPR">auf</w>
+        <w lemma="d" n="43-45-21" pos="ART">dem</w>
+        <w lemma="Mont" n="43-45-22" pos="NE">Mont</w>
+        <w lemma="Blanc" n="43-45-23" pos="NE">Blanc</w>
+        <w lemma="wissen" n="43-45-24" pos="VVFIN">weiss</w>
+        <w lemma="»" n="43-45-25" pos="$(">»</w>
+        <w lemma="." n="43-45-26" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-46">
+        <w lemma="aber" n="43-46-1" pos="KON">Aber</w>
+        <w lemma="ihr" n="43-46-2" pos="PPOSAT">ihr</w>
+        <w lemma="Herz" n="43-46-3" pos="NN">Herz</w>
+        <w lemma="sein" n="43-46-4" pos="VAFIN">war</w>
+        <w lemma="voll" n="43-46-5" pos="ADJD">voll</w>
+        <w lemma="Unruhe" n="43-46-6" pos="NN">Unruhe</w>
+        <w lemma="." n="43-46-7" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-47">
+        <w lemma="Stundenlang" n="43-47-1" pos="NE">Stundenlang</w>
+        <w lemma="vor+sitzen" n="43-47-2" pos="VVFIN">sass</w>
+        <w lemma="sie" n="43-47-3" pos="PPER">sie</w>
+        <w lemma="in" n="43-47-4" pos="APPR">in</w>
+        <w lemma="Chamonix" n="43-47-5" pos="NE">Chamonix</w>
+        <w lemma="unten" n="43-47-6" pos="ADV">unten</w>
+        <w lemma="am" n="43-47-7" pos="APPRART">am</w>
+        <w lemma="Fernrohr" n="43-47-8" pos="NN">Fernrohr</w>
+        <w lemma="," n="43-47-9" pos="$,">,</w>
+        <w lemma="beobachten" n="43-47-10" pos="VVFIN">beobachtete</w>
+        <w lemma="d" n="43-47-11" pos="ART">den</w>
+        <w lemma="Aufstieg" n="43-47-12" pos="NN">Aufstieg</w>
+        <w lemma="d" n="43-47-13" pos="ART">der</w>
+        <w lemma="Mann" n="43-47-14" pos="NN">Männer</w>
+        <w lemma="und" n="43-47-15" pos="KON">und</w>
+        <w lemma="sein" n="43-47-16" pos="VAFIN">war</w>
+        <w lemma="glücklich-stolz" n="43-47-17" pos="ADJA">glücklich-stolz</w>
+        <w lemma="auf" n="43-47-18" pos="APPR">auf</w>
+        <w lemma="ihr" n="43-47-19" pos="PPOSAT">ihren</w>
+        <w lemma="kühn" n="43-47-20" pos="ADJA">kühnen</w>
+        <w lemma="Horace" n="43-47-21" pos="NE">Horace</w>
+        <w lemma="." n="43-47-22" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-48">
+        <w lemma="aber" n="43-48-1" pos="KON">Aber</w>
+        <w lemma="am" n="43-48-2" pos="APPRART">am</w>
+        <w lemma="nah" n="43-48-3" pos="ADJA">nächsten</w>
+        <w lemma="Morgen" n="43-48-4" pos="NN">Morgen</w>
+        <w lemma="," n="43-48-5" pos="$,">,</w>
+        <w lemma="als" n="43-48-6" pos="KOUS">als</w>
+        <w lemma="sie" n="43-48-7" pos="PPER">sie</w>
+        <w lemma="wieder" n="43-48-8" pos="ADV">wieder</w>
+        <w lemma="am" n="43-48-9" pos="APPRART">am</w>
+        <w lemma="Teleskop" n="43-48-10" pos="NN">Teleskop</w>
+        <w lemma="weilen" n="43-48-11" pos="VVFIN">weilte</w>
+        <w lemma="und" n="43-48-12" pos="KON">und</w>
+        <w lemma="d" n="43-48-13" pos="ART">die</w>
+        <w lemma="Mann" n="43-48-14" pos="NN">Männer</w>
+        <w lemma="nur" n="43-48-15" pos="ADV">nur</w>
+        <w lemma="noch" n="43-48-16" pos="ADV">noch</w>
+        <w lemma="als" n="43-48-17" pos="KOKOM">als</w>
+        <w lemma="schwarz" n="43-48-18" pos="ADJA">schwarze</w>
+        <w lemma="unk" n="43-48-19" pos="NN">Pünktleinkette</w>
+        <w lemma="unglaublich" n="43-48-20" pos="ADJD">unglaublich</w>
+        <w lemma="hoch" n="43-48-21" pos="ADJD">hoch</w>
+        <w lemma="am" n="43-48-22" pos="APPRART">am</w>
+        <w lemma="letzt" n="43-48-23" pos="ADJA">letzten</w>
+        <w lemma="Hang" n="43-48-24" pos="NN">Hang</w>
+        <w lemma="langsam" n="43-48-25" pos="ADJD">langsam</w>
+        <w lemma="vorrücken" n="43-48-26" pos="VVINF">vorrücken</w>
+        <w lemma="und" n="43-48-27" pos="KON">und</w>
+        <w lemma="immer" n="43-48-28" pos="ADV">immer</w>
+        <w lemma="wieder" n="43-48-29" pos="ADV">wieder</w>
+        <w lemma="anhalten" n="43-48-30" pos="VVINF">anhalten</w>
+        <w lemma="sehen" n="43-48-31" pos="VVFIN">sah</w>
+        <w lemma="," n="43-48-32" pos="$,">,</w>
+        <w lemma="da" n="43-48-33" pos="KOUS">da</w>
+        <w lemma="können" n="43-48-34" pos="VMFIN">konnte</w>
+        <w lemma="es" n="43-48-35" pos="PPER">es</w>
+        <w lemma="d" n="43-48-36" pos="ART">die</w>
+        <w lemma="gut" n="43-48-37" pos="ADJA">gute</w>
+        <w lemma="Albertine" n="43-48-38" pos="NE">Albertine</w>
+        <w lemma="nicht" n="43-48-39" pos="PTKNEG">nicht</w>
+        <w lemma="mehr" n="43-48-40" pos="ADV">mehr</w>
+        <w lemma="aushalten" n="43-48-41" pos="VVINF">aushalten</w>
+        <w lemma="und" n="43-48-42" pos="KON">und</w>
+        <w lemma="laufen" n="43-48-43" pos="VVFIN">lief</w>
+        <w lemma="in" n="43-48-44" pos="APPR">in</w>
+        <w lemma="d" n="43-48-45" pos="ART">den</w>
+        <w lemma="nah" n="43-48-46" pos="ADJA">nahen</w>
+        <w lemma="Wald" n="43-48-47" pos="NN">Wald</w>
+        <w lemma="." n="43-48-48" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-49">
+        <w lemma="bald" n="43-49-1" pos="ADV">Bald</w>
+        <w lemma="zurück+rufen" n="43-49-2" pos="VVFIN">rief</w>
+        <w lemma="man" n="43-49-3" pos="PIS">man</w>
+        <w lemma="sie" n="43-49-4" pos="PPER">sie</w>
+        <w lemma="zurück" n="43-49-5" pos="PTKVZ">zurück</w>
+        <w lemma=":" n="43-49-6" pos="$.">:</w>
+      </s>
+      <s lang="de" n="43-50">
+        <w lemma="«" n="43-50-1" pos="$(">«</w>
+        <w lemma="Albertine" n="43-50-2" pos="NE">Albertine</w>
+        <w lemma="," n="43-50-3" pos="$,">,</w>
+        <w lemma="wo" n="43-50-4" pos="PWAV">wo</w>
+        <w lemma="bleiben" n="43-50-5" pos="VVFIN">bleibst</w>
+        <w lemma="du" n="43-50-6" pos="PPER">du</w>
+        <w lemma="?" n="43-50-7" pos="$.">?</w>
+      </s>
+      <s lang="de" n="43-51">
+        <w lemma="schnell" n="43-51-1" pos="ADJD">Schnell</w>
+        <w lemma="!" n="43-51-2" pos="$.">!</w>
+        <w lemma="»" n="43-51-3" pos="$(">»</w>
+      </s>
+      <s lang="de" n="43-52">
+        <w lemma="Sie|sie" n="43-52-1" pos="PPER">Sie</w>
+        <w lemma="rennen" n="43-52-2" pos="VVFIN">rannte</w>
+        <w lemma="erregt" n="43-52-3" pos="ADJD">erregt</w>
+        <w lemma="ans" n="43-52-4" pos="APPRART">ans</w>
+        <w lemma="Fernrohr" n="43-52-5" pos="NN">Fernrohr</w>
+        <w lemma="und" n="43-52-6" pos="KON">und</w>
+        <w lemma="sehen" n="43-52-7" pos="VVFIN">sah</w>
+        <w lemma="mit" n="43-52-8" pos="APPR">mit</w>
+        <w lemma="Herzklopfen" n="43-52-9" pos="NN">Herzklopfen</w>
+        <w lemma="," n="43-52-10" pos="$,">,</w>
+        <w lemma="wie" n="43-52-11" pos="PWAV">wie</w>
+        <w lemma="eben" n="43-52-12" pos="ADV">eben</w>
+        <w lemma="d" n="43-52-13" pos="ART">die</w>
+        <w lemma="vorder" n="43-52-14" pos="ADJA">vordersten</w>
+        <w lemma="unk" n="43-52-15" pos="NN">Pünktlein</w>
+        <w lemma="d" n="43-52-16" pos="ART">den</w>
+        <w lemma="Gipfel" n="43-52-17" pos="NN">Gipfel</w>
+        <w lemma="d" n="43-52-18" pos="ART">des</w>
+        <w lemma="Mont" n="43-52-19" pos="NE">Mont</w>
+        <w lemma="Blanc" n="43-52-20" pos="NE">Blanc</w>
+        <w lemma="," n="43-52-21" pos="$,">,</w>
+        <w lemma="@card@" n="43-52-22" pos="CARD">4810</w>
+        <w lemma="Meter" n="43-52-23" pos="NN">Meter</w>
+        <w lemma="," n="43-52-24" pos="$,">,</w>
+        <w lemma="erreichen" n="43-52-25" pos="VVFIN">erreichten</w>
+        <w lemma="." n="43-52-26" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-53">
+        <w lemma="und" n="43-53-1" pos="KON">Und</w>
+        <w lemma="dann" n="43-53-2" pos="ADV">dann</w>
+        <w lemma="erkennen" n="43-53-3" pos="VVFIN">erkannte</w>
+        <w lemma="sie" n="43-53-4" pos="PPER">sie</w>
+        <w lemma="wahrhaftig" n="43-53-5" pos="ADJD">wahrhaftig</w>
+        <w lemma="d" n="43-53-6" pos="ART">den</w>
+        <w lemma="unk" n="43-53-7" pos="ADJA">langschössigen</w>
+        <w lemma="Rock" n="43-53-8" pos="NN">Rock</w>
+        <w lemma="ihr" n="43-53-9" pos="PPOSAT">ihres</w>
+        <w lemma="Gatte" n="43-53-10" pos="NN">Gatten</w>
+        <w lemma="." n="43-53-11" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-54">
+        <w lemma="Sie|sie" n="43-54-1" pos="PPER">Sie</w>
+        <w lemma="heben" n="43-54-2" pos="VVFIN">hob</w>
+        <w lemma="d" n="43-54-3" pos="ART">die</w>
+        <w lemma="Hand" n="43-54-4" pos="NN">Hände</w>
+        <w lemma="," n="43-54-5" pos="$,">,</w>
+        <w lemma="wollen" n="43-54-6" pos="VMFIN">wollte</w>
+        <w lemma="etwas" n="43-54-7" pos="PIS">etwas</w>
+        <w lemma="sagen" n="43-54-8" pos="VVINF">sagen</w>
+        <w lemma="," n="43-54-9" pos="$,">,</w>
+        <w lemma="doch" n="43-54-10" pos="KON">doch</w>
+        <w lemma="ihr" n="43-54-11" pos="PPOSAT">ihre</w>
+        <w lemma="Arm|Arme" n="43-54-12" pos="NN">Arme</w>
+        <w lemma="zurück+sinken" n="43-54-13" pos="VVFIN">sanken</w>
+        <w lemma="zurück" n="43-54-14" pos="PTKVZ">zurück</w>
+        <w lemma="," n="43-54-15" pos="$,">,</w>
+        <w lemma="sie" n="43-54-16" pos="PPER">sie</w>
+        <w lemma="greifen" n="43-54-17" pos="VVFIN">griff</w>
+        <w lemma="nach" n="43-54-18" pos="APPR">nach</w>
+        <w lemma="d" n="43-54-19" pos="ART">dem</w>
+        <w lemma="unk" n="43-54-20" pos="NN">Spitzen-tüchlein</w>
+        <w lemma="und" n="43-54-21" pos="KON">und</w>
+        <w lemma="verbergen" n="43-54-22" pos="VVFIN">verbarg</w>
+        <w lemma="ihr" n="43-54-23" pos="PPOSAT">ihre</w>
+        <w lemma="Träne" n="43-54-24" pos="NN">Tränen</w>
+        <w lemma="..." n="43-54-25" pos="$.">...</w>
+      </s>
+    </div>
+    <div>
+      <s lang="de" n="43-55">
+        <w lemma="Richtige" n="43-55-1" pos="NN">Richtiger</w>
+        <w lemma="sein" n="43-55-2" pos="VAFIN">wäre</w>
+        <w lemma=":" n="43-55-3" pos="$.">:</w>
+      </s>
+      <s lang="de" n="43-56">
+        <w lemma="Paccard" n="43-56-1" pos="NE">Paccard</w>
+        <w lemma="allein" n="43-56-2" pos="PTKVZ">allein</w>
+        <w lemma="," n="43-56-3" pos="$,">,</w>
+        <w lemma="mit" n="43-56-4" pos="APPR">mit</w>
+        <w lemma="sein" n="43-56-5" pos="PPOSAT">seinem</w>
+        <w lemma="Träger" n="43-56-6" pos="NN">Träger</w>
+        <w lemma="Balmat" n="43-56-7" pos="NE">Balmat</w>
+        <w lemma="." n="43-56-8" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-57">
+        <w lemma="C." n="43-57-1" pos="NE">C.</w>
+        <w lemma="E." n="43-57-2" pos="NE">E.</w>
+      </s>
+    </div>
+    <pb facs="274" n="215" />
+    <div>
+      <s lang="de" n="43-58">
+        <w lemma="gegen" n="43-58-1" pos="APPR">Gegen</w>
+        <w lemma="fünf" n="43-58-2" pos="CARD">fünf</w>
+        <w lemma="Stunde" n="43-58-3" pos="NN">Stunden</w>
+        <w lemma="lang" n="43-58-4" pos="ADJD">lang</w>
+        <w lemma="weilen" n="43-58-5" pos="VVFIN">weilte</w>
+        <w lemma="Saussure" n="43-58-6" pos="NE">Saussure</w>
+        <w lemma="auf" n="43-58-7" pos="APPR">auf</w>
+        <w lemma="d" n="43-58-8" pos="ART">dem</w>
+        <w lemma="Gipfel" n="43-58-9" pos="NN">Gipfel</w>
+        <w lemma="," n="43-58-10" pos="$,">,</w>
+        <w lemma="fast" n="43-58-11" pos="ADV">fast</w>
+        <w lemma="immer" n="43-58-12" pos="ADV">immer</w>
+        <w lemma="tätig" n="43-58-13" pos="ADJD">tätig</w>
+        <w lemma="!" n="43-58-14" pos="$.">!</w>
+      </s>
+      <s lang="de" n="43-59">
+        <w lemma="bald" n="43-59-1" pos="ADV">Bald</w>
+        <w lemma="beschäftigen" n="43-59-2" pos="VVFIN">beschäftigte</w>
+        <w lemma="er" n="43-59-3" pos="PPER">ihn</w>
+        <w lemma="d" n="43-59-4" pos="ART">der</w>
+        <w lemma="Bau" n="43-59-5" pos="NN">Bau</w>
+        <w lemma="und" n="43-59-6" pos="KON">und</w>
+        <w lemma="Zusammenhang" n="43-59-7" pos="NN">Zusammenhang</w>
+        <w lemma="d" n="43-59-8" pos="ART">der</w>
+        <w lemma="unk" n="43-59-9" pos="NN">Aiguilles</w>
+        <w lemma="von" n="43-59-10" pos="APPR">von</w>
+        <w lemma="d" n="43-59-11" pos="ART">der</w>
+        <w lemma="midi" n="43-59-12" pos="ADJA">Midi</w>
+        <w lemma="bis" n="43-59-13" pos="APPR">bis</w>
+        <w lemma="zum" n="43-59-14" pos="APPRART">zum</w>
+        <w lemma="unk" n="43-59-15" pos="NN">Géant</w>
+        <w lemma="," n="43-59-16" pos="$,">,</w>
+        <w lemma="bald" n="43-59-17" pos="ADV">bald</w>
+        <w lemma="aus+führen" n="43-59-18" pos="VVFIN">führte</w>
+        <w lemma="er" n="43-59-19" pos="PPER">er</w>
+        <w lemma="barometrisch" n="43-59-20" pos="ADJA">barometrische</w>
+        <w lemma="Messung" n="43-59-21" pos="NN">Messungen</w>
+        <w lemma="aus" n="43-59-22" pos="PTKVZ">aus</w>
+        <w lemma="oder" n="43-59-23" pos="KON">oder</w>
+        <w lemma="beobachten" n="43-59-24" pos="VVFIN">beobachtete</w>
+        <w lemma="er" n="43-59-25" pos="PPER">er</w>
+        <w lemma="d" n="43-59-26" pos="ART">die</w>
+        <w lemma="Höhenwirkung" n="43-59-27" pos="NN">Höhenwirkung</w>
+        <w lemma="auf" n="43-59-28" pos="APPR">auf</w>
+        <w lemma="d" n="43-59-29" pos="ART">den</w>
+        <w lemma="leiblich" n="43-59-30" pos="ADJA">leiblichen</w>
+        <w lemma="Organismus" n="43-59-31" pos="NN">Organismus</w>
+        <w lemma="." n="43-59-32" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-60">
+        <w lemma="sicher" n="43-60-1" pos="ADJD">Sicher</w>
+        <w lemma="geben" n="43-60-2" pos="VVFIN">gibt</w>
+        <w lemma="es" n="43-60-3" pos="PPER">es</w>
+        <w lemma="nur" n="43-60-4" pos="ADV">nur</w>
+        <w lemma="ganz" n="43-60-5" pos="ADV">ganz</w>
+        <w lemma="wenig" n="43-60-6" pos="PIAT">wenige</w>
+        <w lemma="Bergsteiger" n="43-60-7" pos="NN">Bergsteiger</w>
+        <w lemma="und" n="43-60-8" pos="KON">und</w>
+        <w lemma="Forscher" n="43-60-9" pos="NN">Forscher</w>
+        <w lemma="zugleich" n="43-60-10" pos="ADV">zugleich</w>
+        <w lemma="," n="43-60-11" pos="$,">,</w>
+        <w lemma="d" n="43-60-12" pos="PRELS">die</w>
+        <w lemma="auf" n="43-60-13" pos="APPR">auf</w>
+        <w lemma="solch" n="43-60-14" pos="PIAT">solcher</w>
+        <w lemma="Höhe" n="43-60-15" pos="NN">Höhe</w>
+        <w lemma="nach" n="43-60-16" pos="APPR">nach</w>
+        <w lemma="solch" n="43-60-17" pos="PIAT">solcher</w>
+        <w lemma="Anstrengung" n="43-60-18" pos="NN">Anstrengung</w>
+        <w lemma="ein" n="43-60-19" pos="ART">eine</w>
+        <w lemma="gleichwertig" n="43-60-20" pos="ADJA">gleichwertige</w>
+        <w lemma="Kraft" n="43-60-21" pos="NN">Kraft</w>
+        <w lemma="und" n="43-60-22" pos="KON">und</w>
+        <w lemma="Energie" n="43-60-23" pos="NN">Energie</w>
+        <w lemma="d" n="43-60-24" pos="ART">des</w>
+        <w lemma="Geist" n="43-60-25" pos="NN">Geistes</w>
+        <w lemma="und" n="43-60-26" pos="KON">und</w>
+        <w lemma="Gemüt" n="43-60-27" pos="NN">Gemütes</w>
+        <w lemma="entfalten" n="43-60-28" pos="VVPP">entfaltet</w>
+        <w lemma="haben" n="43-60-29" pos="VAFIN">haben</w>
+        <w lemma="." n="43-60-30" pos="$.">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="de" n="43-61">
+        <w lemma="noch" n="43-61-1" pos="ADV">Noch</w>
+        <w lemma="manch" n="43-61-2" pos="PIAT">manche</w>
+        <w lemma="ernst" n="43-61-3" pos="ADJA">ernste</w>
+        <w lemma="Stunde" n="43-61-4" pos="NN">Stunde</w>
+        <w lemma="brauchen" n="43-61-5" pos="VVFIN">brauchte</w>
+        <w lemma="es" n="43-61-6" pos="PPER">es</w>
+        <w lemma="," n="43-61-7" pos="$,">,</w>
+        <w lemma="bis" n="43-61-8" pos="KOUS">bis</w>
+        <w lemma="d" n="43-61-9" pos="ART">die</w>
+        <w lemma="siegreich" n="43-61-10" pos="ADJA">siegreiche</w>
+        <w lemma="Gesellschaft" n="43-61-11" pos="NN">Gesellschaft</w>
+        <w lemma="wieder" n="43-61-12" pos="ADV">wieder</w>
+        <w lemma="in" n="43-61-13" pos="APPR">in</w>
+        <w lemma="Chamonix" n="43-61-14" pos="NE">Chamonix</w>
+        <w lemma="einziehen" n="43-61-15" pos="VVFIN">einzog</w>
+        <w lemma="." n="43-61-16" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-62">
+        <w lemma="d" n="43-62-1" pos="ART">Das</w>
+        <w lemma="ganz" n="43-62-2" pos="ADJA">ganze</w>
+        <w lemma="Bergdorf" n="43-62-3" pos="NN">Bergdorf</w>
+        <w lemma="sein" n="43-62-4" pos="VAFIN">war</w>
+        <w lemma="auf" n="43-62-5" pos="APPR">auf</w>
+        <w lemma="d" n="43-62-6" pos="ART">den</w>
+        <w lemma="Bein" n="43-62-7" pos="NN">Beinen</w>
+        <w lemma="," n="43-62-8" pos="$,">,</w>
+        <w lemma="ein" n="43-62-9" pos="PIS">einer</w>
+        <w lemma="sagen" n="43-62-10" pos="VVFIN">sagte</w>
+        <w lemma="es" n="43-62-11" pos="PPER">es</w>
+        <w lemma="d" n="43-62-12" pos="ART">dem</w>
+        <w lemma="ander" n="43-62-13" pos="PIS">andern</w>
+        <w lemma=":" n="43-62-14" pos="$.">:</w>
+      </s>
+      <s lang="de" n="43-63">
+        <w lemma="es" n="43-63-1" pos="PPER">Es</w>
+        <w lemma="sein" n="43-63-2" pos="VAFIN">ist</w>
+        <w lemma="gelingen" n="43-63-3" pos="VVPP">gelungen</w>
+        <w lemma="!" n="43-63-4" pos="$.">!</w>
+      </s>
+      <s lang="de" n="43-64">
+        <w lemma="alle" n="43-64-1" pos="PIAT">Alle</w>
+        <w lemma="Glocke" n="43-64-2" pos="NN">Glocken</w>
+        <w lemma="läuten" n="43-64-3" pos="VVFIN">läuteten</w>
+        <w lemma="," n="43-64-4" pos="$,">,</w>
+        <w lemma="und" n="43-64-5" pos="KON">und</w>
+        <w lemma="ein" n="43-64-6" pos="ART">ein</w>
+        <w lemma="Bankett" n="43-64-7" pos="NN">Bankett</w>
+        <w lemma="feiern" n="43-64-8" pos="VVFIN">feierte</w>
+        <w lemma="d" n="43-64-9" pos="ART">das</w>
+        <w lemma="ausserordentlich" n="43-64-10" pos="ADJA">ausserordentliche</w>
+        <w lemma="Ereignis" n="43-64-11" pos="NN">Ereignis</w>
+        <w lemma="," n="43-64-12" pos="$,">,</w>
+        <w lemma="von" n="43-64-13" pos="APPR">von</w>
+        <w lemma="d" n="43-64-14" pos="PRELS">dem</w>
+        <w lemma="man" n="43-64-15" pos="PIS">man</w>
+        <w lemma="bald" n="43-64-16" pos="ADV">bald</w>
+        <w lemma="weithin" n="43-64-17" pos="ADV">weithin</w>
+        <w lemma="in" n="43-64-18" pos="APPR">in</w>
+        <w lemma="Europa" n="43-64-19" pos="NE">Europa</w>
+        <w lemma="sprechen" n="43-64-20" pos="VVFIN">sprach</w>
+        <w lemma="." n="43-64-21" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-65">
+        <w lemma="am" n="43-65-1" pos="APPRART">Am</w>
+        <w lemma="@ord@" n="43-65-2" pos="ADJA">3.</w>
+        <w lemma="August" n="43-65-3" pos="NN">August</w>
+        <w lemma="@card@" n="43-65-4" pos="CARD">1787</w>
+        <w lemma="geschehen" n="43-65-5" pos="VVFIN">geschah</w>
+        <w lemma="d" n="43-65-6" pos="ART">die</w>
+        <w lemma="Tat" n="43-65-7" pos="NN">Tat</w>
+        <w lemma="." n="43-65-8" pos="$.">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="de" n="43-66">
+        <w lemma="Saussure" n="43-66-1" pos="NE">Saussure</w>
+        <w lemma="geben" n="43-66-2" pos="VVFIN">gab</w>
+        <w lemma="in" n="43-66-3" pos="APPR">in</w>
+        <w lemma="d" n="43-66-4" pos="ART">der</w>
+        <w lemma="kurz" n="43-66-5" pos="ADJA">kurzen</w>
+        <w lemma="«" n="43-66-6" pos="$(">«</w>
+        <w lemma="Relation" n="43-66-7" pos="NN">Relation</w>
+        <w lemma="unk" n="43-66-8" pos="NE">d'</w>
+        <w lemma="unk" n="43-66-9" pos="ADJA">un</w>
+        <w lemma="unk" n="43-66-10" pos="NN">voyage</w>
+        <w lemma="à" n="43-66-11" pos="FM">à</w>
+        <w lemma="la" n="43-66-12" pos="FM">la</w>
+        <w lemma="unk" n="43-66-13" pos="NE">cime</w>
+        <w lemma="du" n="43-66-14" pos="NE">du</w>
+        <w lemma="Montblanc" n="43-66-15" pos="NE">Montblanc</w>
+        <w lemma="en" n="43-66-16" pos="FM">en</w>
+        <w lemma="unk" n="43-66-17" pos="NN">Août</w>
+        <w lemma="@card@" n="43-66-18" pos="CARD">1787</w>
+        <w lemma="»" n="43-66-19" pos="$(">»</w>
+        <w lemma="ein" n="43-66-20" pos="ART">einen</w>
+        <w lemma="vorläufig" n="43-66-21" pos="ADJA">vorläufigen</w>
+        <w lemma="Bericht" n="43-66-22" pos="NN">Bericht</w>
+        <w lemma="über" n="43-66-23" pos="APPR">über</w>
+        <w lemma="d" n="43-66-24" pos="ART">die</w>
+        <w lemma="Besteigung" n="43-66-25" pos="NN">Besteigung</w>
+        <w lemma="und" n="43-66-26" pos="KON">und</w>
+        <w lemma="spät" n="43-66-27" pos="ADJD">später</w>
+        <w lemma="in" n="43-66-28" pos="APPR">in</w>
+        <w lemma="d" n="43-66-29" pos="ART">dem</w>
+        <w lemma="schon" n="43-66-30" pos="ADV">schon</w>
+        <w lemma="erwähnt" n="43-66-31" pos="ADJA">erwähnten</w>
+        <w lemma="gross" n="43-66-32" pos="ADJA">grossen</w>
+        <w lemma="Werk" n="43-66-33" pos="NN">Werk</w>
+        <w lemma="«" n="43-66-34" pos="$(">«</w>
+        <w lemma="unk" n="43-66-35" pos="NN">Voyages</w>
+        <w lemma="unk" n="43-66-36" pos="NE">dans</w>
+        <w lemma="les" n="43-66-37" pos="NE">les</w>
+        <w lemma="unk" n="43-66-38" pos="ADJA">alpes</w>
+        <w lemma="»" n="43-66-39" pos="$(">»</w>
+        <w lemma="ein" n="43-66-40" pos="ART">eine</w>
+        <w lemma="ausführlich" n="43-66-41" pos="ADJA">ausführliche</w>
+        <w lemma="Darstellung" n="43-66-42" pos="NN">Darstellung</w>
+        <w lemma="auch" n="43-66-43" pos="ADV">auch</w>
+        <w lemma="in" n="43-66-44" pos="APPR">in</w>
+        <w lemma="wissenschaftlich" n="43-66-45" pos="ADJA">wissenschaftlicher</w>
+        <w lemma="Hinsicht" n="43-66-46" pos="NN">Hinsicht</w>
+        <w lemma="." n="43-66-47" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-67">
+        <w lemma="haben" n="43-67-1" pos="VVFIN">Hatte</w>
+        <w lemma="man" n="43-67-2" pos="PIS">man</w>
+        <w lemma="bisher" n="43-67-3" pos="ADV">bisher</w>
+        <w lemma="an" n="43-67-4" pos="APPR">an</w>
+        <w lemma="d" n="43-67-5" pos="ART">die</w>
+        <w lemma="unk" n="43-67-6" pos="NN">Unersteigbarkeit</w>
+        <w lemma="d" n="43-67-7" pos="ART">der</w>
+        <w lemma="hoch" n="43-67-8" pos="ADJA">höchsten</w>
+        <w lemma="Alpengipfel" n="43-67-9" pos="NE">Alpengipfel</w>
+        <w lemma="glauben" n="43-67-10" pos="VVPP">geglaubt</w>
+        <w lemma="," n="43-67-11" pos="$,">,</w>
+        <w lemma="so" n="43-67-12" pos="ADV">so</w>
+        <w lemma="müssen" n="43-67-13" pos="VMFIN">musste</w>
+        <w lemma="jetzt" n="43-67-14" pos="ADV">jetzt</w>
+        <w lemma="dies" n="43-67-15" pos="PDAT">dieses</w>
+        <w lemma="Vorurteil" n="43-67-16" pos="NN">Vorurteil</w>
+        <w lemma="schwinden" n="43-67-17" pos="VVINF">schwinden</w>
+        <w lemma="." n="43-67-18" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-68">
+        <w lemma="neu" n="43-68-1" pos="ADJA">Neue</w>
+        <w lemma="Weg" n="43-68-2" pos="NN">Wege</w>
+        <w lemma="und" n="43-68-3" pos="KON">und</w>
+        <w lemma="Ziel" n="43-68-4" pos="NN">Ziele</w>
+        <w lemma="winken" n="43-68-5" pos="VVFIN">winkten</w>
+        <w lemma="." n="43-68-6" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-69">
+        <w lemma="d" n="43-69-1" pos="ART">Das</w>
+        <w lemma="dankbar" n="43-69-2" pos="ADJA">dankbare</w>
+        <w lemma="Chamonix" n="43-69-3" pos="NE">Chamonix</w>
+        <w lemma="," n="43-69-4" pos="$,">,</w>
+        <w lemma="d" n="43-69-5" pos="PRELS">das</w>
+        <w lemma="heute" n="43-69-6" pos="ADV">heute</w>
+        <w lemma="ein" n="43-69-7" pos="ART">ein</w>
+        <w lemma="weltbekannt" n="43-69-8" pos="ADJA">weltbekannter</w>
+        <w lemma="Fremdenverkehrsplatz" n="43-69-9" pos="NN">Fremdenverkehrsplatz</w>
+        <w lemma="sein" n="43-69-10" pos="VAFIN">ist</w>
+        <w lemma="," n="43-69-11" pos="$,">,</w>
+        <w lemma="ehren" n="43-69-12" pos="VVFIN">ehrte</w>
+        <w lemma="d" n="43-69-13" pos="ART">den</w>
+        <w lemma="gross" n="43-69-14" pos="ADJA">grossen</w>
+        <w lemma="Saussure" n="43-69-15" pos="NE">Saussure</w>
+        <w lemma="durch" n="43-69-16" pos="APPR">durch</w>
+        <w lemma="ein" n="43-69-17" pos="ART">ein</w>
+        <w lemma="prächtig" n="43-69-18" pos="ADJA">prächtiges</w>
+        <w lemma="Denkmal" n="43-69-19" pos="NN">Denkmal</w>
+        <w lemma="." n="43-69-20" pos="$.">.</w>
+      </s>
+      <s lang="de" n="43-70">
+        <w lemma="auf" n="43-70-1" pos="APPR">Auf</w>
+        <w lemma="hoch" n="43-70-2" pos="ADJA">hohem</w>
+        <w lemma="Granitsockel" n="43-70-3" pos="NN">Granitsockel</w>
+        <w lemma="stehen" n="43-70-4" pos="VVFIN">steht</w>
+        <w lemma="er" n="43-70-5" pos="PPER">er</w>
+        <w lemma="mitten" n="43-70-6" pos="ADV">mitten</w>
+        <w lemma="in" n="43-70-7" pos="APPR">in</w>
+        <w lemma="d" n="43-70-8" pos="ART">der</w>
+        <w lemma="gross" n="43-70-9" pos="ADJD">gross</w>
+        <w lemma="worden" n="43-70-10" pos="ADJA">gewordenen</w>
+        <w lemma="Gemeinde" n="43-70-11" pos="NN">Gemeinde</w>
+        <w lemma="und" n="43-70-12" pos="KON">und</w>
+        <w lemma="schauen" n="43-70-13" pos="VVFIN">schaut</w>
+        <w lemma="erhoben" n="43-70-14" pos="ADJA">erhobenen</w>
+        <w lemma="Haupt" n="43-70-15" pos="NN">Hauptes</w>
+        <w lemma="nach" n="43-70-16" pos="APPR">nach</w>
+        <w lemma="d" n="43-70-17" pos="ART">der</w>
+        <w lemma="unk" n="43-70-18" pos="NE">Mont</w>
+        <w lemma="unk" n="43-70-19" pos="NN">Blanc-Spitze</w>
+        <w lemma="," n="43-70-20" pos="$,">,</w>
+        <w lemma="nach" n="43-70-21" pos="APPR">nach</w>
+        <w lemma="d" n="43-70-22" pos="PRELS">dem</w>
+        <w lemma="Berg" n="43-70-23" pos="NN">Berg</w>
+        <w lemma="sein" n="43-70-24" pos="PPOSAT">seiner</w>
+        <w lemma="Sehnsucht" n="43-70-25" pos="NN">Sehnsucht</w>
+        <w lemma="und" n="43-70-26" pos="KON">und</w>
+        <w lemma="d" n="43-70-27" pos="ART">der</w>
+        <w lemma="schön" n="43-70-28" pos="ADJA">schönsten</w>
+        <w lemma="Erhebung" n="43-70-29" pos="NN">Erhebung</w>
+        <w lemma="d" n="43-70-30" pos="ART">der</w>
+        <w lemma="Seele" n="43-70-31" pos="NN">Seele</w>
+        <w lemma="." n="43-70-32" pos="$.">.</w>
+      </s>
+    </div>
+  </article>
+  <article n="58">
+    <tocEntry author="C. Egmond d'Arcis" authorID="633" lang="fr" title="Avec Whymper à Zermatt" />
+    <div>
+      <s lang="fr" n="58-1">
+        <w lemma="avec" n="58-1-1" pos="P">Avec</w>
+        <w lemma="Whymper" n="58-1-2" pos="N_P">Whymper</w>
+        <w lemma="à" n="58-1-3" pos="P">à</w>
+        <w lemma="Zermatt" n="58-1-4" pos="N_P">Zermatt</w>
+        <w lemma="." n="58-1-5" pos="PCT_S">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="fr" n="58-2">
+        <w lemma="par" n="58-2-1" pos="P">Par</w>
+        <w lemma="Egmond" n="58-2-2" pos="N_P">Egmond</w>
+        <w lemma="de" n="58-2-3" pos="P">d'</w>
+        <w lemma="unk" n="58-2-4" pos="N_P">Arcis</w>
+        <w lemma="." n="58-2-5" pos="PCT_S">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="fr" n="58-3">
+        <w lemma="son" n="58-3-1" pos="D_poss">Mon</w>
+        <w lemma="père" n="58-3-2" pos="N_C">père</w>
+        <w lemma="je" n="58-3-3" pos="CL_refl">m'</w>
+        <w lemma="avoir" n="58-3-4" pos="V">avait</w>
+        <w lemma="conduire" n="58-3-5" pos="V">conduit</w>
+        <w lemma="à" n="58-3-6" pos="P">à</w>
+        <w lemma="Zermatt" n="58-3-7" pos="N_P">Zermatt</w>
+        <w lemma="." n="58-3-8" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-4">
+        <w lemma="il" n="58-4-1" pos="CL_suj">Nous</w>
+        <w lemma="y" n="58-4-2" pos="CL_obj">y</w>
+        <w lemma="être" n="58-4-3" pos="V">étions</w>
+        <w lemma="monter" n="58-4-4" pos="V">montés</w>
+        <w lemma="à" n="58-4-5" pos="P">à</w>
+        <w lemma="pied" n="58-4-6" pos="N_C">pied</w>
+        <w lemma="." n="58-4-7" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-5">
+        <w lemma="le" n="58-5-1" pos="D_def">L'</w>
+        <w lemma="apparition" n="58-5-2" pos="N_C">apparition</w>
+        <w lemma="soudain" n="58-5-3" pos="A_qual">soudaine</w>
+        <w lemma="du" n="58-5-4" pos="N_P">du</w>
+        <w lemma="Cervin" n="58-5-5" pos="N_P">Cervin</w>
+        <w lemma="," n="58-5-6" pos="PCT_W">,</w>
+        <w lemma="formidable" n="58-5-7" pos="A_qual">formidable</w>
+        <w lemma="," n="58-5-8" pos="PCT_W">,</w>
+        <w lemma="énigmatique" n="58-5-9" pos="A_qual">énigmatique</w>
+        <w lemma="sous" n="58-5-10" pos="P">sous</w>
+        <w lemma="le" n="58-5-11" pos="D_def">le</w>
+        <w lemma="voile" n="58-5-12" pos="N_C">voile</w>
+        <w lemma="de" n="58-5-13" pos="P">des</w>
+        <w lemma="brume" n="58-5-14" pos="N_C">brumes</w>
+        <w lemma="mouvant" n="58-5-15" pos="A_qual">mouvantes</w>
+        <w lemma="qui" n="58-5-16" pos="PRO_rel">qui</w>
+        <w lemma="la|le" n="58-5-17" pos="CL_obj">l'</w>
+        <w lemma="encapuchonner" n="58-5-18" pos="V">encapuchonnaient</w>
+        <w lemma="," n="58-5-19" pos="PCT_W">,</w>
+        <w lemma="me" n="58-5-20" pos="CL_obj">m'</w>
+        <w lemma="avoir" n="58-5-21" pos="V">avait</w>
+        <w lemma="positivement" n="58-5-22" pos="ADV">positivement</w>
+        <w lemma="fasciner" n="58-5-23" pos="V">fasciné</w>
+        <w lemma="." n="58-5-24" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-6">
+        <w lemma="puis" n="58-6-1" pos="C_C">Puis</w>
+        <w lemma="le" n="58-6-2" pos="D_def">le</w>
+        <w lemma="temps" n="58-6-3" pos="N_C">temps</w>
+        <w lemma="il" n="58-6-4" pos="CL_refl">s'</w>
+        <w lemma="être" n="58-6-5" pos="V">était</w>
+        <w lemma="remettre" n="58-6-6" pos="V">remis</w>
+        <w lemma="à" n="58-6-7" pos="P">au</w>
+        <w lemma="beau" n="58-6-8" pos="A_qual">beau</w>
+        <w lemma="." n="58-6-9" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-7">
+        <w lemma="il" n="58-7-1" pos="CL_suj">Je</w>
+        <w lemma="passer" n="58-7-2" pos="V">passais</w>
+        <w lemma="un" n="58-7-3" pos="D_ind">des</w>
+        <w lemma="heure" n="58-7-4" pos="N_C">heures</w>
+        <w lemma="à" n="58-7-5" pos="P">à</w>
+        <w lemma="rêver" n="58-7-6" pos="V">rêver</w>
+        <w lemma=":" n="58-7-7" pos="PCT_W">:</w>
+      </s>
+      <s lang="fr" n="58-8">
+        <w lemma="il" n="58-8-1" pos="CL_suj">je</w>
+        <w lemma="ne" n="58-8-2" pos="ADV">ne</w>
+        <w lemma="pouvoir" n="58-8-3" pos="V">pouvais</w>
+        <w lemma="détacher" n="58-8-4" pos="V">détacher</w>
+        <w lemma="son" n="58-8-5" pos="D_poss">mes</w>
+        <w lemma="oeil" n="58-8-6" pos="N_C">yeux</w>
+        <w lemma="de" n="58-8-7" pos="P">de</w>
+        <w lemma="ce" n="58-8-8" pos="D_dem">cette</w>
+        <w lemma="pyramide" n="58-8-9" pos="N_C">pyramide</w>
+        <w lemma="bossu" n="58-8-10" pos="A_qual">bossue</w>
+        <w lemma="trouer" n="58-8-11" pos="V">trouant</w>
+        <w lemma="la|le" n="58-8-12" pos="D_def">l'</w>
+        <w lemma="unk" n="58-8-13" pos="A_qual">azur</w>
+        <w lemma="léger" n="58-8-14" pos="A_qual">léger</w>
+        <w lemma="," n="58-8-15" pos="PCT_W">,</w>
+        <w lemma="écraser" n="58-8-16" pos="V">écrasant</w>
+        <w lemma="de" n="58-8-17" pos="P">de</w>
+        <w lemma="son" n="58-8-18" pos="D_poss">sa</w>
+        <w lemma="masse" n="58-8-19" pos="N_C">masse</w>
+        <w lemma="griser" n="58-8-20" pos="V">grise</w>
+        <w lemma="le" n="58-8-21" pos="D_def">le</w>
+        <w lemma="verdoyant" n="58-8-22" pos="A_qual">verdoyant</w>
+        <w lemma="vallon" n="58-8-23" pos="N_C">vallon</w>
+        <w lemma="de" n="58-8-24" pos="P">de</w>
+        <w lemma="Zermatt" n="58-8-25" pos="N_P">Zermatt</w>
+        <w lemma="." n="58-8-26" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-9">
+        <w lemma="il" n="58-9-1" pos="CL_suj">Je</w>
+        <w lemma="me" n="58-9-2" pos="CL_obj">me</w>
+        <w lemma="voir" n="58-9-3" pos="V">voyais</w>
+        <w lemma="déjà" n="58-9-4" pos="ADV">déjà</w>
+        <w lemma="grimpant" n="58-9-5" pos="A_qual">grimpant</w>
+        <w lemma="sur" n="58-9-6" pos="P">sur</w>
+        <w lemma="le" n="58-9-7" pos="D_def">les</w>
+        <w lemma="paroi" n="58-9-8" pos="N_C">parois</w>
+        <w lemma="de" n="58-9-9" pos="P">du</w>
+        <w lemma="monolithe" n="58-9-10" pos="N_C">monolithe</w>
+        <w lemma="," n="58-9-11" pos="PCT_W">,</w>
+        <w lemma="saisir" n="58-9-12" pos="V">saisissant</w>
+        <w lemma="à" n="58-9-13" pos="P">à</w>
+        <w lemma="plein" n="58-9-14" pos="A_qual">pleines</w>
+        <w lemma="main" n="58-9-15" pos="N_C">mains</w>
+        <w lemma="le" n="58-9-16" pos="D_def">les</w>
+        <w lemma="roc" n="58-9-17" pos="N_C">rocs</w>
+        <w lemma="chauffer" n="58-9-18" pos="V">chauffés</w>
+        <w lemma="par" n="58-9-19" pos="P">par</w>
+        <w lemma="le" n="58-9-20" pos="D_def">le</w>
+        <w lemma="soleil" n="58-9-21" pos="N_C">soleil</w>
+        <w lemma="," n="58-9-22" pos="PCT_W">,</w>
+        <w lemma="ou" n="58-9-23" pos="C_C">ou</w>
+        <w lemma="bien" n="58-9-24" pos="ADV">bien</w>
+        <w lemma="suspendre" n="58-9-25" pos="V">suspendu</w>
+        <w lemma="à" n="58-9-26" pos="P">aux</w>
+        <w lemma="aspérité" n="58-9-27" pos="N_C">aspérités</w>
+        <w lemma="de" n="58-9-28" pos="P">de</w>
+        <w lemma="le" n="58-9-29" pos="D_def">la</w>
+        <w lemma="pierre" n="58-9-30" pos="N_C">pierre</w>
+        <w lemma="rugueux" n="58-9-31" pos="A_qual">rugueuse</w>
+        <w lemma="," n="58-9-32" pos="PCT_W">,</w>
+        <w lemma="et" n="58-9-33" pos="C_C">et</w>
+        <w lemma="surgir" n="58-9-34" pos="V">surgissant</w>
+        <w lemma="enfin" n="58-9-35" pos="ADV">enfin</w>
+        <w lemma="avec" n="58-9-36" pos="P">avec</w>
+        <w lemma="un" n="58-9-37" pos="D_ind">un</w>
+        <w lemma="cri" n="58-9-38" pos="N_C">cri</w>
+        <w lemma="de" n="58-9-39" pos="P">de</w>
+        <w lemma="victoire" n="58-9-40" pos="N_C">victoire</w>
+        <w lemma="sur" n="58-9-41" pos="P">sur</w>
+        <w lemma="le" n="58-9-42" pos="D_def">la</w>
+        <w lemma="cime" n="58-9-43" pos="N_C">cime</w>
+        <w lemma="que" n="58-9-44" pos="PRO_rel">que</w>
+        <w lemma="il" n="58-9-45" pos="CL_suj">je</w>
+        <w lemma="dominer" n="58-9-46" pos="V">dominais</w>
+        <w lemma="de" n="58-9-47" pos="P">de</w>
+        <w lemma="tout" n="58-9-48" pos="A_ind">toute</w>
+        <w lemma="son" n="58-9-49" pos="D_poss">ma</w>
+        <w lemma="taille" n="58-9-50" pos="N_C">taille</w>
+        <w lemma="," n="58-9-51" pos="PCT_W">,</w>
+        <w lemma="fier" n="58-9-52" pos="A_qual">fier</w>
+        <w lemma="de" n="58-9-53" pos="P">d'</w>
+        <w lemma="être" n="58-9-54" pos="V">être</w>
+        <w lemma="moi-même" n="58-9-55" pos="PRO">moi-même</w>
+        <w lemma="plus" n="58-9-56" pos="ADV">plus</w>
+        <w lemma="haut" n="58-9-57" pos="A_qual">haut</w>
+        <w lemma="que" n="58-9-58" pos="C_S">que</w>
+        <w lemma="le" n="58-9-59" pos="D_def">le</w>
+        <w lemma="Cervin" n="58-9-60" pos="N_P">Cervin</w>
+        <w lemma="." n="58-9-61" pos="PCT_S">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="fr" n="58-10">
+        <w lemma="il" n="58-10-1" pos="CL_suj">J'</w>
+        <w lemma="être" n="58-10-2" pos="V">étais</w>
+        <w lemma="bien" n="58-10-3" pos="ADV">bien</w>
+        <w lemma="excusable" n="58-10-4" pos="A_qual">excusable</w>
+        <w lemma="de" n="58-10-5" pos="P">de</w>
+        <w lemma="laisser" n="58-10-6" pos="V">laisser</w>
+        <w lemma="ainsi" n="58-10-7" pos="ADV">ainsi</w>
+        <w lemma="courir" n="58-10-8" pos="V">courir</w>
+        <w lemma="son" n="58-10-9" pos="D_poss">mon</w>
+        <w lemma="imagination" n="58-10-10" pos="N_C">imagination</w>
+        <w lemma=":" n="58-10-11" pos="PCT_W">:</w>
+      </s>
+      <s lang="fr" n="58-11">
+        <w lemma="il" n="58-11-1" pos="CL_suj">j'</w>
+        <w lemma="avoir" n="58-11-2" pos="V">avais</w>
+        <w lemma="dix" n="58-11-3" pos="D_card">dix</w>
+        <w lemma="an" n="58-11-4" pos="N_C">ans</w>
+        <w lemma="et" n="58-11-5" pos="C_C">et</w>
+        <w lemma="ce" n="58-11-6" pos="PRO_dem">c'</w>
+        <w lemma="être" n="58-11-7" pos="V">était</w>
+        <w lemma="le" n="58-11-8" pos="D_def">la</w>
+        <w lemma="second" n="58-11-9" pos="A_ord">seconde</w>
+        <w lemma="fois" n="58-11-10" pos="N_C">fois</w>
+        <w lemma="que" n="58-11-11" pos="PRO_rel">que</w>
+        <w lemma="il" n="58-11-12" pos="CL_suj">j'</w>
+        <w lemma="approcher" n="58-11-13" pos="V">approchais</w>
+        <w lemma="le" n="58-11-14" pos="D_def">la</w>
+        <w lemma="haut" n="58-11-15" pos="A_qual">haute</w>
+        <w lemma="montagne" n="58-11-16" pos="N_C">montagne</w>
+        <w lemma="," n="58-11-17" pos="PCT_W">,</w>
+        <w lemma="après" n="58-11-18" pos="P">après</w>
+        <w lemma="la|le" n="58-11-19" pos="CL_obj">l'</w>
+        <w lemma="avoir" n="58-11-20" pos="V">avoir</w>
+        <w lemma="longtemps" n="58-11-21" pos="ADV">longtemps</w>
+        <w lemma="admirer" n="58-11-22" pos="V">admirée</w>
+        <w lemma="un" n="58-11-23" pos="D_ind">de</w>
+        <w lemma="loin" n="58-11-24" pos="N_C">loin</w>
+        <w lemma="." n="58-11-25" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-12">
+        <w lemma="cinq" n="58-12-1" pos="D_card">Cinq</w>
+        <w lemma="semaine" n="58-12-2" pos="N_C">semaines</w>
+        <w lemma="auparavant" n="58-12-3" pos="ADV">auparavant</w>
+        <w lemma="," n="58-12-4" pos="PCT_W">,</w>
+        <w lemma="à" n="58-12-5" pos="P">à</w>
+        <w lemma="Chamonix" n="58-12-6" pos="N_P">Chamonix</w>
+        <w lemma="," n="58-12-7" pos="PCT_W">,</w>
+        <w lemma="il" n="58-12-8" pos="CL_suj">j'</w>
+        <w lemma="avoir" n="58-12-9" pos="V">avais</w>
+        <w lemma="traverser" n="58-12-10" pos="V">traverse</w>
+        <w lemma="le" n="58-12-11" pos="D_def">le</w>
+        <w lemma="glacier" n="58-12-12" pos="N_C">glacier</w>
+        <w lemma="de" n="58-12-13" pos="P">des</w>
+        <w lemma="bosser" n="58-12-14" pos="V">Bossons</w>
+        <w lemma="où" n="58-12-15" pos="ADV_int">où</w>
+        <w lemma="," n="58-12-16" pos="PCT_W">,</w>
+        <w lemma="la|le" n="58-12-17" pos="D_def">l'</w>
+        <w lemma="avant-veille" n="58-12-18" pos="N_C">avant-veille</w>
+        <w lemma="," n="58-12-19" pos="PCT_W">,</w>
+        <w lemma="il" n="58-12-20" pos="CL_suj">on</w>
+        <w lemma="avoir" n="58-12-21" pos="V">avait</w>
+        <w lemma="trouver" n="58-12-22" pos="V">trouvé</w>
+        <w lemma="le" n="58-12-23" pos="D_def">le</w>
+        <w lemma="corps" n="58-12-24" pos="N_C">corps</w>
+        <w lemma="de" n="58-12-25" pos="P">du</w>
+        <w lemma="capitaine" n="58-12-26" pos="N_C">capitaine</w>
+        <w lemma="Arkwright" n="58-12-27" pos="N_P">Arkwright</w>
+        <w lemma="," n="58-12-28" pos="PCT_W">,</w>
+        <w lemma="tuer" n="58-12-29" pos="V">tué</w>
+        <w lemma="le" n="58-12-30" pos="D_def">le</w>
+        <w lemma="@card@" n="58-12-31" pos="N_card">13</w>
+        <w lemma="octobre" n="58-12-32" pos="N_C">octobre</w>
+        <w lemma="@card@" n="58-12-33" pos="N_card">1866</w>
+        <w lemma="," n="58-12-34" pos="PCT_W">,</w>
+        <w lemma="à" n="58-12-35" pos="P">à</w>
+        <w lemma="le" n="58-12-36" pos="D_def">la</w>
+        <w lemma="côte" n="58-12-37" pos="N_C">Côte</w>
+        <w lemma="de" n="58-12-38" pos="N_P">des</w>
+        <w lemma="Rochers" n="58-12-39" pos="N_P">Rochers</w>
+        <w lemma="Rouges" n="58-12-40" pos="N_P">Rouges</w>
+        <w lemma="," n="58-12-41" pos="PCT_W">,</w>
+        <w lemma="par" n="58-12-42" pos="P">par</w>
+        <w lemma="un" n="58-12-43" pos="D_ind">une</w>
+        <w lemma="avalanche" n="58-12-44" pos="N_C">avalanche</w>
+        <w lemma="de" n="58-12-45" pos="P">de</w>
+        <w lemma="sérac" n="58-12-46" pos="N_C">séracs</w>
+        <w lemma="." n="58-12-47" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-13">
+        <w lemma="un" n="58-13-1" pos="D_ind">Un</w>
+        <w lemma="mois" n="58-13-2" pos="N_C">mois</w>
+        <w lemma="plus" n="58-13-3" pos="P">plus</w>
+        <w lemma="tard" n="58-13-4" pos="ADV">tard</w>
+        <w lemma="," n="58-13-5" pos="PCT_W">,</w>
+        <w lemma="Whymper" n="58-13-6" pos="N_P">Whymper</w>
+        <w lemma="," n="58-13-7" pos="PCT_W">,</w>
+        <w lemma="le" n="58-13-8" pos="D_def">le</w>
+        <w lemma="vainqueur" n="58-13-9" pos="N_C">vainqueur</w>
+        <w lemma="du" n="58-13-10" pos="N_P">du</w>
+        <w lemma="Cervin" n="58-13-11" pos="N_P">Cervin</w>
+        <w lemma="," n="58-13-12" pos="PCT_W">,</w>
+        <w lemma="passer" n="58-13-13" pos="V">passant</w>
+        <w lemma="à" n="58-13-14" pos="P">à</w>
+        <w lemma="Chamonix" n="58-13-15" pos="N_P">Chamonix</w>
+        <w lemma="," n="58-13-16" pos="PCT_W">,</w>
+        <w lemma="avoir" n="58-13-17" pos="V">avait</w>
+        <w lemma="être" n="58-13-18" pos="V">été</w>
+        <w lemma="voir" n="58-13-19" pos="V">voir</w>
+        <w lemma="le" n="58-13-20" pos="D_def">le</w>
+        <w lemma="lieu" n="58-13-21" pos="N_C">lieu</w>
+        <w lemma="où" n="58-13-22" pos="PRO_rel">où</w>
+        <w lemma="il" n="58-13-23" pos="CL_suj">l'on</w>
+        <w lemma="avoir" n="58-13-24" pos="V">avait</w>
+        <w lemma="découvrir" n="58-13-25" pos="V">découvert</w>
+        <w lemma="Arkwright" n="58-13-26" pos="N_P">Arkwright</w>
+        <w lemma="et" n="58-13-27" pos="N_P">et</w>
+        <w lemma="y" n="58-13-28" pos="CL_obj">y</w>
+        <w lemma="avoir" n="58-13-29" pos="V">avait</w>
+        <w lemma="recueillir" n="58-13-30" pos="V">recueilli</w>
+        <w lemma="le" n="58-13-31" pos="D_def">la</w>
+        <w lemma="montre" n="58-13-32" pos="N_C">montre</w>
+        <w lemma="de" n="58-13-33" pos="P">du</w>
+        <w lemma="capitaine" n="58-13-34" pos="N_C">capitaine</w>
+        <w lemma="." n="58-13-35" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-14">
+        <w lemma="puis" n="58-14-1" pos="C_C">Puis</w>
+        <w lemma="Whymper" n="58-14-2" pos="N_P">Whymper</w>
+        <w lemma="il" n="58-14-3" pos="CL_refl">s'</w>
+        <w lemma="être" n="58-14-4" pos="V">était</w>
+        <w lemma="rendre" n="58-14-5" pos="V">rendu</w>
+        <w lemma="à" n="58-14-6" pos="P">à</w>
+        <w lemma="Zermatt" n="58-14-7" pos="N_P">Zermatt</w>
+        <w lemma="." n="58-14-8" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-15">
+        <w lemma="ce" n="58-15-1" pos="PRO_dem">C'</w>
+        <w lemma="être" n="58-15-2" pos="V">était</w>
+        <w lemma="en" n="58-15-3" pos="P">en</w>
+        <w lemma="septembre" n="58-15-4" pos="N_C">septembre</w>
+        <w lemma="@card@" n="58-15-5" pos="N_card">1897</w>
+        <w lemma="." n="58-15-6" pos="PCT_S">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="fr" n="58-16">
+        <w lemma="un" n="58-16-1" pos="D_ind">Un</w>
+        <w lemma="matin" n="58-16-2" pos="N_C">matin</w>
+        <w lemma="," n="58-16-3" pos="PCT_W">,</w>
+        <w lemma="comme" n="58-16-4" pos="C_S">comme</w>
+        <w lemma="il" n="58-16-5" pos="CL_suj">je</w>
+        <w lemma="sortir" n="58-16-6" pos="V">sortais</w>
+        <w lemma="en" n="58-16-7" pos="P">en</w>
+        <w lemma="courant" n="58-16-8" pos="N_C">courant</w>
+        <w lemma="de" n="58-16-9" pos="P">de</w>
+        <w lemma="la|le" n="58-16-10" pos="D_def">l'</w>
+        <w lemma="hôtel" n="58-16-11" pos="N_C">hôtel</w>
+        <w lemma="du" n="58-16-12" pos="N_P">du</w>
+        <w lemma="Mont-Rose" n="58-16-13" pos="N_P">Mont-Rose</w>
+        <w lemma="," n="58-16-14" pos="PCT_W">,</w>
+        <w lemma="il" n="58-16-15" pos="CL_suj">je</w>
+        <w lemma="me" n="58-16-16" pos="CL_obj">me</w>
+        <w lemma="heurter" n="58-16-17" pos="V">heurtai</w>
+        <w lemma="," n="58-16-18" pos="PCT_W">,</w>
+        <w lemma="sur" n="58-16-19" pos="P">sur</w>
+        <w lemma="le" n="58-16-20" pos="D_def">le</w>
+        <w lemma="pas" n="58-16-21" pos="N_C">pas</w>
+        <w lemma="de" n="58-16-22" pos="P">de</w>
+        <w lemma="porte" n="58-16-23" pos="N_C">porte</w>
+        <w lemma="," n="58-16-24" pos="PCT_W">,</w>
+        <w lemma="à" n="58-16-25" pos="P">à</w>
+        <w lemma="un" n="58-16-26" pos="D_ind">un</w>
+        <w lemma="homme" n="58-16-27" pos="N_C">homme</w>
+        <w lemma="de" n="58-16-28" pos="P">d'</w>
+        <w lemma="assez" n="58-16-29" pos="ADV">assez</w>
+        <w lemma="grand" n="58-16-30" pos="A_qual">grande</w>
+        <w lemma="taille" n="58-16-31" pos="N_C">taille</w>
+        <w lemma="," n="58-16-32" pos="PCT_W">,</w>
+        <w lemma="large" n="58-16-33" pos="A_qual">large</w>
+        <w lemma="de" n="58-16-34" pos="P">d'</w>
+        <w lemma="épaule" n="58-16-35" pos="N_C">épaules</w>
+        <w lemma="," n="58-16-36" pos="PCT_W">,</w>
+        <w lemma="vêtir" n="58-16-37" pos="V">vêtu</w>
+        <w lemma="un" n="58-16-38" pos="D_part">de</w>
+        <w lemma="gris" n="58-16-39" pos="A_qual">gris</w>
+        <w lemma="," n="58-16-40" pos="PCT_W">,</w>
+        <w lemma="le" n="58-16-41" pos="D_def">la</w>
+        <w lemma="tête" n="58-16-42" pos="N_C">tête</w>
+        <w lemma="nuer" n="58-16-43" pos="V">nue</w>
+        <w lemma="couronnée" n="58-16-44" pos="N_C">couronnée</w>
+        <w lemma="de" n="58-16-45" pos="P">de</w>
+        <w lemma="cheveu" n="58-16-46" pos="N_C">cheveux</w>
+        <w lemma="blanc" n="58-16-47" pos="A_qual">blancs</w>
+        <w lemma="," n="58-16-48" pos="PCT_W">,</w>
+        <w lemma="le" n="58-16-49" pos="D_def">le</w>
+        <w lemma="visage" n="58-16-50" pos="N_C">visage</w>
+        <w lemma="un" n="58-16-51" pos="A_qual">un</w>
+        <w lemma="peu" n="58-16-52" pos="ADV">peu</w>
+        <w lemma="renfrogné" n="58-16-53" pos="A_qual">renfrogné</w>
+        <w lemma="." n="58-16-54" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-17">
+        <w lemma="il" n="58-17-1" pos="CL_suj">Je</w>
+        <w lemma="me" n="58-17-2" pos="CL_obj">m'</w>
+        <w lemma="unk" n="58-17-3" pos="N_C">excusai</w>
+        <w lemma="et" n="58-17-4" pos="N_P">et</w>
+        <w lemma="juger" n="58-17-5" pos="V">jugeai</w>
+        <w lemma="polir" n="58-17-6" pos="V">poli</w>
+        <w lemma="un" n="58-17-7" pos="D_ind">de</w>
+        <w lemma="sourire" n="58-17-8" pos="N_C">sourire</w>
+        <w lemma="à" n="58-17-9" pos="P">à</w>
+        <w lemma="ce" n="58-17-10" pos="D_dem">cet</w>
+        <w lemma="homme" n="58-17-11" pos="N_C">homme</w>
+        <w lemma="à" n="58-17-12" pos="P">au</w>
+        <w lemma="regard" n="58-17-13" pos="N_C">regard</w>
+        <w lemma="clair" n="58-17-14" pos="A_qual">clair</w>
+        <w lemma="mais" n="58-17-15" pos="C_C">mais</w>
+        <w lemma="mélancolique" n="58-17-16" pos="A_qual">mélancolique</w>
+        <w lemma="." n="58-17-17" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-18">
+        <w lemma="ce" n="58-18-1" pos="PRO_dem">C'</w>
+        <w lemma="être" n="58-18-2" pos="V">était</w>
+        <w lemma="-" n="58-18-3" pos="PCT_W">-</w>
+        <w lemma="il" n="58-18-4" pos="CL_suj">je</w>
+        <w lemma="le" n="58-18-5" pos="CL_obj">le</w>
+        <w lemma="savoir" n="58-18-6" pos="V">sus</w>
+        <w lemma="peu" n="58-18-7" pos="ADV">peu</w>
+        <w lemma="après" n="58-18-8" pos="ADV">après</w>
+        <w lemma="-" n="58-18-9" pos="PCT_W">-</w>
+        <w lemma="Edward" n="58-18-10" pos="N_P">Edward</w>
+        <w lemma="Whymper" n="58-18-11" pos="N_P">Whymper</w>
+        <w lemma="." n="58-18-12" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-19">
+        <w lemma="il" n="58-19-1" pos="CL_suj">Il</w>
+        <w lemma="me" n="58-19-2" pos="CL_obj">me</w>
+        <w lemma="regarder" n="58-19-3" pos="V">regarda</w>
+        <w lemma="," n="58-19-4" pos="PCT_W">,</w>
+        <w lemma="son" n="58-19-5" pos="D_poss">ses</w>
+        <w lemma="trait" n="58-19-6" pos="N_C">traits</w>
+        <w lemma="il" n="58-19-7" pos="CL_refl">se</w>
+        <w lemma="détendre" n="58-19-8" pos="V">détendirent</w>
+        <w lemma="," n="58-19-9" pos="PCT_W">,</w>
+        <w lemma="esquisser" n="58-19-10" pos="V">esquissèrent</w>
+        <w lemma="un" n="58-19-11" pos="D_ind">un</w>
+        <w lemma="sourire" n="58-19-12" pos="N_C">sourire</w>
+        <w lemma="," n="58-19-13" pos="PCT_W">,</w>
+        <w lemma="et" n="58-19-14" pos="C_C">et</w>
+        <w lemma="il" n="58-19-15" pos="CL_suj">il</w>
+        <w lemma="me" n="58-19-16" pos="CL_obj">me</w>
+        <w lemma="dire" n="58-19-17" pos="V">dit</w>
+        <w lemma="," n="58-19-18" pos="PCT_W">,</w>
+        <w lemma="en" n="58-19-19" pos="P">en</w>
+        <w lemma="anglais" n="58-19-20" pos="N_C">anglais</w>
+        <w lemma=":" n="58-19-21" pos="PCT_W">:</w>
+      </s>
+      <s lang="fr" n="58-20">
+        <w lemma="«" n="58-20-1" pos="PCT_W">«</w>
+        <w lemma="il" n="58-20-2" pos="CL_suj">Vous</w>
+        <w lemma="être" n="58-20-3" pos="V">êtes</w>
+        <w lemma="bien" n="58-20-4" pos="ADV">bien</w>
+        <w lemma="pressé" n="58-20-5" pos="A_qual">pressé</w>
+        <w lemma="," n="58-20-6" pos="PCT_W">,</w>
+        <w lemma="son" n="58-20-7" pos="D_poss">mon</w>
+        <w lemma="garçon" n="58-20-8" pos="N_C">garçon</w>
+        <w lemma="," n="58-20-9" pos="PCT_W">,</w>
+        <w lemma="où" n="58-20-10" pos="PRO_rel">où</w>
+        <w lemma="aller" n="58-20-11" pos="V">allez</w>
+        <w lemma="il" n="58-20-12" pos="CL_suj">-vous</w>
+        <w lemma="si" n="58-20-13" pos="ADV">si</w>
+        <w lemma="vite" n="58-20-14" pos="ADV">vite</w>
+        <w lemma="?" n="58-20-15" pos="PCT_S">?</w>
+        <w lemma="»" n="58-20-16" pos="PCT_W">»</w>
+      </s>
+      <s lang="fr" n="58-21">
+        <w lemma="il" n="58-21-1" pos="CL_suj">Je</w>
+        <w lemma="partir" n="58-21-2" pos="V">partais</w>
+        <w lemma="pour" n="58-21-3" pos="P">pour</w>
+        <w lemma="le" n="58-21-4" pos="D_def">le</w>
+        <w lemma="Lac" n="58-21-5" pos="N_P">Lac</w>
+        <w lemma="Noir" n="58-21-6" pos="N_P">Noir</w>
+        <w lemma="," n="58-21-7" pos="PCT_W">,</w>
+        <w lemma="tout" n="58-21-8" pos="ADV">tout</w>
+        <w lemma="fier" n="58-21-9" pos="A_qual">fier</w>
+        <w lemma="de" n="58-21-10" pos="P">de</w>
+        <w lemma="son" n="58-21-11" pos="D_poss">mon</w>
+        <w lemma="équipement" n="58-21-12" pos="N_C">équipement</w>
+        <w lemma="neuf" n="58-21-13" pos="D_card">neuf</w>
+        <w lemma=":" n="58-21-14" pos="PCT_W">:</w>
+      </s>
+      <s lang="fr" n="58-22">
+        <w lemma="son" n="58-22-1" pos="D_poss">mes</w>
+        <w lemma="premier" n="58-22-2" pos="A_ord">premières</w>
+        <w lemma="chaussure" n="58-22-3" pos="N_C">chaussures</w>
+        <w lemma="à" n="58-22-4" pos="P">à</w>
+        <w lemma="clou" n="58-22-5" pos="N_C">clous</w>
+        <w lemma="," n="58-22-6" pos="PCT_W">,</w>
+        <w lemma="un" n="58-22-7" pos="D_ind">une</w>
+        <w lemma="boîte" n="58-22-8" pos="N_C">boîte</w>
+        <w lemma="à" n="58-22-9" pos="P">à</w>
+        <w lemma="herboriser" n="58-22-10" pos="V">herboriser</w>
+        <w lemma="de" n="58-22-11" pos="P">d'</w>
+        <w lemma="un" n="58-22-12" pos="D_ind">un</w>
+        <w lemma="vert" n="58-22-13" pos="N_C">vert</w>
+        <w lemma="exquis" n="58-22-14" pos="A_qual">exquis</w>
+        <w lemma="," n="58-22-15" pos="PCT_W">,</w>
+        <w lemma="un" n="58-22-16" pos="D_ind">un</w>
+        <w lemma="vaste" n="58-22-17" pos="A_qual">vaste</w>
+        <w lemma="chapeau" n="58-22-18" pos="N_C">chapeau</w>
+        <w lemma="de" n="58-22-19" pos="P">de</w>
+        <w lemma="paille" n="58-22-20" pos="N_C">paille</w>
+        <w lemma="et" n="58-22-21" pos="C_C">et</w>
+        <w lemma="un" n="58-22-22" pos="D_ind">un</w>
+        <w lemma="alpenstock" n="58-22-23" pos="N_C">alpenstock</w>
+        <w lemma="plus" n="58-22-24" pos="ADV">plus</w>
+        <w lemma="grand" n="58-22-25" pos="A_qual">grand</w>
+        <w lemma="que" n="58-22-26" pos="C_S">que</w>
+        <w lemma="soi" n="58-22-27" pos="PRO">moi</w>
+        <w lemma=";" n="58-22-28" pos="PCT_W">;</w>
+      </s>
+      <s lang="fr" n="58-23">
+        <w lemma="il" n="58-23-1" pos="CL_suj">je</w>
+        <w lemma="porter" n="58-23-2" pos="V">portais</w>
+        <w lemma="un" n="58-23-3" pos="D_ind">un</w>
+        <w lemma="élégant" n="58-23-4" pos="A_qual">élégant</w>
+        <w lemma="costume" n="58-23-5" pos="N_C">costume</w>
+        <w lemma="de" n="58-23-6" pos="P">de</w>
+        <w lemma="toile" n="58-23-7" pos="N_C">toile</w>
+        <w lemma="dont" n="58-23-8" pos="PRO_rel">dont</w>
+        <w lemma="le" n="58-23-9" pos="D_def">la</w>
+        <w lemma="culotte" n="58-23-10" pos="N_C">culotte</w>
+        <w lemma="," n="58-23-11" pos="PCT_W">,</w>
+        <w lemma="arrêter" n="58-23-12" pos="V">arrêtée</w>
+        <w lemma="au-dessus" n="58-23-13" pos="ADV">au-dessus</w>
+        <w lemma="du" n="58-23-14" pos="D_part">du</w>
+        <w lemma="genou" n="58-23-15" pos="N_C">genou</w>
+        <w lemma="," n="58-23-16" pos="PCT_W">,</w>
+        <w lemma="laisser" n="58-23-17" pos="V">laissait</w>
+        <w lemma="voir" n="58-23-18" pos="V">voir</w>
+        <w lemma="un" n="58-23-19" pos="D_ind">des</w>
+        <w lemma="jarret" n="58-23-20" pos="N_C">jarrets</w>
+        <w lemma="solide" n="58-23-21" pos="A_qual">solides</w>
+        <w lemma="et" n="58-23-22" pos="C_C">et</w>
+        <w lemma="un" n="58-23-23" pos="D_ind">des</w>
+        <w lemma="mollet" n="58-23-24" pos="A_qual">mollets</w>
+        <w lemma="musclé" n="58-23-25" pos="N_C">musclés</w>
+        <w lemma="." n="58-23-26" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-24">
+        <w lemma="il" n="58-24-1" pos="CL_suj">Je</w>
+        <w lemma="me" n="58-24-2" pos="CL_obj">me</w>
+        <w lemma="sentir" n="58-24-3" pos="V">sentais</w>
+        <w lemma="un" n="58-24-4" pos="D_ind">un</w>
+        <w lemma="alpiniste" n="58-24-5" pos="N_C">alpiniste</w>
+        <w lemma="accomplir" n="58-24-6" pos="V">accompli</w>
+        <w lemma="." n="58-24-7" pos="PCT_S">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="fr" n="58-25">
+        <w lemma="regarder" n="58-25-1" pos="V">Regardant</w>
+        <w lemma="bien" n="58-25-2" pos="ADV">bien</w>
+        <w lemma="en" n="58-25-3" pos="P">en</w>
+        <w lemma="face" n="58-25-4" pos="N_C">face</w>
+        <w lemma="son" n="58-25-5" pos="D_poss">mon</w>
+        <w lemma="interlocuteur" n="58-25-6" pos="N_C">interlocuteur</w>
+        <w lemma="," n="58-25-7" pos="PCT_W">,</w>
+        <w lemma="il" n="58-25-8" pos="CL_suj">je</w>
+        <w lemma="lui" n="58-25-9" pos="CL_obj">lui</w>
+        <w lemma="répondre" n="58-25-10" pos="V">répondis</w>
+        <w lemma="sans" n="58-25-11" pos="ADV">sans</w>
+        <w lemma="hésiter" n="58-25-12" pos="V">hésiter</w>
+        <w lemma=":" n="58-25-13" pos="PCT_W">:</w>
+      </s>
+      <s lang="fr" n="58-26">
+        <w lemma="«" n="58-26-1" pos="PCT_W">«</w>
+        <w lemma="il" n="58-26-2" pos="CL_suj">Je</w>
+        <w lemma="aller" n="58-26-3" pos="V">vais</w>
+        <w lemma="à" n="58-26-4" pos="P">au</w>
+        <w lemma="unk" n="58-26-5" pos="N_P">Cervini</w>
+        <w lemma="»" n="58-26-6" pos="PCT_W">»</w>
+        <w lemma="si" n="58-26-7" pos="C_S">Si</w>
+        <w lemma="il" n="58-26-8" pos="CL_suj">vous</w>
+        <w lemma="avoir" n="58-26-9" pos="V">aviez</w>
+        <w lemma="voir" n="58-26-10" pos="V">vu</w>
+        <w lemma="," n="58-26-11" pos="PCT_W">,</w>
+        <w lemma="alors" n="58-26-12" pos="ADV">alors</w>
+        <w lemma="," n="58-26-13" pos="PCT_W">,</w>
+        <w lemma="le" n="58-26-14" pos="D_def">le</w>
+        <w lemma="sourire" n="58-26-15" pos="N_C">sourire</w>
+        <w lemma="amuser" n="58-26-16" pos="V">amusé</w>
+        <w lemma="," n="58-26-17" pos="PCT_W">,</w>
+        <w lemma="bienveillant" n="58-26-18" pos="A_qual">bienveillant</w>
+        <w lemma="," n="58-26-19" pos="PCT_W">,</w>
+        <w lemma="qui" n="58-26-20" pos="PRO_rel">qui</w>
+        <w lemma="éclairer" n="58-26-21" pos="V">éclaira</w>
+        <w lemma="son" n="58-26-22" pos="D_poss">son</w>
+        <w lemma="regard" n="58-26-23" pos="N_C">regard</w>
+        <w lemma="." n="58-26-24" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-27">
+        <w lemma="il" n="58-27-1" pos="CL_suj">Il</w>
+        <w lemma="me" n="58-27-2" pos="CL_obj">me</w>
+        <w lemma="dire" n="58-27-3" pos="V">dit</w>
+        <w lemma=":" n="58-27-4" pos="PCT_W">:</w>
+        <w lemma="«" n="58-27-5" pos="PCT_W">«</w>
+        <w lemma="bien" n="58-27-6" pos="ADV">Bien</w>
+        <w lemma=";" n="58-27-7" pos="PCT_W">;</w>
+      </s>
+      <s lang="fr" n="58-28">
+        <w lemma="il" n="58-28-1" pos="CL_suj">vous</w>
+        <w lemma="avoir" n="58-28-2" pos="V">avez</w>
+        <w lemma="un" n="58-28-3" pos="D_ind">de</w>
+        <w lemma="bon" n="58-28-4" pos="A_qual">bonnes</w>
+        <w lemma="jambe" n="58-28-5" pos="N_C">jambes</w>
+        <w lemma="," n="58-28-6" pos="PCT_W">,</w>
+        <w lemma="mais" n="58-28-7" pos="ADV">mais</w>
+        <w lemma="souvenir" n="58-28-8" pos="V">souvenez</w>
+        <w lemma="il" n="58-28-9" pos="CL_suj">-vous</w>
+        <w lemma="que" n="58-28-10" pos="C_S">que</w>
+        <w lemma="," n="58-28-11" pos="PCT_W">,</w>
+        <w lemma="dans" n="58-28-12" pos="N_P">dans</w>
+        <w lemma="le" n="58-28-13" pos="N_P">les</w>
+        <w lemma="Alpes" n="58-28-14" pos="N_P">Alpes</w>
+        <w lemma="," n="58-28-15" pos="PCT_W">,</w>
+        <w lemma="il" n="58-28-16" pos="CL_suj">on</w>
+        <w lemma="ne" n="58-28-17" pos="ADV">ne</w>
+        <w lemma="devoir" n="58-28-18" pos="V">doit</w>
+        <w lemma="pas" n="58-28-19" pos="ADV">pas</w>
+        <w lemma="seulement" n="58-28-20" pos="ADV">seulement</w>
+        <w lemma="marcher" n="58-28-21" pos="V">marcher</w>
+        <w lemma="avec" n="58-28-22" pos="ADV">avec</w>
+        <w lemma="son" n="58-28-23" pos="D_poss">ses</w>
+        <w lemma="jambe" n="58-28-24" pos="N_C">jambes</w>
+        <w lemma="," n="58-28-25" pos="PCT_W">,</w>
+        <w lemma="mais" n="58-28-26" pos="C_C">mais</w>
+        <w lemma="encore" n="58-28-27" pos="ADV">encore</w>
+        <w lemma="avec" n="58-28-28" pos="P">avec</w>
+        <w lemma="son" n="58-28-29" pos="D_poss">sa</w>
+        <w lemma="tête" n="58-28-30" pos="N_C">tête</w>
+        <w lemma="." n="58-28-31" pos="PCT_S">.</w>
+        <w lemma="»" n="58-28-32" pos="PCT_W">»</w>
+      </s>
+      <s lang="fr" n="58-29">
+        <w lemma="le" n="58-29-1" pos="D_def">Le</w>
+        <w lemma="sourire" n="58-29-2" pos="N_C">sourire</w>
+        <w lemma="il" n="58-29-3" pos="CL_refl">s'</w>
+        <w lemma="évanouir" n="58-29-4" pos="V">évanouit</w>
+        <w lemma="sur" n="58-29-5" pos="P">sur</w>
+        <w lemma="son" n="58-29-6" pos="D_poss">ses</w>
+        <w lemma="lèvre" n="58-29-7" pos="N_C">lèvres</w>
+        <w lemma="," n="58-29-8" pos="PCT_W">,</w>
+        <w lemma="son" n="58-29-9" pos="D_poss">ses</w>
+        <w lemma="oeil" n="58-29-10" pos="N_C">yeux</w>
+        <w lemma="paraître" n="58-29-11" pos="V">parurent</w>
+        <w lemma="regarder" n="58-29-12" pos="V">regarder</w>
+        <w lemma="dans" n="58-29-13" pos="P">dans</w>
+        <w lemma="le" n="58-29-14" pos="D_def">le</w>
+        <w lemma="vague" n="58-29-15" pos="N_C">vague</w>
+        <w lemma="et" n="58-29-16" pos="N_P">et</w>
+        <w lemma="," n="58-29-17" pos="PCT_W">,</w>
+        <w lemma="sans" n="58-29-18" pos="P">sans</w>
+        <w lemma="un" n="58-29-19" pos="D_ind">une</w>
+        <w lemma="autre" n="58-29-20" pos="A_ind">autre</w>
+        <w lemma="parole" n="58-29-21" pos="N_C">parole</w>
+        <w lemma="," n="58-29-22" pos="PCT_W">,</w>
+        <w lemma="il" n="58-29-23" pos="CL_suj">il</w>
+        <w lemma="partir" n="58-29-24" pos="V">partit</w>
+        <w lemma="." n="58-29-25" pos="PCT_S">.</w>
+      </s>
+    </div>
+    <pb facs="349" n="280" />
+    <div>
+      <s lang="fr" n="58-30">
+        <w lemma="il" n="58-30-1" pos="CL_suj">J'</w>
+        <w lemma="avoir" n="58-30-2" pos="V">ai</w>
+        <w lemma="songer" n="58-30-3" pos="V">songé</w>
+        <w lemma="souvent" n="58-30-4" pos="ADV">souvent</w>
+        <w lemma="à" n="58-30-5" pos="P">à</w>
+        <w lemma="ce" n="58-30-6" pos="D_dem">cette</w>
+        <w lemma="bref" n="58-30-7" pos="A_qual">brève</w>
+        <w lemma="rencontre" n="58-30-8" pos="N_C">rencontre</w>
+        <w lemma="." n="58-30-9" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-31">
+        <w lemma="pourquoi" n="58-31-1" pos="ADV_int">Pourquoi</w>
+        <w lemma="ce" n="58-31-2" pos="D_dem">cette</w>
+        <w lemma="remarquer" n="58-31-3" pos="V">remarque</w>
+        <w lemma="?" n="58-31-4" pos="PCT_S">?</w>
+      </s>
+      <s lang="fr" n="58-32">
+        <w lemma="être" n="58-32-1" pos="V">Etait</w>
+        <w lemma="ce" n="58-32-2" pos="PRO_dem">-ce</w>
+        <w lemma="son" n="58-32-3" pos="D_poss">mon</w>
+        <w lemma="accoutrement" n="58-32-4" pos="N_C">accoutrement</w>
+        <w lemma="ou" n="58-32-5" pos="C_C">ou</w>
+        <w lemma="son" n="58-32-6" pos="D_poss">ma</w>
+        <w lemma="vanité" n="58-32-7" pos="N_C">vanité</w>
+        <w lemma="enfantin" n="58-32-8" pos="A_qual">enfantine</w>
+        <w lemma="qui" n="58-32-9" pos="PRO_rel">qui</w>
+        <w lemma="la|le" n="58-32-10" pos="CL_obj">l'</w>
+        <w lemma="avoir" n="58-32-11" pos="V">avait</w>
+        <w lemma="susciter" n="58-32-12" pos="V">suscitée</w>
+        <w lemma="?" n="58-32-13" pos="PCT_S">?</w>
+      </s>
+      <s lang="fr" n="58-33">
+        <w lemma="être" n="58-33-1" pos="V">Etait</w>
+        <w lemma="ce" n="58-33-2" pos="PRO_dem">-ce</w>
+        <w lemma="chez" n="58-33-3" pos="P">chez</w>
+        <w lemma="lui" n="58-33-4" pos="PRO">lui</w>
+        <w lemma="la|le" n="58-33-5" pos="D_def">l'</w>
+        <w lemma="expression" n="58-33-6" pos="N_C">expression</w>
+        <w lemma="de" n="58-33-7" pos="P">d'</w>
+        <w lemma="un" n="58-33-8" pos="D_ind">un</w>
+        <w lemma="souvenir" n="58-33-9" pos="N_C">souvenir</w>
+        <w lemma="ou" n="58-33-10" pos="C_C">ou</w>
+        <w lemma="de" n="58-33-11" pos="P">d'</w>
+        <w lemma="un" n="58-33-12" pos="D_ind">un</w>
+        <w lemma="regret" n="58-33-13" pos="N_C">regret</w>
+        <w lemma="?" n="58-33-14" pos="PCT_S">?</w>
+      </s>
+      <s lang="fr" n="58-34">
+        <w lemma="ce" n="58-34-1" pos="PRO_dem">C'</w>
+        <w lemma="être" n="58-34-2" pos="V">est</w>
+        <w lemma="de" n="58-34-3" pos="P">d'</w>
+        <w lemma="ailleurs" n="58-34-4" pos="ADV">ailleurs</w>
+        <w lemma="indifférent" n="58-34-5" pos="A_qual">indifférent</w>
+        <w lemma="." n="58-34-6" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-35">
+        <w lemma="ce" n="58-35-1" pos="PRO_dem">Ce</w>
+        <w lemma="qui" n="58-35-2" pos="PRO_rel">qui</w>
+        <w lemma="importer" n="58-35-3" pos="V">importe</w>
+        <w lemma="," n="58-35-4" pos="PCT_W">,</w>
+        <w lemma="ce" n="58-35-5" pos="PRO_dem">c'</w>
+        <w lemma="être" n="58-35-6" pos="V">est</w>
+        <w lemma="le" n="58-35-7" pos="D_def">la</w>
+        <w lemma="vérité" n="58-35-8" pos="N_C">vérité</w>
+        <w lemma="profond" n="58-35-9" pos="A_qual">profonde</w>
+        <w lemma="contenir" n="58-35-10" pos="V">contenue</w>
+        <w lemma="en" n="58-35-11" pos="P">en</w>
+        <w lemma="ce" n="58-35-12" pos="D_dem">ce</w>
+        <w lemma="conseil" n="58-35-13" pos="N_C">conseil</w>
+        <w lemma="donner" n="58-35-14" pos="V">donné</w>
+        <w lemma="," n="58-35-15" pos="PCT_W">,</w>
+        <w lemma="en" n="58-35-16" pos="CL_obj">en</w>
+        <w lemma="passer" n="58-35-17" pos="V">passant</w>
+        <w lemma="," n="58-35-18" pos="PCT_W">,</w>
+        <w lemma="par" n="58-35-19" pos="P">par</w>
+        <w lemma="le" n="58-35-20" pos="D_def">le</w>
+        <w lemma="grand" n="58-35-21" pos="A_qual">grand</w>
+        <w lemma="Whymper" n="58-35-22" pos="N_P">Whymper</w>
+        <w lemma="à" n="58-35-23" pos="P">à</w>
+        <w lemma="un" n="58-35-24" pos="D_ind">un</w>
+        <w lemma="gamin" n="58-35-25" pos="N_C">gamin</w>
+        <w lemma="qui" n="58-35-26" pos="PRO_rel">qui</w>
+        <w lemma="la|le" n="58-35-27" pos="CL_obj">l'</w>
+        <w lemma="avoir" n="58-35-28" pos="V">avait</w>
+        <w lemma="bousculer" n="58-35-29" pos="V">bousculé</w>
+        <w lemma="." n="58-35-30" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-36">
+        <w lemma="conseil" n="58-36-1" pos="N_C">Conseil</w>
+        <w lemma="plein" n="58-36-2" pos="A_qual">plein</w>
+        <w lemma="de" n="58-36-3" pos="P">de</w>
+        <w lemma="sagesse" n="58-36-4" pos="N_C">sagesse</w>
+        <w lemma="que" n="58-36-5" pos="PRO_rel">que</w>
+        <w lemma="le" n="58-36-6" pos="D_def">le</w>
+        <w lemma="gamin" n="58-36-7" pos="N_C">gamin</w>
+        <w lemma="entendre" n="58-36-8" pos="V">entendit</w>
+        <w lemma="," n="58-36-9" pos="PCT_W">,</w>
+        <w lemma="que" n="58-36-10" pos="C_S">que</w>
+        <w lemma="le" n="58-36-11" pos="D_def">le</w>
+        <w lemma="jeune" n="58-36-12" pos="A_qual">jeune</w>
+        <w lemma="homme" n="58-36-13" pos="N_C">homme</w>
+        <w lemma="ne" n="58-36-14" pos="ADV">n'</w>
+        <w lemma="écouter" n="58-36-15" pos="V">écouta</w>
+        <w lemma="pas" n="58-36-16" pos="ADV">pas</w>
+        <w lemma="toujours" n="58-36-17" pos="ADV">toujours</w>
+        <w lemma="," n="58-36-18" pos="PCT_W">,</w>
+        <w lemma="et" n="58-36-19" pos="C_C">et</w>
+        <w lemma="que" n="58-36-20" pos="PRO_int">que</w>
+        <w lemma="la|le" n="58-36-21" pos="D_def">l'</w>
+        <w lemma="homme" n="58-36-22" pos="N_C">homme</w>
+        <w lemma="mûr" n="58-36-23" pos="A_qual">mûr</w>
+        <w lemma="il" n="58-36-24" pos="CL_refl">s'</w>
+        <w lemma="efforcer" n="58-36-25" pos="V">efforce</w>
+        <w lemma="un" n="58-36-26" pos="D_part">de</w>
+        <w lemma="suivre" n="58-36-27" pos="V">suivre</w>
+        <w lemma="." n="58-36-28" pos="PCT_S">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="fr" n="58-37">
+        <w lemma="certes" n="58-37-1" pos="ADV">Certes</w>
+        <w lemma="," n="58-37-2" pos="PCT_W">,</w>
+        <w lemma="il" n="58-37-3" pos="CL_suj">il</w>
+        <w lemma="falloir" n="58-37-4" pos="V">faut</w>
+        <w lemma="un" n="58-37-5" pos="D_ind">des</w>
+        <w lemma="jarret" n="58-37-6" pos="N_C">jarrets</w>
+        <w lemma="solide" n="58-37-7" pos="A_qual">solides</w>
+        <w lemma="pour" n="58-37-8" pos="P">pour</w>
+        <w lemma="grimper" n="58-37-9" pos="V">grimper</w>
+        <w lemma="dans" n="58-37-10" pos="P">dans</w>
+        <w lemma="le" n="58-37-11" pos="D_def">la</w>
+        <w lemma="montagne" n="58-37-12" pos="N_C">montagne</w>
+        <w lemma="," n="58-37-13" pos="PCT_W">,</w>
+        <w lemma="et" n="58-37-14" pos="C_C">et</w>
+        <w lemma="sans" n="58-37-15" pos="ADV">sans</w>
+        <w lemma="un" n="58-37-16" pos="D_ind">de</w>
+        <w lemma="bon" n="58-37-17" pos="A_qual">bonnes</w>
+        <w lemma="jambe" n="58-37-18" pos="N_C">jambes</w>
+        <w lemma="il" n="58-37-19" pos="CL_suj">il</w>
+        <w lemma="ne" n="58-37-20" pos="ADV">n'</w>
+        <w lemma="y" n="58-37-21" pos="CL_obj">y</w>
+        <w lemma="avoir" n="58-37-22" pos="V">a</w>
+        <w lemma="pas" n="58-37-23" pos="ADV">pas</w>
+        <w lemma="de" n="58-37-24" pos="P">d'</w>
+        <w lemma="ascension" n="58-37-25" pos="N_C">ascensions</w>
+        <w lemma="possible" n="58-37-26" pos="A_qual">possibles</w>
+        <w lemma="." n="58-37-27" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-38">
+        <w lemma="mais" n="58-38-1" pos="C_C">Mais</w>
+        <w lemma="il" n="58-38-2" pos="CL_obj">les</w>
+        <w lemma="muscler" n="58-38-3" pos="V">muscles</w>
+        <w lemma="ne" n="58-38-4" pos="ADV">ne</w>
+        <w lemma="être" n="58-38-5" pos="V">sont</w>
+        <w lemma="pas" n="58-38-6" pos="ADV">pas</w>
+        <w lemma="tout" n="58-38-7" pos="ADV">tout</w>
+        <w lemma="," n="58-38-8" pos="PCT_W">,</w>
+        <w lemma="il" n="58-38-9" pos="CL_suj">ils</w>
+        <w lemma="devoir" n="58-38-10" pos="V">doivent</w>
+        <w lemma="être" n="58-38-11" pos="V">être</w>
+        <w lemma="conduire" n="58-38-12" pos="V">conduits</w>
+        <w lemma="par" n="58-38-13" pos="P">par</w>
+        <w lemma="un" n="58-38-14" pos="D_ind">un</w>
+        <w lemma="cerveau" n="58-38-15" pos="N_C">cerveau</w>
+        <w lemma="unk" n="58-38-16" pos="N_C">lucide</w>
+        <w lemma="et" n="58-38-17" pos="C_C">et</w>
+        <w lemma="vif" n="58-38-18" pos="A_qual">vif</w>
+        <w lemma="," n="58-38-19" pos="PCT_W">,</w>
+        <w lemma="par" n="58-38-20" pos="P">par</w>
+        <w lemma="un" n="58-38-21" pos="D_ind">une</w>
+        <w lemma="tête" n="58-38-22" pos="N_C">tête</w>
+        <w lemma="bien" n="58-38-23" pos="ADV">bien</w>
+        <w lemma="équilibré" n="58-38-24" pos="A_qual">équilibrée</w>
+        <w lemma="qui" n="58-38-25" pos="PRO_rel">qui</w>
+        <w lemma="savoir" n="58-38-26" pos="V">sait</w>
+        <w lemma="," n="58-38-27" pos="PCT_W">,</w>
+        <w lemma="à" n="58-38-28" pos="P">à</w>
+        <w lemma="chaque" n="58-38-29" pos="D_ind">chaque</w>
+        <w lemma="pas" n="58-38-30" pos="N_C">pas</w>
+        <w lemma="," n="58-38-31" pos="PCT_W">,</w>
+        <w lemma="comment" n="58-38-32" pos="C_S">comment</w>
+        <w lemma="il" n="58-38-33" pos="CL_suj">il</w>
+        <w lemma="falloir" n="58-38-34" pos="V">faut</w>
+        <w lemma="poser" n="58-38-35" pos="V">poser</w>
+        <w lemma="le" n="58-38-36" pos="D_def">le</w>
+        <w lemma="pied" n="58-38-37" pos="N_C">pied</w>
+        <w lemma="et" n="58-38-38" pos="C_C">et</w>
+        <w lemma="pourquoi" n="58-38-39" pos="C_S">pourquoi</w>
+        <w lemma=";" n="58-38-40" pos="PCT_W">;</w>
+      </s>
+      <s lang="fr" n="58-39">
+        <w lemma="un" n="58-39-1" pos="D_ind">une</w>
+        <w lemma="tête" n="58-39-2" pos="N_C">tête</w>
+        <w lemma="qui" n="58-39-3" pos="PRO_rel">qui</w>
+        <w lemma="," n="58-39-4" pos="PCT_W">,</w>
+        <w lemma="voir" n="58-39-5" pos="V">voyant</w>
+        <w lemma="plus" n="58-39-6" pos="ADV">plus</w>
+        <w lemma="loin" n="58-39-7" pos="ADV">loin</w>
+        <w lemma="que" n="58-39-8" pos="C_S">que</w>
+        <w lemma="le" n="58-39-9" pos="D_def">le</w>
+        <w lemma="bout" n="58-39-10" pos="N_C">bout</w>
+        <w lemma="de" n="58-39-11" pos="P">du</w>
+        <w lemma="pied" n="58-39-12" pos="N_C">pied</w>
+        <w lemma="," n="58-39-13" pos="PCT_W">,</w>
+        <w lemma="pressentir" n="58-39-14" pos="V">pressent</w>
+        <w lemma="le" n="58-39-15" pos="D_def">les</w>
+        <w lemma="conséquence" n="58-39-16" pos="N_C">conséquences</w>
+        <w lemma="de" n="58-39-17" pos="P">d'</w>
+        <w lemma="un" n="58-39-18" pos="D_ind">un</w>
+        <w lemma="mouvement" n="58-39-19" pos="N_C">mouvement</w>
+        <w lemma="." n="58-39-20" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-40">
+        <w lemma="dans" n="58-40-1" pos="P">Dans</w>
+        <w lemma="le" n="58-40-2" pos="D_def">la</w>
+        <w lemma="montagne" n="58-40-3" pos="N_C">montagne</w>
+        <w lemma="comme" n="58-40-4" pos="C_C">comme</w>
+        <w lemma="ailleurs" n="58-40-5" pos="ADV">ailleurs</w>
+        <w lemma="," n="58-40-6" pos="PCT_W">,</w>
+        <w lemma="le" n="58-40-7" pos="D_def">le</w>
+        <w lemma="mouvement" n="58-40-8" pos="N_C">mouvement</w>
+        <w lemma="devoir" n="58-40-9" pos="V">doit</w>
+        <w lemma="être" n="58-40-10" pos="V">être</w>
+        <w lemma="raisonné" n="58-40-11" pos="A_qual">raisonné</w>
+        <w lemma="," n="58-40-12" pos="PCT_W">,</w>
+        <w lemma="le" n="58-40-13" pos="D_def">le</w>
+        <w lemma="cerveau" n="58-40-14" pos="N_C">cerveau</w>
+        <w lemma="devoir" n="58-40-15" pos="V">doit</w>
+        <w lemma="dominer" n="58-40-16" pos="V">dominer</w>
+        <w lemma="le" n="58-40-17" pos="D_def">le</w>
+        <w lemma="muscle" n="58-40-18" pos="N_C">muscle</w>
+        <w lemma="et" n="58-40-19" pos="C_C">et</w>
+        <w lemma="le" n="58-40-20" pos="CL_obj">le</w>
+        <w lemma="diriger" n="58-40-21" pos="V">diriger</w>
+        <w lemma="sans" n="58-40-22" pos="ADV">sans</w>
+        <w lemma="jamais" n="58-40-23" pos="ADV">jamais</w>
+        <w lemma="relâcher" n="58-40-24" pos="V">relâcher</w>
+        <w lemma="son" n="58-40-25" pos="D_poss">son</w>
+        <w lemma="attention" n="58-40-26" pos="N_C">attention</w>
+        <w lemma="." n="58-40-27" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-41">
+        <w lemma="que" n="58-41-1" pos="PRO_int">Que</w>
+        <w lemma="de" n="58-41-2" pos="P">d'</w>
+        <w lemma="accident" n="58-41-3" pos="N_C">accidents</w>
+        <w lemma="," n="58-41-4" pos="PCT_W">,</w>
+        <w lemma="que" n="58-41-5" pos="C_S">que</w>
+        <w lemma="un" n="58-41-6" pos="D_ind">de</w>
+        <w lemma="mort" n="58-41-7" pos="N_C">morts</w>
+        <w lemma="tragique" n="58-41-8" pos="A_qual">tragiques</w>
+        <w lemma="devoir" n="58-41-9" pos="V">dus</w>
+        <w lemma="à" n="58-41-10" pos="P">à</w>
+        <w lemma="un" n="58-41-11" pos="D_ind">un</w>
+        <w lemma="faux" n="58-41-12" pos="A_qual">faux</w>
+        <w lemma="pas" n="58-41-13" pos="N_C">pas</w>
+        <w lemma="," n="58-41-14" pos="PCT_W">,</w>
+        <w lemma="à" n="58-41-15" pos="P">à</w>
+        <w lemma="un" n="58-41-16" pos="D_ind">une</w>
+        <w lemma="seconde" n="58-41-17" pos="N_C">seconde</w>
+        <w lemma="de" n="58-41-18" pos="P">d'</w>
+        <w lemma="inattention" n="58-41-19" pos="N_C">inattention</w>
+        <w lemma="," n="58-41-20" pos="PCT_W">,</w>
+        <w lemma="à" n="58-41-21" pos="P">à</w>
+        <w lemma="un" n="58-41-22" pos="D_ind">un</w>
+        <w lemma="manque" n="58-41-23" pos="N_C">manque</w>
+        <w lemma="de" n="58-41-24" pos="P">de</w>
+        <w lemma="jugement" n="58-41-25" pos="N_C">jugement</w>
+        <w lemma="!" n="58-41-26" pos="PCT_S">!</w>
+      </s>
+      <s lang="fr" n="58-42">
+        <w lemma="Whymper" n="58-42-1" pos="N_P">Whymper</w>
+        <w lemma="avoir" n="58-42-2" pos="V">avait</w>
+        <w lemma="raison" n="58-42-3" pos="N_C">raison</w>
+        <w lemma=":" n="58-42-4" pos="PCT_W">:</w>
+      </s>
+      <s lang="fr" n="58-43">
+        <w lemma="il" n="58-43-1" pos="CL_suj">il</w>
+        <w lemma="falloir" n="58-43-2" pos="V">faut</w>
+        <w lemma="marcher" n="58-43-3" pos="V">marcher</w>
+        <w lemma="avec" n="58-43-4" pos="P">avec</w>
+        <w lemma="son" n="58-43-5" pos="D_poss">ses</w>
+        <w lemma="jambe" n="58-43-6" pos="N_C">jambes</w>
+        <w lemma="," n="58-43-7" pos="PCT_W">,</w>
+        <w lemma="mais" n="58-43-8" pos="C_C">mais</w>
+        <w lemma="plus" n="58-43-9" pos="ADV">plus</w>
+        <w lemma="encore" n="58-43-10" pos="ADV">encore</w>
+        <w lemma="avec" n="58-43-11" pos="P">avec</w>
+        <w lemma="son" n="58-43-12" pos="D_poss">sa</w>
+        <w lemma="tête" n="58-43-13" pos="N_C">tête</w>
+        <w lemma="." n="58-43-14" pos="PCT_S">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="fr" n="58-44">
+        <w lemma="unk" n="58-44-1" pos="N_P">Peut-être</w>
+        <w lemma="," n="58-44-2" pos="PCT_W">,</w>
+        <w lemma="en" n="58-44-3" pos="CL_obj">en</w>
+        <w lemma="me" n="58-44-4" pos="CL_obj">me</w>
+        <w lemma="dire" n="58-44-5" pos="V">disant</w>
+        <w lemma="cela" n="58-44-6" pos="PRO_dem">cela</w>
+        <w lemma="," n="58-44-7" pos="PCT_W">,</w>
+        <w lemma="le" n="58-44-8" pos="D_def">le</w>
+        <w lemma="grand" n="58-44-9" pos="A_qual">grand</w>
+        <w lemma="alpiniste" n="58-44-10" pos="N_C">alpiniste</w>
+        <w lemma="songer" n="58-44-11" pos="V">songeait</w>
+        <w lemma="il" n="58-44-12" pos="CL_suj">-il</w>
+        <w lemma="en" n="58-44-13" pos="P">en</w>
+        <w lemma="lui-même" n="58-44-14" pos="PRO">lui-même</w>
+        <w lemma="à" n="58-44-15" pos="P">à</w>
+        <w lemma="le" n="58-44-16" pos="D_def">la</w>
+        <w lemma="catastrophe" n="58-44-17" pos="N_C">catastrophe</w>
+        <w lemma="du" n="58-44-18" pos="N_P">du</w>
+        <w lemma="Cervin" n="58-44-19" pos="N_P">Cervin</w>
+        <w lemma="?" n="58-44-20" pos="PCT_S">?</w>
+      </s>
+      <s lang="fr" n="58-45">
+        <w lemma="unk" n="58-45-1" pos="N_P">Peut-être</w>
+        <w lemma="avoir" n="58-45-2" pos="V">avait</w>
+        <w lemma="il" n="58-45-3" pos="CL_suj">-il</w>
+        <w lemma="encore" n="58-45-4" pos="ADV">encore</w>
+        <w lemma="un" n="58-45-5" pos="D_ind">une</w>
+        <w lemma="autre" n="58-45-6" pos="A_ind">autre</w>
+        <w lemma="idée" n="58-45-7" pos="N_C">idée</w>
+        <w lemma="en" n="58-45-8" pos="P">en</w>
+        <w lemma="son" n="58-45-9" pos="D_poss">sa</w>
+        <w lemma="gros" n="58-45-10" pos="A_qual">grosse</w>
+        <w lemma="et" n="58-45-11" pos="C_C">et</w>
+        <w lemma="bon" n="58-45-12" pos="A_qual">bonne</w>
+        <w lemma="tête" n="58-45-13" pos="N_C">tête</w>
+        <w lemma="?" n="58-45-14" pos="PCT_S">?</w>
+      </s>
+    </div>
+    <div>
+      <s lang="fr" n="58-46">
+        <w lemma="en" n="58-46-1" pos="P">En</w>
+        <w lemma="me" n="58-46-2" pos="CL_obj">me</w>
+        <w lemma="remémorer" n="58-46-3" pos="V">remémorant</w>
+        <w lemma="ce" n="58-46-4" pos="D_dem">cette</w>
+        <w lemma="bref" n="58-46-5" pos="A_qual">brève</w>
+        <w lemma="entrevue" n="58-46-6" pos="N_C">entrevue</w>
+        <w lemma="," n="58-46-7" pos="PCT_W">,</w>
+        <w lemma="il" n="58-46-8" pos="CL_suj">je</w>
+        <w lemma="penser" n="58-46-9" pos="V">pense</w>
+        <w lemma="à" n="58-46-10" pos="P">à</w>
+        <w lemma="un" n="58-46-11" pos="D_ind">une</w>
+        <w lemma="autre" n="58-46-12" pos="A_ind">autre</w>
+        <w lemma="interprétation" n="58-46-13" pos="N_C">interprétation</w>
+        <w lemma="de" n="58-46-14" pos="P">de</w>
+        <w lemma="le" n="58-46-15" pos="D_def">la</w>
+        <w lemma="pensée" n="58-46-16" pos="N_C">pensée</w>
+        <w lemma="de" n="58-46-17" pos="P">de</w>
+        <w lemma="Whymper" n="58-46-18" pos="N_P">Whymper</w>
+        <w lemma="." n="58-46-19" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-47">
+        <w lemma="il" n="58-47-1" pos="CL_suj">On</w>
+        <w lemma="pouvoir" n="58-47-2" pos="V">peut</w>
+        <w lemma="abattre" n="58-47-3" pos="V">abattre</w>
+        <w lemma="un" n="58-47-4" pos="D_ind">des</w>
+        <w lemma="kilomètre" n="58-47-5" pos="N_C">kilomètres</w>
+        <w lemma="," n="58-47-6" pos="PCT_W">,</w>
+        <w lemma="arpenter" n="58-47-7" pos="V">arpenter</w>
+        <w lemma="un" n="58-47-8" pos="D_ind">des</w>
+        <w lemma="arête" n="58-47-9" pos="N_C">arêtes</w>
+        <w lemma="," n="58-47-10" pos="PCT_W">,</w>
+        <w lemma="gravir" n="58-47-11" pos="V">gravir</w>
+        <w lemma="un" n="58-47-12" pos="D_ind">des</w>
+        <w lemma="sommet" n="58-47-13" pos="N_C">sommets</w>
+        <w lemma="," n="58-47-14" pos="PCT_W">,</w>
+        <w lemma="parcourir" n="58-47-15" pos="V">parcourir</w>
+        <w lemma="un" n="58-47-16" pos="D_ind">des</w>
+        <w lemma="vallée" n="58-47-17" pos="N_C">vallées</w>
+        <w lemma="," n="58-47-18" pos="PCT_W">,</w>
+        <w lemma="sans" n="58-47-19" pos="ADV">sans</w>
+        <w lemma="songer" n="58-47-20" pos="V">songer</w>
+        <w lemma="à" n="58-47-21" pos="P">à</w>
+        <w lemma="autre" n="58-47-22" pos="A_ind">autre</w>
+        <w lemma="chose" n="58-47-23" pos="N_C">chose</w>
+        <w lemma="que" n="58-47-24" pos="C_S">qu'</w>
+        <w lemma="à" n="58-47-25" pos="P">à</w>
+        <w lemma="le" n="58-47-26" pos="D_def">la</w>
+        <w lemma="distance" n="58-47-27" pos="N_C">distance</w>
+        <w lemma="que" n="58-47-28" pos="PRO_rel">que</w>
+        <w lemma="il" n="58-47-29" pos="CL_suj">l'on</w>
+        <w lemma="franchir" n="58-47-30" pos="V">franchit</w>
+        <w lemma="et" n="58-47-31" pos="C_C">et</w>
+        <w lemma="à" n="58-47-32" pos="P">au</w>
+        <w lemma="temps" n="58-47-33" pos="N_C">temps</w>
+        <w lemma="que" n="58-47-34" pos="PRO_rel">que</w>
+        <w lemma="il" n="58-47-35" pos="CL_suj">l'on</w>
+        <w lemma="y" n="58-47-36" pos="CL_obj">y</w>
+        <w lemma="consacrer" n="58-47-37" pos="V">consacre</w>
+        <w lemma="," n="58-47-38" pos="PCT_W">,</w>
+        <w lemma="sans" n="58-47-39" pos="P">sans</w>
+        <w lemma="rien" n="58-47-40" pos="PRO_ind">rien</w>
+        <w lemma="regarder" n="58-47-41" pos="V">regarder</w>
+        <w lemma="autour" n="58-47-42" pos="ADV_int">autour</w>
+        <w lemma="de" n="58-47-43" pos="P">de</w>
+        <w lemma="soi" n="58-47-44" pos="PRO">soi</w>
+        <w lemma="," n="58-47-45" pos="PCT_W">,</w>
+        <w lemma="ni" n="58-47-46" pos="C_C">ni</w>
+        <w lemma="le" n="58-47-47" pos="D_def">la</w>
+        <w lemma="beauté" n="58-47-48" pos="N_C">beauté</w>
+        <w lemma="de" n="58-47-49" pos="P">du</w>
+        <w lemma="paysage" n="58-47-50" pos="N_C">paysage</w>
+        <w lemma="," n="58-47-51" pos="PCT_W">,</w>
+        <w lemma="ni" n="58-47-52" pos="C_C">ni</w>
+        <w lemma="le" n="58-47-53" pos="D_def">les</w>
+        <w lemma="particularité" n="58-47-54" pos="N_C">particularités</w>
+        <w lemma="de" n="58-47-55" pos="P">de</w>
+        <w lemma="le" n="58-47-56" pos="D_def">la</w>
+        <w lemma="végétation" n="58-47-57" pos="N_C">végétation</w>
+        <w lemma="," n="58-47-58" pos="PCT_W">,</w>
+        <w lemma="ni" n="58-47-59" pos="C_C">ni</w>
+        <w lemma="le" n="58-47-60" pos="D_def">les</w>
+        <w lemma="animal" n="58-47-61" pos="N_C">animaux</w>
+        <w lemma="," n="58-47-62" pos="PCT_W">,</w>
+        <w lemma="ni" n="58-47-63" pos="C_C">ni</w>
+        <w lemma="le" n="58-47-64" pos="D_def">les</w>
+        <w lemma="homme" n="58-47-65" pos="N_C">hommes</w>
+        <w lemma="." n="58-47-66" pos="PCT_S">.</w>
+      </s>
+      <s lang="fr" n="58-48">
+        <w lemma="il" n="58-48-1" pos="CL_suj">On</w>
+        <w lemma="dévorer" n="58-48-2" pos="V">dévore</w>
+        <w lemma="la|le" n="58-48-3" pos="D_def">l'</w>
+        <w lemma="espace" n="58-48-4" pos="N_C">espace</w>
+        <w lemma="comme" n="58-48-5" pos="P">comme</w>
+        <w lemma="un" n="58-48-6" pos="D_ind">une</w>
+        <w lemma="locomotive" n="58-48-7" pos="N_C">locomotive</w>
+        <w lemma="qui" n="58-48-8" pos="PRO_rel">qui</w>
+        <w lemma="ne" n="58-48-9" pos="ADV">n'</w>
+        <w lemma="avoir" n="58-48-10" pos="V">a</w>
+        <w lemma="point" n="58-48-11" pos="ADV">point</w>
+        <w lemma="de" n="58-48-12" pos="P">d'</w>
+        <w lemma="âme" n="58-48-13" pos="N_C">âme</w>
+        <w lemma="et" n="58-48-14" pos="C_C">et</w>
+        <w lemma="point" n="58-48-15" pos="N_C">point</w>
+        <w lemma="de" n="58-48-16" pos="P">de</w>
+        <w lemma="sens" n="58-48-17" pos="N_C">sens</w>
+        <w lemma="," n="58-48-18" pos="PCT_W">,</w>
+        <w lemma="il" n="58-48-19" pos="CL_suj">on</w>
+        <w lemma="passer" n="58-48-20" pos="V">passe</w>
+        <w lemma="indifférent" n="58-48-21" pos="A_qual">indifférent</w>
+        <w lemma="à" n="58-48-22" pos="P">à</w>
+        <w lemma="tout" n="58-48-23" pos="A_ind">tout</w>
+        <w lemma="ce" n="58-48-24" pos="PRO_dem">ce</w>
+        <w lemma="qui" n="58-48-25" pos="PRO_rel">qui</w>
+        <w lemma="faire" n="58-48-26" pos="V">fait</w>
+        <w lemma="le" n="58-48-27" pos="D_def">le</w>
+        <w lemma="charme" n="58-48-28" pos="N_C">charme</w>
+        <w lemma="et" n="58-48-29" pos="C_C">et</w>
+        <w lemma="le" n="58-48-30" pos="D_def">la</w>
+        <w lemma="valeur" n="58-48-31" pos="N_C">valeur</w>
+        <w lemma="de" n="58-48-32" pos="P">de</w>
+        <w lemma="le" n="58-48-33" pos="D_def">la</w>
+        <w lemma="vie" n="58-48-34" pos="N_C">vie</w>
+        <w lemma=":" n="58-48-35" pos="PCT_W">:</w>
+      </s>
+      <s lang="fr" n="58-49">
+        <w lemma="le" n="58-49-1" pos="D_def">la</w>
+        <w lemma="poésie" n="58-49-2" pos="N_C">poésie</w>
+        <w lemma="et" n="58-49-3" pos="C_C">et</w>
+        <w lemma="le" n="58-49-4" pos="D_def">la</w>
+        <w lemma="science" n="58-49-5" pos="N_C">science</w>
+        <w lemma="de" n="58-49-6" pos="P">de</w>
+        <w lemma="le" n="58-49-7" pos="D_def">la</w>
+        <w lemma="nature" n="58-49-8" pos="N_C">nature</w>
+        <w lemma="." n="58-49-9" pos="PCT_S">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="fr" n="58-50">
+        <w lemma="et" n="58-50-1" pos="C_C">Et</w>
+        <w lemma="," n="58-50-2" pos="PCT_W">,</w>
+        <w lemma="en" n="58-50-3" pos="P">en</w>
+        <w lemma="son" n="58-50-4" pos="D_poss">notre</w>
+        <w lemma="époque" n="58-50-5" pos="N_C">époque</w>
+        <w lemma="haletant" n="58-50-6" pos="A_qual">haletante</w>
+        <w lemma="," n="58-50-7" pos="PCT_W">,</w>
+        <w lemma="où" n="58-50-8" pos="PRO_rel">où</w>
+        <w lemma="le" n="58-50-9" pos="D_def">la</w>
+        <w lemma="vitesse" n="58-50-10" pos="N_C">vitesse</w>
+        <w lemma="compter" n="58-50-11" pos="V">compte</w>
+        <w lemma="plus" n="58-50-12" pos="ADV">plus</w>
+        <w lemma="que" n="58-50-13" pos="ADV">que</w>
+        <w lemma="tout" n="58-50-14" pos="A_ind">tout</w>
+        <w lemma="le" n="58-50-15" pos="D_def">le</w>
+        <w lemma="reste" n="58-50-16" pos="N_C">reste</w>
+        <w lemma="," n="58-50-17" pos="PCT_W">,</w>
+        <w lemma="où" n="58-50-18" pos="PRO_rel">où</w>
+        <w lemma="le" n="58-50-19" pos="CL_obj">le</w>
+        <w lemma="muscler" n="58-50-20" pos="V">muscle</w>
+        <w lemma="sembler" n="58-50-21" pos="V">semble</w>
+        <w lemma="être" n="58-50-22" pos="V">être</w>
+        <w lemma="ériger" n="58-50-23" pos="V">érigé</w>
+        <w lemma="en" n="58-50-24" pos="P">en</w>
+        <w lemma="divinité" n="58-50-25" pos="N_C">divinité</w>
+        <w lemma="," n="58-50-26" pos="PCT_W">,</w>
+        <w lemma="il" n="58-50-27" pos="CL_suj">je</w>
+        <w lemma="vouloir" n="58-50-28" pos="V">voudrais</w>
+        <w lemma="que" n="58-50-29" pos="C_S">que</w>
+        <w lemma="tout" n="58-50-30" pos="PRO_ind">tous</w>
+        <w lemma="le" n="58-50-31" pos="D_def">les</w>
+        <w lemma="alpiniste" n="58-50-32" pos="N_C">alpinistes</w>
+        <w lemma="il" n="58-50-33" pos="CL_refl">s'</w>
+        <w lemma="inspirer" n="58-50-34" pos="V">inspirassent</w>
+        <w lemma="de" n="58-50-35" pos="P">du</w>
+        <w lemma="conseil" n="58-50-36" pos="N_C">conseil</w>
+        <w lemma="de" n="58-50-37" pos="P">de</w>
+        <w lemma="Whymper" n="58-50-38" pos="N_P">Whymper</w>
+        <w lemma=":" n="58-50-39" pos="PCT_W">:</w>
+      </s>
+      <s lang="fr" n="58-51">
+        <w lemma="marcher" n="58-51-1" pos="V">marcher</w>
+        <w lemma="non" n="58-51-2" pos="ADV">non</w>
+        <w lemma="seulement" n="58-51-3" pos="ADV">seulement</w>
+        <w lemma="avec" n="58-51-4" pos="P">avec</w>
+        <w lemma="son" n="58-51-5" pos="D_poss">leurs</w>
+        <w lemma="jambe" n="58-51-6" pos="N_C">jambes</w>
+        <w lemma="," n="58-51-7" pos="PCT_W">,</w>
+        <w lemma="mais" n="58-51-8" pos="C_C">mais</w>
+        <w lemma="surtout" n="58-51-9" pos="ADV">surtout</w>
+        <w lemma="avec" n="58-51-10" pos="P">avec</w>
+        <w lemma="son" n="58-51-11" pos="D_poss">leur</w>
+        <w lemma="intelligence" n="58-51-12" pos="N_C">intelligence</w>
+        <w lemma=";" n="58-51-13" pos="PCT_W">;</w>
+      </s>
+      <s lang="fr" n="58-52">
+        <w lemma="et" n="58-52-1" pos="C_C">et</w>
+        <w lemma="que" n="58-52-2" pos="C_S">que</w>
+        <w lemma="chacun" n="58-52-3" pos="PRO_ind">chacun</w>
+        <w lemma="," n="58-52-4" pos="PCT_W">,</w>
+        <w lemma="selon" n="58-52-5" pos="P">selon</w>
+        <w lemma="son" n="58-52-6" pos="D_poss">ses</w>
+        <w lemma="moyen" n="58-52-7" pos="N_C">moyens</w>
+        <w lemma="," n="58-52-8" pos="PCT_W">,</w>
+        <w lemma="exercer" n="58-52-9" pos="V">exerce</w>
+        <w lemma="son" n="58-52-10" pos="D_poss">son</w>
+        <w lemma="esprit" n="58-52-11" pos="N_C">esprit</w>
+        <w lemma="et" n="58-52-12" pos="C_C">et</w>
+        <w lemma="la|le" n="58-52-13" pos="CL_obj">l'</w>
+        <w lemma="employer" n="58-52-14" pos="V">emploie</w>
+        <w lemma="aussi" n="58-52-15" pos="ADV">aussi</w>
+        <w lemma="à" n="58-52-16" pos="P">à</w>
+        <w lemma="rechercher" n="58-52-17" pos="V">rechercher</w>
+        <w lemma="dans" n="58-52-18" pos="P">dans</w>
+        <w lemma="la|le" n="58-52-19" pos="D_def">l'</w>
+        <w lemma="alpinisme" n="58-52-20" pos="N_C">alpinisme</w>
+        <w lemma="le" n="58-52-21" pos="D_def">les</w>
+        <w lemma="trésor" n="58-52-22" pos="N_C">trésors</w>
+        <w lemma="artistique" n="58-52-23" pos="A_qual">artistiques</w>
+        <w lemma="et" n="58-52-24" pos="C_C">et</w>
+        <w lemma="scientifique" n="58-52-25" pos="A_qual">scientifiques</w>
+        <w lemma="," n="58-52-26" pos="PCT_W">,</w>
+        <w lemma="le" n="58-52-27" pos="D_def">les</w>
+        <w lemma="leçon" n="58-52-28" pos="N_C">leçons</w>
+        <w lemma="de" n="58-52-29" pos="P">de</w>
+        <w lemma="moral" n="58-52-30" pos="A_qual">morale</w>
+        <w lemma="et" n="58-52-31" pos="C_C">et</w>
+        <w lemma="de" n="58-52-32" pos="P">d'</w>
+        <w lemma="esthétique" n="58-52-33" pos="A_qual">esthétique</w>
+        <w lemma="que" n="58-52-34" pos="C_S">qu'</w>
+        <w lemma="il" n="58-52-35" pos="CL_suj">il</w>
+        <w lemma="offrir" n="58-52-36" pos="V">offre</w>
+        <w lemma="généreusement" n="58-52-37" pos="ADV">généreusement</w>
+        <w lemma="à" n="58-52-38" pos="P">à</w>
+        <w lemma="celui" n="58-52-39" pos="PRO_dem">ceux</w>
+        <w lemma="qui" n="58-52-40" pos="PRO_rel">qui</w>
+        <w lemma="le" n="58-52-41" pos="CL_obj">le</w>
+        <w lemma="pratiquer" n="58-52-42" pos="V">pratiquent</w>
+        <w lemma="avec" n="58-52-43" pos="P">avec</w>
+        <w lemma="passion" n="58-52-44" pos="N_C">passion</w>
+        <w lemma="et" n="58-52-45" pos="C_C">et</w>
+        <w lemma="désintéressement" n="58-52-46" pos="N_C">désintéressement</w>
+        <w lemma="." n="58-52-47" pos="PCT_S">.</w>
+      </s>
+    </div>
+    <div>
+      <s lang="fr" n="58-53">
+        <w lemma="«" n="58-53-1" pos="PCT_W">«</w>
+        <w lemma="dans" n="58-53-2" pos="P">Dans</w>
+        <w lemma="le" n="58-53-3" pos="D_def">les</w>
+        <w lemma="Alpes" n="58-53-4" pos="N_P">Alpes</w>
+        <w lemma="," n="58-53-5" pos="PCT_W">,</w>
+        <w lemma="il" n="58-53-6" pos="CL_suj">on</w>
+        <w lemma="ne" n="58-53-7" pos="ADV">ne</w>
+        <w lemma="devoir" n="58-53-8" pos="V">doit</w>
+        <w lemma="pas" n="58-53-9" pos="ADV">pas</w>
+        <w lemma="seulement" n="58-53-10" pos="ADV">seulement</w>
+        <w lemma="marcher" n="58-53-11" pos="V">marcher</w>
+        <w lemma="avec" n="58-53-12" pos="ADV">avec</w>
+        <w lemma="son" n="58-53-13" pos="D_poss">ses</w>
+        <w lemma="muscle" n="58-53-14" pos="N_C">muscles</w>
+        <w lemma="," n="58-53-15" pos="PCT_W">,</w>
+        <w lemma="mais" n="58-53-16" pos="C_C">mais</w>
+        <w lemma="par" n="58-53-17" pos="P">par</w>
+        <w lemma="dessus" n="58-53-18" pos="ADV">dessus</w>
+        <w lemma="tout" n="58-53-19" pos="ADV">tout</w>
+        <w lemma="avec" n="58-53-20" pos="P">avec</w>
+        <w lemma="son" n="58-53-21" pos="D_poss">son</w>
+        <w lemma="cerveau" n="58-53-22" pos="N_C">cerveau</w>
+        <w lemma="et" n="58-53-23" pos="C_C">et</w>
+        <w lemma="son" n="58-53-24" pos="D_poss">son</w>
+        <w lemma="cœur" n="58-53-25" pos="N_C">cœur</w>
+        <w lemma="." n="58-53-26" pos="PCT_S">.</w>
+        <w lemma="»" n="58-53-27" pos="PCT_W">»</w>
+      </s>
+      <s lang="fr" n="58-54">
+        <w lemma="(" n="58-54-1" pos="PCT_W">(</w>
+        <w lemma="extraire" n="58-54-2" pos="V">Extrait</w>
+        <w lemma="un" n="58-54-3" pos="D_ind">de</w>
+        <w lemma="unk" n="58-54-4" pos="N_C">'</w>
+        <w lemma="en" n="58-54-5" pos="P">En</w>
+        <w lemma="Montagne" n="58-54-6" pos="N_P">Montagne</w>
+        <w lemma="»" n="58-54-7" pos="PCT_W">»</w>
+        <w lemma="." n="58-54-8" pos="PCT_S">.</w>
+        <w lemma=")" n="58-54-9" pos="PCT_W">)</w>
+        <pb facs="350" n="281" />
+      </s>
+    </div>
+  </article>
+  </book>
